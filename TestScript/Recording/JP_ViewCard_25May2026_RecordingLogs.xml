@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="708" it="0" lt="0" ct="483" ts="1779701801824" s="true" lb="/296x160/smart/filters:format(webp):quality(75):no_upscale():strip_exif()/https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Fpocket-curatedcorpusapi-prod-images%2F30596dab-c594-461e-909b-d4ae24b920cb.webp-38" rc="304" rm="Not Modified" tn="" dt="" de="" by="220" sc="1" ec="0" ng="0" na="0" hn="R36001WL0307">
+  <responseHeader class="java.lang.String">HTTP/1.1 304 Not Modified
+Date: Sun, 24 May 2026 21:33:30 GMT
+Age: 43392
+ETag: &quot;0286a78a393ee7e6977afe8d95e0b8e13bbcf014&quot;
+Cache-Control: max-age=3600,s-maxage=3600,public,public
+Alt-Svc: clear
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: cors
+If-None-Match: &quot;0286a78a393ee7e6977afe8d95e0b8e13bbcf014&quot;
+Sec-Fetch-Site: cross-site
+Accept-Language: en-US,en;q=0.9
+Origin: null
+Priority: u=5, i
+Accept: image/avif,image/webp,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5
+Host: img-getpocket.cdn.mozilla.net
+Accept-Encoding: gzip, deflate, br, zstd
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+Sec-Fetch-Dest: image
+</requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://img-getpocket.cdn.mozilla.net/296x160/smart/filters:format(webp):quality(75):no_upscale():strip_exif()/https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Fpocket-curatedcorpusapi-prod-images%2F30596dab-c594-461e-909b-d4ae24b920cb.webp</java.net.URL>
+</httpSample>
+<httpSample t="417" it="0" lt="0" ct="341" ts="1779701809588" s="true" lb="J/favicons/e6df937e99ab76f0aa140b0bf2ef8cbb926724bae94318033134ae41cede818e_1320.oct-43" rc="304" rm="Not Modified" tn="" dt="" de="" by="235" sc="1" ec="0" ng="0" na="0" hn="R36001WL0307">
+  <responseHeader class="java.lang.String">HTTP/1.1 304 Not Modified
+Date: Mon, 25 May 2026 09:17:13 GMT
+Age: 1176
+ETag: &quot;b26f3c76d7757888084f1f4c33749114&quot;
+Cache-Control: public,max-age=3600
+Strict-Transport-Security: max-age=31536000
+Alt-Svc: clear
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: no-cors
+If-None-Match: &quot;b26f3c76d7757888084f1f4c33749114&quot;
+Sec-Fetch-Site: cross-site
+Accept-Language: en-US,en;q=0.9
+Priority: u=5, i
+Accept: image/avif,image/webp,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5
+If-Modified-Since: Tue, 19 May 2026 05:59:41 GMT
+Host: prod-images.merino.prod.webservices.mozgcp.net
+Accept-Encoding: gzip, deflate, br, zstd
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+Sec-Fetch-Dest: image
+</requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://prod-images.merino.prod.webservices.mozgcp.net/favicons/e6df937e99ab76f0aa140b0bf2ef8cbb926724bae94318033134ae41cede818e_1320.oct</java.net.URL>
+</httpSample>
+<httpSample t="347" it="0" lt="0" ct="242" ts="1779701816689" s="true" lb="JP02_TC01_HOmePage_Launch/favicons/8d3df1e947c3b44cafb0fb4887d58fc7f1b3f10c10d593d5bedf17e311d05561_309614.oct-51" rc="304" rm="Not Modified" tn="" dt="" de="" by="234" sc="1" ec="0" ng="0" na="0" hn="R36001WL0307">
+  <responseHeader class="java.lang.String">HTTP/1.1 304 Not Modified
+Date: Mon, 25 May 2026 09:29:05 GMT
+Age: 471
+ETag: &quot;9bef3b7e1b699e45ebe5a071b4f3a7c2&quot;
+Cache-Control: public,max-age=3600
+Strict-Transport-Security: max-age=31536000
+Alt-Svc: clear
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: no-cors
+If-None-Match: &quot;9bef3b7e1b699e45ebe5a071b4f3a7c2&quot;
+Sec-Fetch-Site: cross-site
+Accept-Language: en-US,en;q=0.9
+Priority: u=5
+Accept: image/avif,image/webp,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5
+If-Modified-Since: Wed, 01 Apr 2026 19:08:26 GMT
+Host: prod-images.merino.prod.webservices.mozgcp.net
+Accept-Encoding: gzip, deflate, br, zstd
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+Sec-Fetch-Dest: image
+</requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://prod-images.merino.prod.webservices.mozgcp.net/favicons/8d3df1e947c3b44cafb0fb4887d58fc7f1b3f10c10d593d5bedf17e311d05561_309614.oct</java.net.URL>
+</httpSample>
+<httpSample t="480" it="0" lt="479" ct="261" ts="1779701818740" s="false" lb="JP02_TC01_HOmePage_Launch/complete/search-53" rc="200" rm="An established connection was aborted by the software in your host machine" tn="" dt="text" de="UTF-8" by="6488" sc="1" ec="1" ng="0" na="0" hn="R36001WL0307">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 25 May 2026 09:36:59 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Strict-Transport-Security: max-age=31536000
+Content-Security-Policy: object-src &apos;none&apos;;base-uri &apos;self&apos;;script-src &apos;nonce-NsHdUn1HaI5VMqExVn022Q&apos; &apos;strict-dynamic&apos; &apos;report-sample&apos; &apos;unsafe-eval&apos; &apos;unsafe-inline&apos; https: http:;report-uri https://csp.withgoogle.com/csp/gws/fff
+Cross-Origin-Opener-Policy: same-origin-allow-popups; report-to=&quot;gws&quot;
+Report-To: {&quot;group&quot;:&quot;gws&quot;,&quot;max_age&quot;:2592000,&quot;endpoints&quot;:[{&quot;url&quot;:&quot;https://csp.withgoogle.com/csp/report-to/gws/fff&quot;}]}
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+Content-Disposition: attachment; filename=&quot;f.txt&quot;
+Server: gws
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Transfer-Encoding: chunked
+Alt-Svc: h3=&quot;:443&quot;; ma=2592000,h3-29=&quot;:443&quot;; ma=2592000
+Connection: close
+Content-Encoding: br
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.9
+Host: www.google.com
+Accept-Encoding: gzip, deflate, br, zstd
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+Accept: */*
+</requestHeader>
+  <responseData class="java.lang.String">[&quot;&quot;,[&quot;netflix berlin season 2&quot;,&quot;instagram instants feature&quot;,&quot;air india&quot;,&quot;hal share price&quot;,&quot;el nino forecast&quot;,&quot;teer shillong teer results&quot;,&quot;kartavya movie&quot;,&quot;indigo response viral washroom post&quot;,&quot;chse odisha 12th result 2026 date&quot;,&quot;france fifa world cup&quot;],[],{&quot;google:fieldtrialtriggered&quot;:true,&quot;google:headertexts&quot;:{&quot;a&quot;:{&quot;8&quot;:&quot;Trending searches&quot;}},&quot;google:suggestdetail&quot;:[{&quot;zl&quot;:8},{&quot;zl&quot;:8},{&quot;zl&quot;:8},{&quot;zl&quot;:8},{&quot;zl&quot;:8},{&quot;zl&quot;:8},{&quot;a&quot;:&quot;Kartavya \u2014 1979 film&quot;,&quot;dc&quot;:&quot;#92713a&quot;,&quot;i&quot;:&quot;data:image/jpeg;base64,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\u003d\u003d&quot;,&quot;q&quot;:&quot;gs_ssp\u003deJzj4tTP1TdIMUtJMTVg9OLLTiwqSSyrTFTIzS_LTAUAcH8I0g&quot;,&quot;t&quot;:&quot;kartavya movie&quot;,&quot;zl&quot;:8},{&quot;zl&quot;:8},{&quot;zl&quot;:8},{&quot;zl&quot;:8}],&quot;google:suggestsubtypes&quot;:[[3,143,362,395],[3,143,362,395],[3,143,362,395],[3,143,362,395],[3,143,362,395],[3,143,362,395],[3,143,362,395,420,424],[3,143,362,395],[3,143,362,395],[3,143,362,395]]}]</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://www.google.com/complete/search?client=firefox&amp;channel=ftr&amp;q=</java.net.URL>
+</httpSample>
+<httpSample t="655" it="0" lt="655" ct="341" ts="1779701819534" s="true" lb="JP02_TC01_HOmePage_Launch/submit/firefox-desktop/newtab/1/a75e2f81-6168-414c-8266-884b5617fbb7-55" rc="200" rm="OK" tn="" dt="text" de="utf-8" by="726" sc="1" ec="0" ng="0" na="0" hn="R36001WL0307">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: openresty
+Date: Mon, 25 May 2026 09:37:00 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: DENY
+Access-Control-Allow-Methods: GET, POST, PUT, OPTIONS
+Access-Control-Max-Age: 1728000
+Access-Control-Allow-Headers: Accept-Encoding,Connection,Content-Encoding,Content-Length,Content-Type,DNT,Date,Sec-Fetch-Dest,Sec-Fetch-Mode,Sec-Fetch-Site,User-Agent,X-Client-Type,X-Client-Version,X-Debug-ID,X-Forwarded-For,X-Pingsender-Version,X-Pipeline-Proxy,X-Source-Tags,X-Telemetry-Agent
+Via: 1.1 google
+Alt-Svc: clear
+Connection: close
+Transfer-Encoding: chunked
+Content-Encoding: gzip
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+date: Mon, 25 May 2026 09:36:59 GMT
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Accept-Language: en-US,en;q=0.9
+content-encoding: gzip
+Priority: u=4
+Accept: */*
+x-telemetry-agent: Glean/67.1.0 (Rust on Windows)
+Host: incoming.telemetry.mozilla.org
+content-type: application/json; charset=utf-8
+Accept-Encoding: gzip, deflate, br, zstd
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+Sec-Fetch-Dest: empty
+Content-Length: 4161
+</requestHeader>
+  <responseData class="java.lang.String"></responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">&#x1f;�&#x8;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;��Y[o�8&#x16;�/z���Ųl�u&#x7;&#x3;l��&gt;L�hg��@��͍$�$��&#x13;��G�b;�k�q&#x17;HkX���;�9�&#x1f;�FԫTԅ�����߽e&#x18;�x�PeR#*�-��&#xf;gďI&#x18;&#x7f;
+��i��g&#x13;��&#x7f;��e�{7&#x1e;�١��ҟ-��d:&#xb;ǭ�S-kl����Y���B�)DXA&#xf;&#xd;W&#x10;T&#x1b;m��5�JN�ژ�&#x14;R��*MrYUm-rj�&amp;�&amp;��&#x10;��+��u���\�F��	5��5�i�����V&#x13;,��5��&#x13;��&#x18;I&#x18;/h[&#x1a;�j&#x5;�&#x18;NjiD�k&quot;+Q�NC��&#x14;p�WA`�Ja8&#xc;�У	�&#x19;)E%&#xc;i5�,��u3Z���&#x17;p�;��!z-��[���H�Bx������y����5�&#x1a;�m&#xc;��W�p&#x1b;&#xc;���;�&lt;�BBjRpjZ���&#x14;B�B&gt;���m3�#+EYK˃�&#x18; �X&#x4;�����`�`xl�D�&#x7;�!&#x11;at�/�}:_+&quot;�&gt;�,�m���̦&#x1d;��}�&#x1a;}ХW�eB��)���&#x1b;�&#x1b;�&#x13;[�$�&#xc;��\x)!�pU��,��
+q&#x5;�R�ެ!_�&#x1a;���g�&#x14;6�g�	H��&#x15;H&#x10;&#x7;�&#x15;�G�&lt;&#xc;�E&#x10;���˜&#x4;�Ş��³\@,H���&#x16;�.76&#x1;���L�,5i�����&#x1f;(�RD˒�2�%ׇt���%l��ءV&#x1c;����Ǡ&amp;�y*�lIG���XpB*=�&#x1c;Q�LJ&#x6;xU�\&#x10;�;T�Z&#x1c;Ą�U�&#x19;�w&#x17;�M݀��[&#x1c;�Q=�2�T%�&#x6;&#x3;8O,�!�����&#x17;&amp;_;]�#&#x15;�&#x14;]q�k��1����R�y�D�9U���7+)W���훗&#x10;&#x1;�� �&#x16;&#x1b;��y��05&#x18;l2(Ԋ&#x1b;��廁�{v w��5?�܆F�;��z/jt&amp;��&#x13;
+����ٴw�_i�]_7��d-�v�~��J:y�%;C�g쐣�R�B�G��NI���&#xe;�&#x6;�ܡ�o�6n���L·v&#x5;����E���v��-�\6�3�ڃ#W�	�b����R�iBf��K�n�&lt;&lt;�9&#x11;NB�ƙ�FA,-k�0�um\&#x1e;�Џ&#x19;u�~��&#x7;Pi.[;:�,�������B&#x6;���Y�0[*=�&#x1;���a�&#x1e;
+�,��z�&#x19;&#x1d;�n�6;O7&#x15;#�&#x1a;&#x10;(pUa4�+�Tw�&#x1e;�&#x6;@f�����M��m��0e^��&#x1b;V`��1S��W�S���@K|a#?_�u&#xf;�E&#x19;�&gt;��-�&amp;��&lt;P��K78䀊Ѿe�I&#x14;&quot;�{D$;��p�+&#x4;�J&#x1b;���N���i����&#x0;6��t�v?4F�&#x1b;�&#xc;����Fq�#&#x2;&#xe;Xk7 &#xe;��8&#x1b;���7}��%%&#x6;73&#x1e;��F�jv�f�(&#x19;ޜ%�`b&#xf;��n�0&#xc;�Y�&#x15;ྂ&#x16;dZ�9��dA��&#x12;&#x7f;Q̓,�i&#x4;�i���N-&apos;�&#x7;�)�g�Y��&#x19;փE�&#x13;?��&apos;�_��_����5_�&#x19;��m�q�k�Y�����&#x19;-v3}�ς�&#x1f;��g&#xf;&#x14;v�v�B��&#x11;&#xf;�&#x1c;�t�ݹ�{������`�iJ�Iq�Ю�zA�O��&#x15;$&#x11;n�sg�����wQ�&quot;�F5x�&amp;��67(&#x19;%�v��5u7&#x19;��&#x1b;�A��&#x1f;�&#x7f;�&#x3;	&#x10;�Kk��X?z�l5&#x19;�3�	!���t	��0��&#x11;%~�&#x7;d�&#x8;fd����Ȓ�e�Y2�E�B�nR�&#x11;�&#xb;&#x16;Ĥ���L9&#x4;e�yNh&#x11;&#x5;�b�&#x19;㞭&lt;X�ۜ&#x12;&#x1e;9O�&#x1d;�$C�o9KQ5��
+&#x1e;���6&#x6;)�)����q��z%j&gt;�&#x1;&lt;�&#x8;�&#x12;��:�6�Y&#xb;��&#x6;�&#x7;+&#x16;�����{�,v�{�5�Lz��iF⨢ӡ�,�j�=�4��&apos;Ǟo%&lt;�ѻ&gt;&#x1a;��ث?��=�i��&#x11;�k�Z��gvluN��?&#x1e;O��N0�v9�&#x6;{���f&#x4;���\2���&amp;�1fő��/��&#x3;�&#x4;�&#xc;&#x5;�y���o��O�����!}��ӿ�R֘?mwNqG�W�N�;]��4H&gt;��0
+����Cr4&#x18;���&#x3;Q&#x17;�#R�cg+�{Kk#�k�#z�%�ep&#x10;O��u&#x1b;�B��E�&#x1c;�s5�{O��&#x17;p���&#x4;���_�q��]��_��&#x2;�&quot;e�&#x13;#p��&#x7;�{�ѹe&apos;5i&#x1e;����Wo��[G�q&#xf;&#x7;&#x16;l$,&#x0;e}�&#x1e;l&#x1f;&#x17;T�iwˊ��-˧��ʀ�&#x6;�z����j�=uG�����/D	�&#x14;L�&#x15;n��&#x8;v�ӡɢ��Z��z&#x7f;��Z
+&#x1a;���ۊ�&#x1d;�O�(�YO����gE��IBx�&#x13;2���-���9X��i&#x1e;G��i�T��{����A4�a��Y�;6{A���&#x5;�&quot;
+b�d�l�&#x1d;�ң&#x19;Z���&#x2;N�&#x1a;F{�&#xe;P�z+�Fu��{��&#x1b;Λ_��������_&gt;����q��/�=wU Pp�(&#xf;m��\��&#x7;_m�&#x13;:&#x1d;A�&#x6;���r-q�u�G�[���[B~���v�&#xd;��	ap0&#x14;�Z���,&#x1c;&#xe;�����&#xd;���3\�k�&#x5;z&#x1b;&#xb;f�õ��&amp;�!@ϼ&#x1b;&#x14;��-&lt;&#x3;d/\�^���:�N&#x1a;&#x13;&#x1f;w�PD����\��-�)�|&#x5;�N&#x5;�J.�&#x7f;|&lt;����ώ&#x5;��&#x2;�m�x��ɱp�p9�s�&#x1b;�_&#x1;��a��.~&#x8;�0E�h�&#x1f;�� 8M06=�����Q��ږ���&apos;\.T��
+&#x5cd;m�,;/ܐ���&#x7f;�&lt;�J���&#xd;~�O��w29Ϛ��J�b��t^/&lt;&#x13;&#x1c;�U�K|�&#x8;qȡ��N��&#x17;�S���Y�G?&lt;Y���&apos;��:��b&#x1a;Oߖ�oO�&#x3;j`��Q#&#x0;&#x0;</queryString>
+  <java.net.URL>https://incoming.telemetry.mozilla.org/submit/firefox-desktop/newtab/1/a75e2f81-6168-414c-8266-884b5617fbb7</java.net.URL>
+</httpSample>
+<httpSample t="724" it="0" lt="723" ct="363" ts="1779701824924" s="false" lb="JP02_TC01_HOmePage_Launch/-56" rc="400" rm="Bad Request" tn="" dt="text" de="utf-8" by="224" sc="1" ec="1" ng="0" na="0" hn="R36001WL0307">
+  <responseHeader class="java.lang.String">HTTP/1.1 400 Bad Request
+Connection: close
+Content-Length: 12
+Content-Type: text/plain; charset=utf-8
+X-Content-Type-Options: nosniff
+Cache-Control: private, no-store
+Date: Mon, 25 May 2026 09:37:05 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Accept-Language: en-US,en;q=0.9
+Priority: u=4
+Accept: */*
+Host: mozilla-ohttp.fastly-edge.com
+content-type: message/ohttp-req
+Accept-Encoding: gzip, deflate, br, zstd
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+Sec-Fetch-Dest: empty
+Content-Length: 1607
+</requestHeader>
+  <responseData class="java.lang.String">Bad Request
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">�&#x0; &#x0;&#x1;&#x0;&#x1;�
+�&#x18;N)&#x1f;&#x10;��&#x3;��&#x1d;�:����&#x0;��~�1Y&#x0;&#xe;�^5�9�M��?�b��C6!�&lt;�T��&#x10;Ó���&#x1a;&#x0;S��Y�i&#x98;���1�;0z�֩8��˧&#x16;��k�j�o�L�#&#xc;���O8 9Hf%�1~e�j֗�}�01&lt;&#x3;�W{�e��ܳ2&lt;���&#x17;�&apos;.Lnk&#x8;�G�&#x10;�~Y�y�{��\@�f&#xb;y���&#x3;s�t�%ړ�N��&#x16;~Hj��5&#x15;+&#x7f;��&#x0;&#x17;�M{2$X�ߣ���*&amp;�&#x19;aI3�}�&#x4;����8k]N&#x2;���`&gt;E�z��KIχ��&quot;�h�Y��&#x12;��$�����Df&#x1c;),B^�&#x3;�&gt;&#xc;
+�A	W0&#x5;k&#x14;zK�B{|�5@�}x͠�*&#x7f;��&#x13;�Y�Ɋ9ݑR&#xc;ǣN_�A�&#x16;���X+�a�&gt;�
+�N�&#x1d;6�&#x16;���&gt;�t���6d����4&#xe;/f߿��	�+�7��y`5Ӡ����n&#x8;&#x5;����5J�ǹ�&#x19;&#x5;��&gt;6�9$���͛����I�Jе�{G�s��f_�ZHUퟐ&#xf;�K&quot;�ě�]/0|H�,B��ݿ�&#x1b;7&#x1a;��aI���&#x18;#�S&#x5;���&#x16;�0-�c�&#xf;N��
+�-XQD~�&#x17;-��ZA�g.�&#x15;�\�3�ݴ#D��&quot;�Xn&#x1f;|�&#x12;�&#x1e;����TE�&#x7f;a���0&#x6;+&#x7;�&#x3;�+�F����k�ܜP5��&#x2;�r&#xd;&quot;u#��&#x6;�RP�&#x4;������%&#xf;3zL�B�P���¢I��Q�&apos;����&#x7;9\Gȍ�#�J��_� �47{.-���@ɑ j��&#x11;�]h�@&lt;�F���_��![%h&#x0;�&#x10;&#x7f;&#xd;3:=&#xf;���j��H�~���%�&#x6;�6ؘ�d�9�!:;͛l?S��x	���M5W&#x13;�^��R�&#x5;�5	&#x3;&#x10;L��O�&#x1c;�C����&#x19;򜼼��bK&#x6;��n&#xf;&#x10;3&#x15;�yE��px��[���&#x4;F-QB��J�Lß/j�&#x1e;�@��_�F��nܡ#&#x4;V�[�
+e���G�5���S�&#x6;m�!I�!7ƨ�%v� b
+��&#x6;�&#x8;p��5F85s4tqMs��\&#x5;3g�����aT|
+�Qw�T*d&#x1c;�&#x7f;&#x7;�&#x7;�x���O:^B�I8]I�</queryString>
+  <java.net.URL>https://mozilla-ohttp.fastly-edge.com/</java.net.URL>
+</httpSample>
+<httpSample t="1075" it="0" lt="1075" ct="880" ts="1779701839917" s="true" lb="JP02_TC02_Click_EnterTheStore/actions/Catalog.action-57" rc="200" rm="" tn="" dt="text" de="UTF-8" by="4981" sc="1" ec="0" ng="0" na="0" hn="R36001WL0307">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 
+Date: Mon, 25 May 2026 09:37:20 GMT
+Content-Type: text/html;charset=UTF-8
+Content-Length: 4749
+Connection: close
+Content-Language: en-US
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: navigate
+Referer: https://petstore.octoperf.com/
+Sec-Fetch-Site: same-origin
+Accept-Language: en-US,en;q=0.9
+Sec-Fetch-User: ?1
+Priority: u=0, i
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Host: petstore.octoperf.com
+Upgrade-Insecure-Requests: 1
+Accept-Encoding: gzip, deflate, br, zstd
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+Sec-Fetch-Dest: document
+</requestHeader>
+  <responseData class="java.lang.String">
+
+
+
+
+
+
+&lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD XHTML 1.0 Transitional//EN&quot;
+&quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&quot;&gt;
+
+&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot;&gt;
+
+&lt;head&gt;
+&lt;link rel=&quot;StyleSheet&quot; href=&quot;../css/jpetstore.css&quot; type=&quot;text/css&quot;
+	media=&quot;screen&quot; /&gt;
+
+&lt;meta name=&quot;generator&quot;
+	content=&quot;HTML Tidy for Linux/x86 (vers 1st November 2002), see www.w3.org&quot; /&gt;
+&lt;title&gt;JPetStore Demo&lt;/title&gt;
+&lt;meta content=&quot;text/html; charset=windows-1252&quot;
+	http-equiv=&quot;Content-Type&quot; /&gt;
+&lt;meta http-equiv=&quot;Cache-Control&quot; content=&quot;max-age=0&quot; /&gt;
+&lt;meta http-equiv=&quot;Cache-Control&quot; content=&quot;no-cache&quot; /&gt;
+&lt;meta http-equiv=&quot;expires&quot; content=&quot;0&quot; /&gt;
+&lt;meta http-equiv=&quot;Expires&quot; content=&quot;Tue, 01 Jan 1980 1:00:00 GMT&quot; /&gt;
+&lt;meta http-equiv=&quot;Pragma&quot; content=&quot;no-cache&quot; /&gt;
+&lt;/head&gt;
+
+&lt;body&gt;
+
+&lt;div id=&quot;Header&quot;&gt;
+
+&lt;div id=&quot;Logo&quot;&gt;
+&lt;div id=&quot;LogoContent&quot;&gt;
+&amp;nbsp;
+&lt;a href=&quot;/actions/Catalog.action&quot;&gt;&lt;img src=&quot;../images/logo-topbar.svg&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Menu&quot;&gt;
+&lt;div id=&quot;MenuContent&quot;&gt;&lt;a href=&quot;/actions/Cart.action?viewCart=&quot;&gt;&lt;img align=&quot;middle&quot; name=&quot;img_cart&quot; src=&quot;../images/cart.gif&quot; /&gt;&lt;/a&gt; &lt;img align=&quot;middle&quot; src=&quot;../images/separator.gif&quot; /&gt; 
+	&lt;a href=&quot;/actions/Account.action?signonForm=&quot;&gt;Sign In&lt;/a&gt;
+   &lt;img align=&quot;middle&quot; src=&quot;../images/separator.gif&quot; /&gt; &lt;a
+	href=&quot;../help.html&quot;&gt;?&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Search&quot;&gt;
+&lt;div id=&quot;SearchContent&quot;&gt;&lt;form method=&quot;post&quot; action=&quot;/actions/Catalog.action&quot;&gt;
+	&lt;input size=&quot;14&quot; name=&quot;keyword&quot; type=&quot;text&quot; value=&quot;fish&quot; /&gt;
+	&lt;input name=&quot;searchProducts&quot; type=&quot;submit&quot; value=&quot;Search&quot; /&gt;
+&lt;div style=&quot;display: none;&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;_sourcePage&quot; value=&quot;Sd9J1goEhWcpXEoeqlsIs__Nkokh5GO1rGpvVhaZ1P7Ads2fj1WJj_Ux_qW67t1YleyTwYnAeTLvbz77v1ZVgiWBSH6IDflz&quot; /&gt;&lt;input type=&quot;hidden&quot; name=&quot;__fp&quot; value=&quot;-8cp4S4fEC-DDTg7Advas0c1dR9ehCAk9Yc2LE3Ovt0v0Yw3F-G4agA7kPdeAfLK&quot; /&gt;&lt;/div&gt;&lt;/form&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;QuickLinks&quot;&gt;&lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=FISH&quot;&gt;&lt;img src=&quot;../images/sm_fish.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=DOGS&quot;&gt;&lt;img src=&quot;../images/sm_dogs.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=REPTILES&quot;&gt;&lt;img src=&quot;../images/sm_reptiles.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=CATS&quot;&gt;&lt;img src=&quot;../images/sm_cats.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=BIRDS&quot;&gt;&lt;img src=&quot;../images/sm_birds.gif&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div id=&quot;Content&quot;&gt;
+
+
+&lt;div id=&quot;Welcome&quot;&gt;
+&lt;div id=&quot;WelcomeContent&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Main&quot;&gt;
+&lt;div id=&quot;Sidebar&quot;&gt;
+&lt;div id=&quot;SidebarContent&quot;&gt;&lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=FISH&quot;&gt;&lt;img src=&quot;../images/fish_icon.gif&quot; /&gt;&lt;/a&gt; &lt;br /&gt;
+Saltwater, Freshwater &lt;br /&gt;
+&lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=DOGS&quot;&gt;&lt;img src=&quot;../images/dogs_icon.gif&quot; /&gt;&lt;/a&gt; &lt;br /&gt;
+Various Breeds &lt;br /&gt;
+&lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=CATS&quot;&gt;&lt;img src=&quot;../images/cats_icon.gif&quot; /&gt;&lt;/a&gt; &lt;br /&gt;
+Various Breeds, Exotic Varieties &lt;br /&gt;
+&lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=REPTILES&quot;&gt;&lt;img src=&quot;../images/reptiles_icon.gif&quot; /&gt;&lt;/a&gt; &lt;br /&gt;
+Lizards, Turtles, Snakes &lt;br /&gt;
+&lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=BIRDS&quot;&gt;&lt;img src=&quot;../images/birds_icon.gif&quot; /&gt;&lt;/a&gt; &lt;br /&gt;
+Exotic Varieties&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;MainImage&quot;&gt;
+&lt;div id=&quot;MainImageContent&quot;&gt;
+  &lt;map name=&quot;estoremap&quot;&gt;
+	&lt;area alt=&quot;Birds&quot; coords=&quot;72,2,280,250&quot;
+		href=&quot;Catalog.action?viewCategory=&amp;categoryId=BIRDS&quot; shape=&quot;RECT&quot; /&gt;
+	&lt;area alt=&quot;Fish&quot; coords=&quot;2,180,72,250&quot;
+		href=&quot;Catalog.action?viewCategory=&amp;categoryId=FISH&quot; shape=&quot;RECT&quot; /&gt;
+	&lt;area alt=&quot;Dogs&quot; coords=&quot;60,250,130,320&quot;
+		href=&quot;Catalog.action?viewCategory=&amp;categoryId=DOGS&quot; shape=&quot;RECT&quot; /&gt;
+	&lt;area alt=&quot;Reptiles&quot; coords=&quot;140,270,210,340&quot;
+		href=&quot;Catalog.action?viewCategory=&amp;categoryId=REPTILES&quot; shape=&quot;RECT&quot; /&gt;
+	&lt;area alt=&quot;Cats&quot; coords=&quot;225,240,295,310&quot;
+		href=&quot;Catalog.action?viewCategory=&amp;categoryId=CATS&quot; shape=&quot;RECT&quot; /&gt;
+	&lt;area alt=&quot;Birds&quot; coords=&quot;280,180,350,250&quot;
+		href=&quot;Catalog.action?viewCategory=&amp;categoryId=BIRDS&quot; shape=&quot;RECT&quot; /&gt;
+  &lt;/map&gt;
+  &lt;img height=&quot;355&quot; src=&quot;../images/splash.gif&quot; align=&quot;middle&quot;
+	usemap=&quot;#estoremap&quot; width=&quot;350&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Separator&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;/div&gt;
+
+&lt;div id=&quot;CTA&quot;&gt;
+Elevate you load-testing with &lt;a href=&quot;https://octoperf.com&quot;&gt;OctoPerf&lt;/a&gt;!
+&lt;/div&gt;
+
+&lt;div id=&quot;Footer&quot;&gt;
+
+&lt;div id=&quot;PoweredBy&quot;&gt;
+&amp;nbsp;&amp;nbsp;Hosted by &lt;a href=&quot;https://octoperf.com&quot; target=&quot;_blank&quot;&gt;https://octoperf.com&lt;/a&gt;&amp;nbsp;|&amp;nbsp;Powered by &lt;a href=&quot;https://mybatis.org/&quot; target=&quot;_blank&quot;&gt;www.mybatis.org&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Banner&quot;&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+
+
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String">JSESSIONID=FBAEF459EE3D12E0BBF243058232AB9F</cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://petstore.octoperf.com/actions/Catalog.action</java.net.URL>
+</httpSample>
+<httpSample t="813" it="0" lt="813" ct="612" ts="1779701864642" s="true" lb="JP02_TC03_Select_Product/actions/Catalog.action-58" rc="200" rm="" tn="" dt="text" de="UTF-8" by="3936" sc="1" ec="0" ng="0" na="0" hn="R36001WL0307">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 
+Date: Mon, 25 May 2026 09:37:45 GMT
+Content-Type: text/html;charset=UTF-8
+Content-Length: 3704
+Connection: close
+Content-Language: en-US
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: navigate
+Referer: https://petstore.octoperf.com/actions/Catalog.action
+Sec-Fetch-Site: same-origin
+Accept-Language: en-US,en;q=0.9
+Sec-Fetch-User: ?1
+Priority: u=0, i
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Host: petstore.octoperf.com
+Upgrade-Insecure-Requests: 1
+Accept-Encoding: gzip, deflate, br, zstd
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+Sec-Fetch-Dest: document
+</requestHeader>
+  <responseData class="java.lang.String">
+
+
+
+
+
+
+&lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD XHTML 1.0 Transitional//EN&quot;
+&quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&quot;&gt;
+
+&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot;&gt;
+
+&lt;head&gt;
+&lt;link rel=&quot;StyleSheet&quot; href=&quot;../css/jpetstore.css&quot; type=&quot;text/css&quot;
+	media=&quot;screen&quot; /&gt;
+
+&lt;meta name=&quot;generator&quot;
+	content=&quot;HTML Tidy for Linux/x86 (vers 1st November 2002), see www.w3.org&quot; /&gt;
+&lt;title&gt;JPetStore Demo&lt;/title&gt;
+&lt;meta content=&quot;text/html; charset=windows-1252&quot;
+	http-equiv=&quot;Content-Type&quot; /&gt;
+&lt;meta http-equiv=&quot;Cache-Control&quot; content=&quot;max-age=0&quot; /&gt;
+&lt;meta http-equiv=&quot;Cache-Control&quot; content=&quot;no-cache&quot; /&gt;
+&lt;meta http-equiv=&quot;expires&quot; content=&quot;0&quot; /&gt;
+&lt;meta http-equiv=&quot;Expires&quot; content=&quot;Tue, 01 Jan 1980 1:00:00 GMT&quot; /&gt;
+&lt;meta http-equiv=&quot;Pragma&quot; content=&quot;no-cache&quot; /&gt;
+&lt;/head&gt;
+
+&lt;body&gt;
+
+&lt;div id=&quot;Header&quot;&gt;
+
+&lt;div id=&quot;Logo&quot;&gt;
+&lt;div id=&quot;LogoContent&quot;&gt;
+&amp;nbsp;
+&lt;a href=&quot;/actions/Catalog.action&quot;&gt;&lt;img src=&quot;../images/logo-topbar.svg&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Menu&quot;&gt;
+&lt;div id=&quot;MenuContent&quot;&gt;&lt;a href=&quot;/actions/Cart.action?viewCart=&quot;&gt;&lt;img align=&quot;middle&quot; name=&quot;img_cart&quot; src=&quot;../images/cart.gif&quot; /&gt;&lt;/a&gt; &lt;img align=&quot;middle&quot; src=&quot;../images/separator.gif&quot; /&gt; 
+	&lt;a href=&quot;/actions/Account.action?signonForm=&quot;&gt;Sign In&lt;/a&gt;
+   &lt;img align=&quot;middle&quot; src=&quot;../images/separator.gif&quot; /&gt; &lt;a
+	href=&quot;../help.html&quot;&gt;?&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Search&quot;&gt;
+&lt;div id=&quot;SearchContent&quot;&gt;&lt;form method=&quot;post&quot; action=&quot;/actions/Catalog.action&quot;&gt;
+	&lt;input size=&quot;14&quot; name=&quot;keyword&quot; type=&quot;text&quot; value=&quot;fish&quot; /&gt;
+	&lt;input name=&quot;searchProducts&quot; type=&quot;submit&quot; value=&quot;Search&quot; /&gt;
+&lt;div style=&quot;display: none;&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;_sourcePage&quot; value=&quot;tzf-3Acn8UfmwZE51nYgPYFxw05JW068jkCir4EutCCTfyEbToS5zzLdb5kwu5ktP5Cv_ceho_tqdQf0OuhEJhNkZdKC5qk1Hv7IMbVPIvw=&quot; /&gt;&lt;input type=&quot;hidden&quot; name=&quot;__fp&quot; value=&quot;CRVbu-YCIJr_be1KcRkeC2EN9_1oCoPQ5NF665gFsy97egJtJtbmlVZPisjpg8n1&quot; /&gt;&lt;/div&gt;&lt;/form&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;QuickLinks&quot;&gt;&lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=FISH&quot;&gt;&lt;img src=&quot;../images/sm_fish.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=DOGS&quot;&gt;&lt;img src=&quot;../images/sm_dogs.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=REPTILES&quot;&gt;&lt;img src=&quot;../images/sm_reptiles.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=CATS&quot;&gt;&lt;img src=&quot;../images/sm_cats.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=BIRDS&quot;&gt;&lt;img src=&quot;../images/sm_birds.gif&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div id=&quot;Content&quot;&gt;
+
+
+&lt;div id=&quot;BackLink&quot;&gt;&lt;a href=&quot;/actions/Catalog.action&quot;&gt;Return to Main Menu&lt;/a&gt;&lt;/div&gt;
+
+&lt;div id=&quot;Catalog&quot;&gt;
+
+&lt;h2&gt;Fish&lt;/h2&gt;
+
+&lt;table&gt;
+	&lt;tr&gt;
+		&lt;th&gt;Product ID&lt;/th&gt;
+		&lt;th&gt;Name&lt;/th&gt;
+	&lt;/tr&gt;
+	
+		&lt;tr&gt;
+			&lt;td&gt;&lt;a href=&quot;/actions/Catalog.action?viewProduct=&amp;amp;productId=FI-SW-01&quot;&gt;FI-SW-01&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;Angelfish&lt;/td&gt;
+		&lt;/tr&gt;
+	
+		&lt;tr&gt;
+			&lt;td&gt;&lt;a href=&quot;/actions/Catalog.action?viewProduct=&amp;amp;productId=FI-SW-02&quot;&gt;FI-SW-02&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;Tiger Shark&lt;/td&gt;
+		&lt;/tr&gt;
+	
+		&lt;tr&gt;
+			&lt;td&gt;&lt;a href=&quot;/actions/Catalog.action?viewProduct=&amp;amp;productId=FI-FW-01&quot;&gt;FI-FW-01&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;Koi&lt;/td&gt;
+		&lt;/tr&gt;
+	
+		&lt;tr&gt;
+			&lt;td&gt;&lt;a href=&quot;/actions/Catalog.action?viewProduct=&amp;amp;productId=FI-FW-02&quot;&gt;FI-FW-02&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;Goldfish&lt;/td&gt;
+		&lt;/tr&gt;
+	
+&lt;/table&gt;
+
+&lt;/div&gt;
+
+
+&lt;/div&gt;
+
+&lt;div id=&quot;CTA&quot;&gt;
+Elevate you load-testing with &lt;a href=&quot;https://octoperf.com&quot;&gt;OctoPerf&lt;/a&gt;!
+&lt;/div&gt;
+
+&lt;div id=&quot;Footer&quot;&gt;
+
+&lt;div id=&quot;PoweredBy&quot;&gt;
+&amp;nbsp;&amp;nbsp;Hosted by &lt;a href=&quot;https://octoperf.com&quot; target=&quot;_blank&quot;&gt;https://octoperf.com&lt;/a&gt;&amp;nbsp;|&amp;nbsp;Powered by &lt;a href=&quot;https://mybatis.org/&quot; target=&quot;_blank&quot;&gt;www.mybatis.org&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Banner&quot;&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+
+
+
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String">JSESSIONID=FBAEF459EE3D12E0BBF243058232AB9F</cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&amp;categoryId=FISH</java.net.URL>
+</httpSample>
+<httpSample t="475" it="0" lt="474" ct="369" ts="1779701894514" s="false" lb="JP02_TC04_Select/-59" rc="400" rm="Bad Request" tn="" dt="text" de="UTF-8" by="468" sc="1" ec="1" ng="0" na="0" hn="R36001WL0307">
+  <responseHeader class="java.lang.String">HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Alt-Svc: h3=&quot;:443&quot;; ma=2592000,h3-29=&quot;:443&quot;; ma=2592000
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: websocket
+Sec-WebSocket-Protocol: push-notification
+Sec-Fetch-Site: none
+Accept-Language: en-US,en;q=0.9
+Upgrade: websocket
+Sec-WebSocket-Extensions: permessage-deflate
+Origin: wss://push.services.mozilla.com/
+Sec-WebSocket-Version: 13
+Pragma: no-cache
+Accept: */*
+Host: push.services.mozilla.com
+Sec-WebSocket-Key: OvKA1azNMu49QrLBxhgH1Q==
+Cache-Control: no-cache
+Accept-Encoding: gzip, deflate, br, zstd
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+Sec-Fetch-Dest: empty
+</requestHeader>
+  <responseData class="java.lang.String">
+&lt;html&gt;&lt;head&gt;
+&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html;charset=utf-8&quot;&gt;
+&lt;title&gt;400 Bad Request&lt;/title&gt;
+&lt;/head&gt;
+&lt;body text=#000000 bgcolor=#ffffff&gt;
+&lt;h1&gt;Error: Bad Request&lt;/h1&gt;
+&lt;h2&gt;Your client has issued a malformed or illegal request.&lt;/h2&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;/body&gt;&lt;/html&gt;
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://push.services.mozilla.com/</java.net.URL>
+</httpSample>
+<httpSample t="819" it="0" lt="818" ct="631" ts="1779701896944" s="true" lb="JP02_TC04_Select_SubProduct/actions/Catalog.action-60" rc="200" rm="" tn="" dt="text" de="UTF-8" by="4114" sc="1" ec="0" ng="0" na="0" hn="R36001WL0307">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 
+Date: Mon, 25 May 2026 09:38:17 GMT
+Content-Type: text/html;charset=UTF-8
+Content-Length: 3882
+Connection: close
+Content-Language: en-US
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: navigate
+Referer: https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&amp;categoryId=FISH
+Sec-Fetch-Site: same-origin
+Accept-Language: en-US,en;q=0.9
+Sec-Fetch-User: ?1
+Priority: u=0, i
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Host: petstore.octoperf.com
+Upgrade-Insecure-Requests: 1
+Accept-Encoding: gzip, deflate, br, zstd
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+Sec-Fetch-Dest: document
+</requestHeader>
+  <responseData class="java.lang.String">
+
+
+
+
+
+
+&lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD XHTML 1.0 Transitional//EN&quot;
+&quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&quot;&gt;
+
+&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot;&gt;
+
+&lt;head&gt;
+&lt;link rel=&quot;StyleSheet&quot; href=&quot;../css/jpetstore.css&quot; type=&quot;text/css&quot;
+	media=&quot;screen&quot; /&gt;
+
+&lt;meta name=&quot;generator&quot;
+	content=&quot;HTML Tidy for Linux/x86 (vers 1st November 2002), see www.w3.org&quot; /&gt;
+&lt;title&gt;JPetStore Demo&lt;/title&gt;
+&lt;meta content=&quot;text/html; charset=windows-1252&quot;
+	http-equiv=&quot;Content-Type&quot; /&gt;
+&lt;meta http-equiv=&quot;Cache-Control&quot; content=&quot;max-age=0&quot; /&gt;
+&lt;meta http-equiv=&quot;Cache-Control&quot; content=&quot;no-cache&quot; /&gt;
+&lt;meta http-equiv=&quot;expires&quot; content=&quot;0&quot; /&gt;
+&lt;meta http-equiv=&quot;Expires&quot; content=&quot;Tue, 01 Jan 1980 1:00:00 GMT&quot; /&gt;
+&lt;meta http-equiv=&quot;Pragma&quot; content=&quot;no-cache&quot; /&gt;
+&lt;/head&gt;
+
+&lt;body&gt;
+
+&lt;div id=&quot;Header&quot;&gt;
+
+&lt;div id=&quot;Logo&quot;&gt;
+&lt;div id=&quot;LogoContent&quot;&gt;
+&amp;nbsp;
+&lt;a href=&quot;/actions/Catalog.action&quot;&gt;&lt;img src=&quot;../images/logo-topbar.svg&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Menu&quot;&gt;
+&lt;div id=&quot;MenuContent&quot;&gt;&lt;a href=&quot;/actions/Cart.action?viewCart=&quot;&gt;&lt;img align=&quot;middle&quot; name=&quot;img_cart&quot; src=&quot;../images/cart.gif&quot; /&gt;&lt;/a&gt; &lt;img align=&quot;middle&quot; src=&quot;../images/separator.gif&quot; /&gt; 
+	&lt;a href=&quot;/actions/Account.action?signonForm=&quot;&gt;Sign In&lt;/a&gt;
+   &lt;img align=&quot;middle&quot; src=&quot;../images/separator.gif&quot; /&gt; &lt;a
+	href=&quot;../help.html&quot;&gt;?&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Search&quot;&gt;
+&lt;div id=&quot;SearchContent&quot;&gt;&lt;form method=&quot;post&quot; action=&quot;/actions/Catalog.action&quot;&gt;
+	&lt;input size=&quot;14&quot; name=&quot;keyword&quot; type=&quot;text&quot; value=&quot;fish&quot; /&gt;
+	&lt;input name=&quot;searchProducts&quot; type=&quot;submit&quot; value=&quot;Search&quot; /&gt;
+&lt;div style=&quot;display: none;&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;_sourcePage&quot; value=&quot;PDybB2JqUgWAk-vPWiXydSE1qx0KugdaRXFsCJ3v0B1Z-UpeeONFPrn8xupOmmoNw80GtbPf4PEzPrdZ1SUVRYE5onKsiynLRGJmzX8PT7s=&quot; /&gt;&lt;input type=&quot;hidden&quot; name=&quot;__fp&quot; value=&quot;dyC9PLS-7Lme3sZaI-3BuRMI9eYyinAui1OvmTRDh-CxACQPMBfzQUquc1sgQnZ8&quot; /&gt;&lt;/div&gt;&lt;/form&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;QuickLinks&quot;&gt;&lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=FISH&quot;&gt;&lt;img src=&quot;../images/sm_fish.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=DOGS&quot;&gt;&lt;img src=&quot;../images/sm_dogs.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=REPTILES&quot;&gt;&lt;img src=&quot;../images/sm_reptiles.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=CATS&quot;&gt;&lt;img src=&quot;../images/sm_cats.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=BIRDS&quot;&gt;&lt;img src=&quot;../images/sm_birds.gif&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div id=&quot;Content&quot;&gt;
+
+
+
+
+&lt;div id=&quot;BackLink&quot;&gt;&lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=FISH&quot;&gt;Return to FISH&lt;/a&gt;&lt;/div&gt;
+
+&lt;div id=&quot;Catalog&quot;&gt;
+
+&lt;h2&gt;Angelfish&lt;/h2&gt;
+
+&lt;table&gt;
+	&lt;tr&gt;
+		&lt;th&gt;Item ID&lt;/th&gt;
+		&lt;th&gt;Product ID&lt;/th&gt;
+		&lt;th&gt;Description&lt;/th&gt;
+		&lt;th&gt;List Price&lt;/th&gt;
+		&lt;th&gt;&amp;nbsp;&lt;/th&gt;
+	&lt;/tr&gt;
+	
+		&lt;tr&gt;
+			&lt;td&gt;&lt;a href=&quot;/actions/Catalog.action?viewItem=&amp;amp;itemId=EST-1&quot;&gt;EST-1&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;FI-SW-01&lt;/td&gt;
+			&lt;td&gt;Large  
+			  Angelfish&lt;/td&gt;
+			&lt;td&gt;$16.50&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/actions/Cart.action?addItemToCart=&amp;amp;workingItemId=EST-1&quot; class=&quot;Button&quot;&gt;Add to Cart&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+	
+		&lt;tr&gt;
+			&lt;td&gt;&lt;a href=&quot;/actions/Catalog.action?viewItem=&amp;amp;itemId=EST-2&quot;&gt;EST-2&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;FI-SW-01&lt;/td&gt;
+			&lt;td&gt;Small  
+			  Angelfish&lt;/td&gt;
+			&lt;td&gt;$16.50&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/actions/Cart.action?addItemToCart=&amp;amp;workingItemId=EST-2&quot; class=&quot;Button&quot;&gt;Add to Cart&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+	
+	&lt;tr&gt;
+		&lt;td&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;/div&gt;
+
+
+&lt;/div&gt;
+
+&lt;div id=&quot;CTA&quot;&gt;
+Elevate you load-testing with &lt;a href=&quot;https://octoperf.com&quot;&gt;OctoPerf&lt;/a&gt;!
+&lt;/div&gt;
+
+&lt;div id=&quot;Footer&quot;&gt;
+
+&lt;div id=&quot;PoweredBy&quot;&gt;
+&amp;nbsp;&amp;nbsp;Hosted by &lt;a href=&quot;https://octoperf.com&quot; target=&quot;_blank&quot;&gt;https://octoperf.com&lt;/a&gt;&amp;nbsp;|&amp;nbsp;Powered by &lt;a href=&quot;https://mybatis.org/&quot; target=&quot;_blank&quot;&gt;www.mybatis.org&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Banner&quot;&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+
+
+
+
+
+
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String">JSESSIONID=FBAEF459EE3D12E0BBF243058232AB9F</cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&amp;productId=FI-SW-01</java.net.URL>
+</httpSample>
+<httpSample t="1065" it="0" lt="1064" ct="775" ts="1779701923274" s="true" lb="JP02_TC05_Select_ItemID/actions/Catalog.action-61" rc="200" rm="" tn="" dt="text" de="UTF-8" by="3815" sc="1" ec="0" ng="0" na="0" hn="R36001WL0307">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 
+Date: Mon, 25 May 2026 09:38:44 GMT
+Content-Type: text/html;charset=UTF-8
+Content-Length: 3583
+Connection: close
+Content-Language: en-US
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: navigate
+Referer: https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&amp;productId=FI-SW-01
+Sec-Fetch-Site: same-origin
+Accept-Language: en-US,en;q=0.9
+Sec-Fetch-User: ?1
+Priority: u=0, i
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Host: petstore.octoperf.com
+Upgrade-Insecure-Requests: 1
+Accept-Encoding: gzip, deflate, br, zstd
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+Sec-Fetch-Dest: document
+</requestHeader>
+  <responseData class="java.lang.String">
+
+
+
+
+
+
+&lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD XHTML 1.0 Transitional//EN&quot;
+&quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&quot;&gt;
+
+&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot;&gt;
+
+&lt;head&gt;
+&lt;link rel=&quot;StyleSheet&quot; href=&quot;../css/jpetstore.css&quot; type=&quot;text/css&quot;
+	media=&quot;screen&quot; /&gt;
+
+&lt;meta name=&quot;generator&quot;
+	content=&quot;HTML Tidy for Linux/x86 (vers 1st November 2002), see www.w3.org&quot; /&gt;
+&lt;title&gt;JPetStore Demo&lt;/title&gt;
+&lt;meta content=&quot;text/html; charset=windows-1252&quot;
+	http-equiv=&quot;Content-Type&quot; /&gt;
+&lt;meta http-equiv=&quot;Cache-Control&quot; content=&quot;max-age=0&quot; /&gt;
+&lt;meta http-equiv=&quot;Cache-Control&quot; content=&quot;no-cache&quot; /&gt;
+&lt;meta http-equiv=&quot;expires&quot; content=&quot;0&quot; /&gt;
+&lt;meta http-equiv=&quot;Expires&quot; content=&quot;Tue, 01 Jan 1980 1:00:00 GMT&quot; /&gt;
+&lt;meta http-equiv=&quot;Pragma&quot; content=&quot;no-cache&quot; /&gt;
+&lt;/head&gt;
+
+&lt;body&gt;
+
+&lt;div id=&quot;Header&quot;&gt;
+
+&lt;div id=&quot;Logo&quot;&gt;
+&lt;div id=&quot;LogoContent&quot;&gt;
+&amp;nbsp;
+&lt;a href=&quot;/actions/Catalog.action&quot;&gt;&lt;img src=&quot;../images/logo-topbar.svg&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Menu&quot;&gt;
+&lt;div id=&quot;MenuContent&quot;&gt;&lt;a href=&quot;/actions/Cart.action?viewCart=&quot;&gt;&lt;img align=&quot;middle&quot; name=&quot;img_cart&quot; src=&quot;../images/cart.gif&quot; /&gt;&lt;/a&gt; &lt;img align=&quot;middle&quot; src=&quot;../images/separator.gif&quot; /&gt; 
+	&lt;a href=&quot;/actions/Account.action?signonForm=&quot;&gt;Sign In&lt;/a&gt;
+   &lt;img align=&quot;middle&quot; src=&quot;../images/separator.gif&quot; /&gt; &lt;a
+	href=&quot;../help.html&quot;&gt;?&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Search&quot;&gt;
+&lt;div id=&quot;SearchContent&quot;&gt;&lt;form method=&quot;post&quot; action=&quot;/actions/Catalog.action&quot;&gt;
+	&lt;input size=&quot;14&quot; name=&quot;keyword&quot; type=&quot;text&quot; value=&quot;fish&quot; /&gt;
+	&lt;input name=&quot;searchProducts&quot; type=&quot;submit&quot; value=&quot;Search&quot; /&gt;
+&lt;div style=&quot;display: none;&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;_sourcePage&quot; value=&quot;3geelxxKxWr713VkPLRd0Dql3ffBUl_gksC76H386qQxpyuzyugGAY5-YvhWi666ksbuBiLM_I354K7TUYip6Gf6NGNfm7Wg&quot; /&gt;&lt;input type=&quot;hidden&quot; name=&quot;__fp&quot; value=&quot;UAQMzo4l2xJNbn2RaJqPs5pY1T1a6ccWChYlhqsdo7GO2tHi0-VPIzSxuz536fRO&quot; /&gt;&lt;/div&gt;&lt;/form&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;QuickLinks&quot;&gt;&lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=FISH&quot;&gt;&lt;img src=&quot;../images/sm_fish.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=DOGS&quot;&gt;&lt;img src=&quot;../images/sm_dogs.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=REPTILES&quot;&gt;&lt;img src=&quot;../images/sm_reptiles.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=CATS&quot;&gt;&lt;img src=&quot;../images/sm_cats.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=BIRDS&quot;&gt;&lt;img src=&quot;../images/sm_birds.gif&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div id=&quot;Content&quot;&gt;
+
+
+&lt;div id=&quot;BackLink&quot;&gt;&lt;a href=&quot;/actions/Catalog.action?viewProduct=&amp;amp;productId=FI-SW-01&quot;&gt;Return to FI-SW-01&lt;/a&gt;&lt;/div&gt;
+
+&lt;div id=&quot;Catalog&quot;&gt;
+
+&lt;table&gt;
+	&lt;tr&gt;
+		&lt;td&gt;&lt;image src=&quot;../images/fish1.gif&quot;&gt;Salt Water fish from Australia&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;&lt;b&gt; EST-1 &lt;/b&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;&lt;b&gt;&lt;font size=&quot;4&quot;&gt; Large
+		 
+		 
+		Angelfish &lt;/font&gt;&lt;/b&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Angelfish&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;
+        Back ordered.
+       &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;$16.50&lt;/td&gt;
+	&lt;/tr&gt;
+
+	&lt;tr&gt;
+		&lt;td&gt;&lt;a href=&quot;/actions/Cart.action?addItemToCart=&amp;amp;workingItemId=EST-1&quot; class=&quot;Button&quot;&gt;Add to Cart&lt;/a&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;/div&gt;
+
+
+&lt;/div&gt;
+
+&lt;div id=&quot;CTA&quot;&gt;
+Elevate you load-testing with &lt;a href=&quot;https://octoperf.com&quot;&gt;OctoPerf&lt;/a&gt;!
+&lt;/div&gt;
+
+&lt;div id=&quot;Footer&quot;&gt;
+
+&lt;div id=&quot;PoweredBy&quot;&gt;
+&amp;nbsp;&amp;nbsp;Hosted by &lt;a href=&quot;https://octoperf.com&quot; target=&quot;_blank&quot;&gt;https://octoperf.com&lt;/a&gt;&amp;nbsp;|&amp;nbsp;Powered by &lt;a href=&quot;https://mybatis.org/&quot; target=&quot;_blank&quot;&gt;www.mybatis.org&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Banner&quot;&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+
+
+
+
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String">JSESSIONID=FBAEF459EE3D12E0BBF243058232AB9F</cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://petstore.octoperf.com/actions/Catalog.action?viewItem=&amp;itemId=EST-1</java.net.URL>
+</httpSample>
+
+</testResults>

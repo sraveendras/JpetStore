@@ -1,0 +1,2864 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="305" it="0" lt="0" ct="243" ts="1779704969584" s="true" lb="/296x160/smart/filters:format(webp):quality(75):no_upscale():strip_exif()/https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Fpocket-curatedcorpusapi-prod-images%2F30596dab-c594-461e-909b-d4ae24b920cb.webp-202" rc="304" rm="Not Modified" tn="" dt="" de="" by="220" sc="1" ec="0" ng="0" na="0" hn="R36001WL0307">
+  <responseHeader class="java.lang.String">HTTP/1.1 304 Not Modified
+Date: Sun, 24 May 2026 21:33:30 GMT
+Age: 46559
+ETag: &quot;0286a78a393ee7e6977afe8d95e0b8e13bbcf014&quot;
+Cache-Control: max-age=3600,s-maxage=3600,public,public
+Alt-Svc: clear
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: cors
+If-None-Match: &quot;0286a78a393ee7e6977afe8d95e0b8e13bbcf014&quot;
+Sec-Fetch-Site: cross-site
+Accept-Language: en-US,en;q=0.9
+Origin: null
+Priority: u=5
+Accept: image/avif,image/webp,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5
+Host: img-getpocket.cdn.mozilla.net
+Accept-Encoding: gzip, deflate, br, zstd
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+Sec-Fetch-Dest: image
+</requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://img-getpocket.cdn.mozilla.net/296x160/smart/filters:format(webp):quality(75):no_upscale():strip_exif()/https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Fpocket-curatedcorpusapi-prod-images%2F30596dab-c594-461e-909b-d4ae24b920cb.webp</java.net.URL>
+</httpSample>
+<httpSample t="411" it="0" lt="0" ct="283" ts="1779704977634" s="true" lb="JP04_TC01_HomePage_Launch/favicons/8d3df1e947c3b44cafb0fb4887d58fc7f1b3f10c10d593d5bedf17e311d05561_309614.oct-206" rc="304" rm="Not Modified" tn="" dt="" de="" by="233" sc="1" ec="0" ng="0" na="0" hn="R36001WL0307">
+  <responseHeader class="java.lang.String">HTTP/1.1 304 Not Modified
+Date: Mon, 25 May 2026 10:29:05 GMT
+Age: 33
+ETag: &quot;9bef3b7e1b699e45ebe5a071b4f3a7c2&quot;
+Cache-Control: public,max-age=3600
+Strict-Transport-Security: max-age=31536000
+Alt-Svc: clear
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: no-cors
+If-None-Match: &quot;9bef3b7e1b699e45ebe5a071b4f3a7c2&quot;
+Sec-Fetch-Site: cross-site
+Accept-Language: en-US,en;q=0.9
+Priority: u=5
+Accept: image/avif,image/webp,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5
+If-Modified-Since: Wed, 01 Apr 2026 19:08:26 GMT
+Host: prod-images.merino.prod.webservices.mozgcp.net
+Accept-Encoding: gzip, deflate, br, zstd
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+Sec-Fetch-Dest: image
+</requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://prod-images.merino.prod.webservices.mozgcp.net/favicons/8d3df1e947c3b44cafb0fb4887d58fc7f1b3f10c10d593d5bedf17e311d05561_309614.oct</java.net.URL>
+</httpSample>
+<httpSample t="1479" it="0" lt="0" ct="1332" ts="1779704978641" s="true" lb="JP04_TC01_HomePage_Launch/favicons/e6df937e99ab76f0aa140b0bf2ef8cbb926724bae94318033134ae41cede818e_1320.oct-207" rc="304" rm="Not Modified" tn="" dt="" de="" by="234" sc="1" ec="0" ng="0" na="0" hn="R36001WL0307">
+  <responseHeader class="java.lang.String">HTTP/1.1 304 Not Modified
+Date: Mon, 25 May 2026 10:17:13 GMT
+Age: 747
+ETag: &quot;b26f3c76d7757888084f1f4c33749114&quot;
+Cache-Control: public,max-age=3600
+Strict-Transport-Security: max-age=31536000
+Alt-Svc: clear
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: no-cors
+If-None-Match: &quot;b26f3c76d7757888084f1f4c33749114&quot;
+Sec-Fetch-Site: cross-site
+Accept-Language: en-US,en;q=0.9
+Priority: u=5
+Accept: image/avif,image/webp,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5
+If-Modified-Since: Tue, 19 May 2026 05:59:41 GMT
+Host: prod-images.merino.prod.webservices.mozgcp.net
+Accept-Encoding: gzip, deflate, br, zstd
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+Sec-Fetch-Dest: image
+</requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://prod-images.merino.prod.webservices.mozgcp.net/favicons/e6df937e99ab76f0aa140b0bf2ef8cbb926724bae94318033134ae41cede818e_1320.oct</java.net.URL>
+</httpSample>
+<httpSample t="515" it="0" lt="515" ct="339" ts="1779704979606" s="true" lb="JP04_TC01_HomePage_Launch/complete/search-208" rc="200" rm="OK" tn="" dt="text" de="UTF-8" by="1231" sc="1" ec="0" ng="0" na="0" hn="R36001WL0307">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 25 May 2026 10:29:40 GMT
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/javascript; charset=UTF-8
+Strict-Transport-Security: max-age=31536000
+Content-Security-Policy: object-src &apos;none&apos;;base-uri &apos;self&apos;;script-src &apos;nonce-KVnV6-Y7-enCfpK-7_KqVw&apos; &apos;strict-dynamic&apos; &apos;report-sample&apos; &apos;unsafe-eval&apos; &apos;unsafe-inline&apos; https: http:;report-uri https://csp.withgoogle.com/csp/gws/fff
+Cross-Origin-Opener-Policy: same-origin-allow-popups; report-to=&quot;gws&quot;
+Report-To: {&quot;group&quot;:&quot;gws&quot;,&quot;max_age&quot;:2592000,&quot;endpoints&quot;:[{&quot;url&quot;:&quot;https://csp.withgoogle.com/csp/report-to/gws/fff&quot;}]}
+Accept-CH: Sec-CH-Prefers-Color-Scheme
+Content-Disposition: attachment; filename=&quot;f.txt&quot;
+Server: gws
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Transfer-Encoding: chunked
+Alt-Svc: h3=&quot;:443&quot;; ma=2592000,h3-29=&quot;:443&quot;; ma=2592000
+Connection: close
+Content-Encoding: br
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.9
+Host: www.google.com
+Accept-Encoding: gzip, deflate, br, zstd
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+Accept: */*
+</requestHeader>
+  <responseData class="java.lang.String">[&quot;&quot;,[&quot;manish pandey ipl 2026 catch&quot;,&quot;garmin forerunner 70&quot;,&quot;today wordle hints&quot;,&quot;vedanta shares demerger&quot;,&quot;brics foreign ministers&quot;,&quot;karuppu movie review&quot;,&quot;gold prices and silver prices&quot;,&quot;india squad afghanistan tour&quot;,&quot;mht cet pcb response sheet&quot;,&quot;iqoo z11&quot;],[],{&quot;google:fieldtrialtriggered&quot;:true,&quot;google:headertexts&quot;:{&quot;a&quot;:{&quot;8&quot;:&quot;Trending searches&quot;}},&quot;google:suggestdetail&quot;:[{&quot;zl&quot;:8},{&quot;zl&quot;:8},{&quot;zl&quot;:8},{&quot;zl&quot;:8},{&quot;zl&quot;:8},{&quot;zl&quot;:8},{&quot;zl&quot;:8},{&quot;zl&quot;:8},{&quot;zl&quot;:8},{&quot;zl&quot;:8}],&quot;google:suggestsubtypes&quot;:[[3,143,362,395],[3,143,362,395],[3,143,362,395],[3,143,362,395],[3,143,362,395],[3,143,362,395],[3,143,362,395],[3,143,362,395],[3,143,362,395],[3,143,362,395]]}]</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://www.google.com/complete/search?client=firefox&amp;channel=ftr&amp;q=</java.net.URL>
+</httpSample>
+<httpSample t="1135" it="0" lt="1135" ct="943" ts="1779704983764" s="true" lb="JP04_TC01_HomePage_Launch/actions/Catalog.action-212" rc="200" rm="" tn="" dt="text" de="UTF-8" by="4968" sc="1" ec="0" ng="0" na="0" hn="R36001WL0307">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 
+Date: Mon, 25 May 2026 10:29:44 GMT
+Content-Type: text/html;charset=UTF-8
+Content-Length: 4736
+Connection: close
+Content-Language: en-US
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: navigate
+Referer: https://petstore.octoperf.com/
+Sec-Fetch-Site: same-origin
+Accept-Language: en-US,en;q=0.9
+Sec-Fetch-User: ?1
+Priority: u=0, i
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Host: petstore.octoperf.com
+Upgrade-Insecure-Requests: 1
+Accept-Encoding: gzip, deflate, br, zstd
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+Sec-Fetch-Dest: document
+</requestHeader>
+  <responseData class="java.lang.String">
+
+
+
+
+
+
+&lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD XHTML 1.0 Transitional//EN&quot;
+&quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&quot;&gt;
+
+&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot;&gt;
+
+&lt;head&gt;
+&lt;link rel=&quot;StyleSheet&quot; href=&quot;../css/jpetstore.css&quot; type=&quot;text/css&quot;
+	media=&quot;screen&quot; /&gt;
+
+&lt;meta name=&quot;generator&quot;
+	content=&quot;HTML Tidy for Linux/x86 (vers 1st November 2002), see www.w3.org&quot; /&gt;
+&lt;title&gt;JPetStore Demo&lt;/title&gt;
+&lt;meta content=&quot;text/html; charset=windows-1252&quot;
+	http-equiv=&quot;Content-Type&quot; /&gt;
+&lt;meta http-equiv=&quot;Cache-Control&quot; content=&quot;max-age=0&quot; /&gt;
+&lt;meta http-equiv=&quot;Cache-Control&quot; content=&quot;no-cache&quot; /&gt;
+&lt;meta http-equiv=&quot;expires&quot; content=&quot;0&quot; /&gt;
+&lt;meta http-equiv=&quot;Expires&quot; content=&quot;Tue, 01 Jan 1980 1:00:00 GMT&quot; /&gt;
+&lt;meta http-equiv=&quot;Pragma&quot; content=&quot;no-cache&quot; /&gt;
+&lt;/head&gt;
+
+&lt;body&gt;
+
+&lt;div id=&quot;Header&quot;&gt;
+
+&lt;div id=&quot;Logo&quot;&gt;
+&lt;div id=&quot;LogoContent&quot;&gt;
+&amp;nbsp;
+&lt;a href=&quot;/actions/Catalog.action&quot;&gt;&lt;img src=&quot;../images/logo-topbar.svg&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Menu&quot;&gt;
+&lt;div id=&quot;MenuContent&quot;&gt;&lt;a href=&quot;/actions/Cart.action?viewCart=&quot;&gt;&lt;img align=&quot;middle&quot; name=&quot;img_cart&quot; src=&quot;../images/cart.gif&quot; /&gt;&lt;/a&gt; &lt;img align=&quot;middle&quot; src=&quot;../images/separator.gif&quot; /&gt; 
+	&lt;a href=&quot;/actions/Account.action?signonForm=&quot;&gt;Sign In&lt;/a&gt;
+   &lt;img align=&quot;middle&quot; src=&quot;../images/separator.gif&quot; /&gt; &lt;a
+	href=&quot;../help.html&quot;&gt;?&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Search&quot;&gt;
+&lt;div id=&quot;SearchContent&quot;&gt;&lt;form method=&quot;post&quot; action=&quot;/actions/Catalog.action&quot;&gt;
+	&lt;input size=&quot;14&quot; name=&quot;keyword&quot; type=&quot;text&quot; /&gt;
+	&lt;input name=&quot;searchProducts&quot; type=&quot;submit&quot; value=&quot;Search&quot; /&gt;
+&lt;div style=&quot;display: none;&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;_sourcePage&quot; value=&quot;ZxVVsJUBa7Dn6QpAuF2_0eGUkTVKlwsgK_PE_LmL1kVQ5KjIbHQaQfNX0juI90T1vTyx7i79RZ53csmgwt78H-jODaaC5k8S&quot; /&gt;&lt;input type=&quot;hidden&quot; name=&quot;__fp&quot; value=&quot;ab7zkHiKG5fzRXtYNpJEUgSV_f_RVh9VG8PJZXL4rhgGDWP8BPtRnaKE7ig_cwEl&quot; /&gt;&lt;/div&gt;&lt;/form&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;QuickLinks&quot;&gt;&lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=FISH&quot;&gt;&lt;img src=&quot;../images/sm_fish.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=DOGS&quot;&gt;&lt;img src=&quot;../images/sm_dogs.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=REPTILES&quot;&gt;&lt;img src=&quot;../images/sm_reptiles.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=CATS&quot;&gt;&lt;img src=&quot;../images/sm_cats.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=BIRDS&quot;&gt;&lt;img src=&quot;../images/sm_birds.gif&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div id=&quot;Content&quot;&gt;
+
+
+&lt;div id=&quot;Welcome&quot;&gt;
+&lt;div id=&quot;WelcomeContent&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Main&quot;&gt;
+&lt;div id=&quot;Sidebar&quot;&gt;
+&lt;div id=&quot;SidebarContent&quot;&gt;&lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=FISH&quot;&gt;&lt;img src=&quot;../images/fish_icon.gif&quot; /&gt;&lt;/a&gt; &lt;br /&gt;
+Saltwater, Freshwater &lt;br /&gt;
+&lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=DOGS&quot;&gt;&lt;img src=&quot;../images/dogs_icon.gif&quot; /&gt;&lt;/a&gt; &lt;br /&gt;
+Various Breeds &lt;br /&gt;
+&lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=CATS&quot;&gt;&lt;img src=&quot;../images/cats_icon.gif&quot; /&gt;&lt;/a&gt; &lt;br /&gt;
+Various Breeds, Exotic Varieties &lt;br /&gt;
+&lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=REPTILES&quot;&gt;&lt;img src=&quot;../images/reptiles_icon.gif&quot; /&gt;&lt;/a&gt; &lt;br /&gt;
+Lizards, Turtles, Snakes &lt;br /&gt;
+&lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=BIRDS&quot;&gt;&lt;img src=&quot;../images/birds_icon.gif&quot; /&gt;&lt;/a&gt; &lt;br /&gt;
+Exotic Varieties&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;MainImage&quot;&gt;
+&lt;div id=&quot;MainImageContent&quot;&gt;
+  &lt;map name=&quot;estoremap&quot;&gt;
+	&lt;area alt=&quot;Birds&quot; coords=&quot;72,2,280,250&quot;
+		href=&quot;Catalog.action?viewCategory=&amp;categoryId=BIRDS&quot; shape=&quot;RECT&quot; /&gt;
+	&lt;area alt=&quot;Fish&quot; coords=&quot;2,180,72,250&quot;
+		href=&quot;Catalog.action?viewCategory=&amp;categoryId=FISH&quot; shape=&quot;RECT&quot; /&gt;
+	&lt;area alt=&quot;Dogs&quot; coords=&quot;60,250,130,320&quot;
+		href=&quot;Catalog.action?viewCategory=&amp;categoryId=DOGS&quot; shape=&quot;RECT&quot; /&gt;
+	&lt;area alt=&quot;Reptiles&quot; coords=&quot;140,270,210,340&quot;
+		href=&quot;Catalog.action?viewCategory=&amp;categoryId=REPTILES&quot; shape=&quot;RECT&quot; /&gt;
+	&lt;area alt=&quot;Cats&quot; coords=&quot;225,240,295,310&quot;
+		href=&quot;Catalog.action?viewCategory=&amp;categoryId=CATS&quot; shape=&quot;RECT&quot; /&gt;
+	&lt;area alt=&quot;Birds&quot; coords=&quot;280,180,350,250&quot;
+		href=&quot;Catalog.action?viewCategory=&amp;categoryId=BIRDS&quot; shape=&quot;RECT&quot; /&gt;
+  &lt;/map&gt;
+  &lt;img height=&quot;355&quot; src=&quot;../images/splash.gif&quot; align=&quot;middle&quot;
+	usemap=&quot;#estoremap&quot; width=&quot;350&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Separator&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;/div&gt;
+
+&lt;div id=&quot;CTA&quot;&gt;
+Elevate you load-testing with &lt;a href=&quot;https://octoperf.com&quot;&gt;OctoPerf&lt;/a&gt;!
+&lt;/div&gt;
+
+&lt;div id=&quot;Footer&quot;&gt;
+
+&lt;div id=&quot;PoweredBy&quot;&gt;
+&amp;nbsp;&amp;nbsp;Hosted by &lt;a href=&quot;https://octoperf.com&quot; target=&quot;_blank&quot;&gt;https://octoperf.com&lt;/a&gt;&amp;nbsp;|&amp;nbsp;Powered by &lt;a href=&quot;https://mybatis.org/&quot; target=&quot;_blank&quot;&gt;www.mybatis.org&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Banner&quot;&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+
+
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String">JSESSIONID=07398BC5450E131ED16FA3A1A12838B3</cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://petstore.octoperf.com/actions/Catalog.action</java.net.URL>
+</httpSample>
+<httpSample t="9045" it="0" lt="9045" ct="428" ts="1779704980749" s="true" lb="JP04_TC01_HomePage_Launch/submit/firefox-desktop/third-party-modules/1/63a44152-ab54-496f-8f6d-a89c9990844a-211" rc="200" rm="OK" tn="" dt="text" de="utf-8" by="726" sc="1" ec="0" ng="0" na="0" hn="R36001WL0307">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: openresty
+Date: Mon, 25 May 2026 10:29:49 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: DENY
+Access-Control-Allow-Methods: GET, POST, PUT, OPTIONS
+Access-Control-Max-Age: 1728000
+Access-Control-Allow-Headers: Accept-Encoding,Connection,Content-Encoding,Content-Length,Content-Type,DNT,Date,Sec-Fetch-Dest,Sec-Fetch-Mode,Sec-Fetch-Site,User-Agent,X-Client-Type,X-Client-Version,X-Debug-ID,X-Forwarded-For,X-Pingsender-Version,X-Pipeline-Proxy,X-Source-Tags,X-Telemetry-Agent
+Via: 1.1 google
+Alt-Svc: clear
+Connection: close
+Transfer-Encoding: chunked
+Content-Encoding: gzip
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+date: Mon, 25 May 2026 10:29:40 GMT
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Accept-Language: en-US,en;q=0.9
+content-encoding: gzip
+Priority: u=4
+Accept: */*
+x-telemetry-agent: Glean/67.1.0 (Rust on Windows)
+Host: incoming.telemetry.mozilla.org
+content-type: application/json; charset=utf-8
+Accept-Encoding: gzip, deflate, br, zstd
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+Sec-Fetch-Dest: empty
+Content-Length: 4156
+</requestHeader>
+  <responseData class="java.lang.String"></responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">&#x1f;�&#x8;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;��Zmo�8&#x12;�+����� R���m��&#x2;��ᒽ; &#xd;&#xc;J�ln$Q�(;�&quot;�����D�:�?l��A&#xd;�/3�g���_�Fԋ��&#xb;�̾:-���ȥ�j��\��;3�x$B^�p|����g������3�s.&#x1d;^�é!&quot;�&#xd;&#xe;g�?�B�&#xb;�n�C�&#x15;L�uk�&#x15;&#xf;����+2z �KN[��,K�iD̬L�:_�5��}��fLo&#x1a;#�&#x16;Uֵ�2����a��Y�Q�&#x17;4� -&#x1b;�
+�&#x7;A�&#x6;1^Юԯ�P�V��5��
+&#x15;B�B&gt; �8��@�&#x1d;~bԁ���O����Ƥ\q&amp;4ʩb�vZ&#x16;�,Ѣ�&#x19;-&#x11;��&#x1;����&#x1c;T9��naw�W���\�-�&#x1a;8����+^I��	&#x1a;�|e@&#x6;U8�Q&#x1;Fv����3��/&#x14;8
+�&#x1a;F5&#x1f;4E]&#xd;&#x6;��&#x1;C�&#x6;�-K������?ir���&amp;;H�
+�&#x16;�R�B�V��\�S��Fz�rՂVf�����Å&#x7;#�v&#x5;&#x13;5L�������F�X	��ݶ�#��M)c`o�s2Q3�s�oӗ�l��N	�A&#xd;&#x18;�5&#xf;���ͨ ҅��F&#x19;�A�&#x1a;|~i9g@jpR$�rs�&#xe;d�&#x19;7i_&#x4;�\j�sEE�WrYU]=�S&#xb;R���%F&#x2;��B�/&#x1d;�Zn�O2���@{JVrk,�&#x1b;���k!jP)sj&#xc;ڗ=�&#x1d;&#x1e;���&#x12;&amp;&#x1c;�&#x1a;�C��&#x15;�&#xe;�&#x8;&#x0;&#x4;�Y&#x1a;&#xf;&#x15;�&#x1a;�KZ/&amp;&#xe;�E��|�4��H8C�&#x0;&#x12;�&#x5;ZKU�o;�iRJ	�j�*��%34�l�&#x3;2Z��&#x18;r&#x7;&#x12;&#x18;/ŊC�&#x1d;&#x15;�&#x7f;Le�����&#x12;T%�ׂW��&#xc;a�!&#xd;��BΨ&#x1a;
+p�;�v���g�gR&#xb;�&#xd;L��J�&#x1d;����JE�&gt;�c&#x12;&#x12;;rb�54&apos;%�&#x13;�#�斎sM&#xd;.!b]Um���	i�1&#x1c;b���&#x5;8�)I��&#x1c;��}Ə��Ӹ�K&#x18;b&#x18;�����&#x1b;�O�Z�i����`��&#x1;��ą�&#x18;7~
+&lt;&#x0;lо~g`�B&#x0;��FXz3N&#xc;�R���k�&#x10;��om
+�&#x10;��w�(]�&#x8;�]�&#x3;�֝�&#x4;�?��Q������&#x1b;��&#x11;�5ۤ�P�Y��~�y&#x12;�K
+3ԂC��u�&#x17;�6?���hr&#xe;�c	��B��=d�����[&#x17;&#x8;pl&amp;%&#xe;&#x1b;�&amp;M�n`&#x16;^�P|�bᄌ^A�B&#x17;�=&#x7f;J�����!�&#xc;���t&amp;!d�&#x5;&#x8;�&#x1;�/�I�r�Ό\6��ԡb+�&#x1;�A�
+Hx�&#xc;T��&#x3;EF�3�&#x16;���*8����S4�|S&#x2;�z{�ܖ���ϳN�&#xc;VF��]s1�M�}h�6�&quot;&#x1c;�Ց&#xc;��(��n��X��A&#x7;&#x18;��\3.���^���C��H&#x7f;�p&#x1e;�h&#x1e;&#x5;�I�б.�~�����&#x7f;m��&#xe;�L}&#x2;&#x17;&#xb;��CI�3�*H�(�
+�/&#x15;�@A�&#x13;�yq���b/-�8�Ɖ�=ss]1j���&lt;&#xc;&#x7f;7�7�&#x7f;?��&#x1d;�)����&#x1e;&apos;�7n/�ޜ����&#xf;i^wU�&#x15;\�#�y���Jdݘ!jjo��&#x13;*u���?���&#x19;&#x0;@��e�&#x7;&#x1c;�Ef)&#x14;s&#x1b;H�&#x1b;���� &#x18;?���W8�V�+�&gt;��o��?]o�jQ�[J�����&#x17;�|��UM��B^Ⲳ����?[db�$n?l,2� g�@`:W&quot;W����&#x18;���&#x7;\G�T��&#x12;�&#x14;-2&#x1;L���W���]rS.h&#x5;&#x17;��%]�����&#xf;E&#x7f;(�C�&#x1f;��=&#x15;����Y�:r(R&#x6;�&#x1d;�&#xd;fdpń���=�!7��0|�&apos;�aؤ�6p�7&amp;&#x4;�&#x1b;�&#x0;�0��&#xf;]�OIهN�:��ڤ��MHḷ��C��&#x12;ҤQt��&#x6;ꗃ�};o_��&#x1b;s�4�F�I�O&#x4;&#x11;7&#x8;}l�a	�&#x4;��&#x1;�&#x15;�p4&gt;&#x18;������&#xf;`�m]&#x0;Z{X&gt;�,�t���E����3&#x16;�v�&#x1;�?�O5�&#xf;Vm�~�&#xd;��퍶�e�{U�m&#x1f;m&#x0;&#x6;:1�&#x0;��a~o�c&#x5;�L���p���&#x1d;K~�a&#x19;�H&#x7f;��w�]�&#x4;����}`�&#x5;&#x4;
+�&#x0;&gt;ȯع��&#xd;t����wI0I����&#x16;�K����&#x1e;��&#x1e;�&#xd;�&#x1f; &#x1d;�a�&#xc;i&#x18;:D�O�(�c?N��L�.�&quot;��0&apos;�$��k�&#x1;�8�����G$��&#x14;��-��&#x18;&#x3;�1��3�a�I,&apos;&#x10;�&#x10;2q|&#xc;e�&#x13;�󢌣t&#x2;��%)�&#xf;���Ώ3�&gt;�q6�3y{�&#x1c;��h&#xe;B7�t&#x4;e�s�(&#xe;ό��&apos;��Dq�$�CLΎ2&#xe;c?��P��&#x1e;�8&#xd;�P�S?���&#xc;�T�Hə);�@&#x19;�qb��{(�8&gt;&#x7f;f�IN�p
+���L��;&#x1;��M�8$6�N�_�&#x1b;�$9s4��t&#x5;&#x16;E�&#x10;�4��&#x1f;�~��&#x10;O�&#x1c;�=�#?9%�c7$��ǣ������&lt;]gCr8��q&#x8;�}v�i��x�&#x2;��`ff�)�9q�u&#xf;&gt;��14&#x1b;&#x13;�?3kG�B�	k����S&#x4;�	N&apos;&#xb;��o&#xc;�������&amp;�gL���v��k��&#x1d;�=&#x1c;���&#xd;�&#x17;Y�i�~u����e�&#xe;/&#x7;��&apos;(M�&#x3;&#xe;3��ħ��r��&#x14;G(�s��fq�2(�&#x12;������ȉϽ��&#x10;&#x15;Pd���FY��&#x16;&gt;6�&#x11;�&#x18;w@�/&#x1d;�5�&#x17;�L���͎�n&#x1a;�&#x8;V&quot;��&#x6;Np^�?��&#xe;�|�.��8	��Z�v�yI&#x5;��zq�г��nhhH&#xf;��o7&#x7;�O������L9ڢ�@�=g�]��n�%w�_����VB&#x19;�u�C�&#x4;�R�{~������-�4����&#x1a;�|��c����&#xc;|���I&#x1e;�&gt;&lt;&apos;&#x0;&#x0;</queryString>
+  <java.net.URL>https://incoming.telemetry.mozilla.org/submit/firefox-desktop/third-party-modules/1/63a44152-ab54-496f-8f6d-a89c9990844a</java.net.URL>
+</httpSample>
+<httpSample t="650" it="0" lt="650" ct="283" ts="1779704989818" s="true" lb="JP04_TC01_HomePage_Launch/submit/firefox-desktop/newtab/1/2680fbfc-2730-47c1-afee-0912bbe5181c-213" rc="200" rm="OK" tn="" dt="text" de="utf-8" by="726" sc="1" ec="0" ng="0" na="0" hn="R36001WL0307">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: openresty
+Date: Mon, 25 May 2026 10:29:50 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: DENY
+Access-Control-Allow-Methods: GET, POST, PUT, OPTIONS
+Access-Control-Max-Age: 1728000
+Access-Control-Allow-Headers: Accept-Encoding,Connection,Content-Encoding,Content-Length,Content-Type,DNT,Date,Sec-Fetch-Dest,Sec-Fetch-Mode,Sec-Fetch-Site,User-Agent,X-Client-Type,X-Client-Version,X-Debug-ID,X-Forwarded-For,X-Pingsender-Version,X-Pipeline-Proxy,X-Source-Tags,X-Telemetry-Agent
+Via: 1.1 google
+Alt-Svc: clear
+Connection: close
+Transfer-Encoding: chunked
+Content-Encoding: gzip
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+date: Mon, 25 May 2026 10:29:49 GMT
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Accept-Language: en-US,en;q=0.9
+content-encoding: gzip
+Priority: u=4
+Accept: */*
+x-telemetry-agent: Glean/67.1.0 (Rust on Windows)
+Host: incoming.telemetry.mozilla.org
+content-type: application/json; charset=utf-8
+Accept-Encoding: gzip, deflate, br, zstd
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+Sec-Fetch-Dest: empty
+Content-Length: 3976
+</requestHeader>
+  <responseData class="java.lang.String"></responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">&#x1f;�&#x8;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;��Y[o�&#x12;�/zmh�bY���&#x14;&#x5;�&#x2;�����n�,&#x4;J�l6��%);n���&#x19;�b9�&#x13;%v&#x17;Ȯa���7�&#xc;�G�&#x12;�*&#x16;e&amp;�壣�wg&#x19;D7�6T�؈�;K�w�&#x19;qC⇷^�&#xc;��4������_�&#x1b;�����p����Y4�*N�,acɷ�&amp;��Z&#xb;Y� &#x2;&#x5;=T\���h���4�9�kc*�IE
+�4IeQԥH��&#x17;5�%Q&lt;&#x7;�&#x1c;_I&#x14;-�5�Oei�̭P�(��]�&amp;��HjM`1��q��n&#x1c;&amp;�Ք�&#x15;Mw�Ȋha�&amp;&#x18;&#x1c;��&#x8;�&#x19;�s�~&#xd;�+�J]�&#x12;W�S�w O�R�m=z����4�5D�1��K���&#x17;�&#x16;�g�$4��!&#x19;��Zq�R��4�&#xe;�&#x1b;ȵA&#xf;�i( ���&#x18;UJf&#x2;&gt;�V�tm�h�/&#x0;,t�1���.B�&#x15;�I��O�kE�&amp;�4&quot;k�e&#x11;������Ԛ&#x3;�&#x6;�����W���dzMԁ&#xf;)&apos;��&#x1;�֙&#x1c;�AKFrQ&#x8;�.&#x11;�&#x11;���d&#xe;[&#x1;�AI&#x13;�i�&amp;bxZ&#xc;j�*�R��&#x7;�C��abdM&#x1a;��%��{�&#x1f;B�I���kj&#x12;	!&#x3;x&#x13;]&#x17;@t-&#x1d;�bS���)m�L([�K{3=���&#xb;�,���P&#x0;�V�Ln�Fh[�&lt;�l�&#x1;�Z�J��\�&#x8;�&#x10;�|�R�Y��&#x18;�l�&#x12;&#x18;2�h&#x3;#��f��-�w&#xe;&#x7;&apos;Y�y�����Tl&#x0;8�&#x18;�\p�v�&#x2;:�&#x3;��3l&#x4;my��wy�k��J�&#x1d;&#x0;�g�J/t/�l
+�W����=0��g]�&#xc;����t{=�,&#x19;&lt;&#x18;�O&#x7;r]���-��8=æ�-�.�rOe�&#x1b;&#x19;�6u�1@0&#x10;`m��s�&#x16;�l����j��$&#x13;&#x0;[Z	&#x1b;yd�r�cE�G@Ꭓl�i����&#x2;D�m�i�&#xc;YW��s�&#xb;ixG�|��&#x15;Y���#�&#xb;0�u!%&#x3;e&#xd;����55��(&#x18;&#x12;&#x6;\�&#x1b;��q�r	i7\&#x15;d-s��A��	&#xc;�5�B&#xf;t0��&#xd;W/&#x0;��8�I�8��R��XY�2&#x1;&#x14;7�q��OΟV��м12{&amp;������������D��C�I��){Р	P��&#x1a;��w8&#xc;0�ю�J&#x16;����&#x1d;Pn3&#x1;Ae�\B�s}����&gt;x����^��t���[��p&#x1;��&#x17;&#x4;��#2�Čң��&#x2;�%&#x4;�&#x6;�o&#x2;�+&#x1f;�=�8&#x19;H�2NvKqD`5��ks�&#x1c;D&#xc;�ߟ �&#xd;���&#x3;ɚ�&#xe;��p&#x10;�e�
+]�#�)iw&#x3;&#x12;�&#x4;G�iL�H(4{�/��&#x19;�S\_h6h9�P�?x��4��&gt;Nj�3xq&#x16;M�	&#x1e;&#x1b;������Y�dPW&#x19;��4�s��тP�E�&quot;�G��tB���c�&#x15;�3oꆾ&#xf;�Rǐ m�[��Z&#x1d;�&#x2;��*���b&#x8;���&#x1d;���ND8.6&#x15;`g&#xe;�����8&#x13;���l9&#x1;�+hW@�&#xd;�:&#xf;�Y&lt;��sk\�C&#xf;�YD.q=��uݥ�����س�6���nssȞ&#x12;w֟��IM7&#x1e;�e]$\9K&#x7f;滮&#x1d;2�&#x12;I�&#x1d;/Kj���&#x1b;x��_?&#x7f;��`&#x1;&#x12; R�&#x5fa;�X?:ͱdҧg2��&lt;�nƼ�d!P֔�&#x1e;I���,�����&#x13;�&#x1;8��&#xe;�1&#xe;~U#*L|ϝ&#x7;��	H�.�&#x19;�G)|]$QȒ9�!0&#x7;�E)�s�i�W﹙t#�Ҩ�c�`���J�|�&#xe;�&#x13;		U�1^��.6k�X\&#x1;#���\��&gt;b�&#x5;&#x14;���_��V�&#x8;��L,�N`
+(����\r��~]&#x1b;	�&#xb;�|_k�Z��9�3�&#xd;�&#x1e;��&#x1e;��&#x1b;r�&#x1c;)&#x6;R&#xe;&#x17;@9@�B�&#x11;��h&#x16;&#x18;Ә&#x5;���&#x1b;l�^��&#x8;c��^��zXz&apos;�5x����2�&#x2;��ڠ�9P�&#x6;&#x12;£O&#xc;&apos;o��8P&#xf;F����@���T2&#x4;s&#x7f;AAο�|m&#x0;��&#x12;f�v{kF{&apos;5&#x88;&#xe;Wό؋:b�3N(�&#x11;&#xc;&#x4;&#xc;l����6�+�����~�&#x12;�~�O�˧�����5m��y�&#xf;�c�a&apos;;H��d�e&#x8;��
+�?�9��-.�֮�&#x1;^`�2(&#x10;#`h�&#x7;��~�S�G5�&#x1e;�;������u�5�aG&#x95;&#x4;&#xb;���&#x10;]��&#x19;&#x15;y��#�JY���ͱ2�X&#x5;�M����oO&#x379;q�\P�	Q�F&#x8;��&#x2;fN��&#x1;p�&#xc;b*&#x1b;��&#x15;/&#xf;ϥm��l-Z:}L�`&#x11;M&#x13;N�`�&#x0;	&#x6;&#x11;Yx0DG�b1K�ԝ2����5^�,&#x1d;�@&#x1b;_���&amp;&#x0;=&#x15;!��H&#x13;�D����V0�M�&#xb;f3X���x���E&#x11;4��&quot;��0D�&#xf;\�g&#x7;�vP�{+�J5&#x17;�W��E&#xb;瞃&lt;�d&#x11;��&#x1f;�&#x12;�ܸ�&#xd;�&#x15;��&#x1e;$qk�&#x1e;��,t�&#x3;��45V#⾱��&#xf;�~������O&#x7f;��%�����Z�y�C��q&#x3;��c[��ێ~�P��/̞Vޓ���u&#x7;W��q��&#x15;�g^�^w�&#x1e;�]!ć[�5��������y�NE�u&#x1b;/&#x8;��x&#xe;\&#xe;���@��ڷE�_L����&#x1f;��A��&#x1f;���Z._&#x19;�o��A&#x4;g?��7������&#x1e;\��W\nN*����S�&lt;	?���0aR�����p&gt;�]�k�4+��&#x2;.���^�&#xf;m7��p�q�Z&#x5ce;�0&#x8;2�?&#x2;v��*�z��s�_���x0���Ƅ�;&#x17;���P���&#x5;!y5sσs4+�	�Q���7{�d��R_�dq&gt;�sw&#x16;y`&#x7b7;�&#x7f;&#x0;M��3&quot;&#x0;&#x0;</queryString>
+  <java.net.URL>https://incoming.telemetry.mozilla.org/submit/firefox-desktop/newtab/1/2680fbfc-2730-47c1-afee-0912bbe5181c</java.net.URL>
+</httpSample>
+<httpSample t="801" it="0" lt="801" ct="456" ts="1779704990487" s="false" lb="JP04_TC01_HomePage_Launch/-214" rc="400" rm="Bad Request" tn="" dt="text" de="utf-8" by="224" sc="1" ec="1" ng="0" na="0" hn="R36001WL0307">
+  <responseHeader class="java.lang.String">HTTP/1.1 400 Bad Request
+Connection: close
+Content-Length: 12
+Content-Type: text/plain; charset=utf-8
+X-Content-Type-Options: nosniff
+Cache-Control: private, no-store
+Date: Mon, 25 May 2026 10:29:51 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Accept-Language: en-US,en;q=0.9
+Priority: u=4
+Accept: */*
+Host: mozilla-ohttp.fastly-edge.com
+content-type: message/ohttp-req
+Accept-Encoding: gzip, deflate, br, zstd
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+Sec-Fetch-Dest: empty
+Content-Length: 1598
+</requestHeader>
+  <responseData class="java.lang.String">Bad Request
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">�&#x0; &#x0;&#x1;&#x0;&#x1;Z�&#x10;�iޙ�6���@80�B�&#x2;�Z0iķ&#x14;&amp;�v�&#x16;z�#���6����6��ƞ�&#x7;&#x13;m�&#x1e;��¾N�����k&#x6;�;y&quot;җ�ԁqq�&apos;&#x7f;[��!m����W�l�`~&#xb;��&#x13;���=r}f�f��{@�.&lt;&#x4;)�Q�k��WTS�&#xd;�wd����-&#x1e;sZP�!&#x5;&#x1b;k��=Ў2�&#xf;w5ӒⓄ&#x0;�R�&#x16;���^z&#x1c;n�DUV
+d!OH�&#x1a;&gt;@@87���]���&lt;&#x0;&quot;�&#x2;�+/֧&lt;�9l&#x1f;w�~� &gt;D&#x14;t{�}�n�} ��&#x1c;ܩ��J&#x10;#���&#x8;�!��C(�&lt;O&#x7;g5��&#x10;�&#x0;&#x5;�&#x1e;&#x1f;&#x1;&#x1b;�&apos;���eV���p���.&#x1;�U�FU&gt;�Bj�&#x6;K�/��O	&#x3;���؍hu$�����t��&#xc;�&#xf;�@�&#x12;M��/戀&#x4;&#x1d;��&#x1;��nw���&#xe;�&#x13;&#x7;q�$�i�&#x1d;���z&#x3;%#���(�^2ʊ�&#x1a;!()+G:&#x5f8;E��&#x10;O+7~Y�&lt;&#x4;&apos;�a���cv���Xg�p@�%?�qJ��rIY&apos;h��k��@��3�4�w&#x8;&#x8;��[a@B�+�)�=���C�&#x1;��V�[.m&#x14;m&#x6;����hg�ᖨE�����%?݈lD�����q��[l&#x7f;&#x3;�&#x6;h��8�&apos;�k�m��k�Ȥ����H��h	F�i��:[��$&quot;|�B��^��V&#x6;V�F��*�D�;J&#x2;j��&#x1;:��]�8&#x1e;m�G	X��7���2�aH�4�4Ɣi�m�&#xc;��X$�&#x11;&#x0;��g��^ط�F�$��Z^���&#x16;�U��(f�k���&#x16;!�&#x15;J&#x18;A�\&#x14;&#x17;S&#x16;rT�&#x5;b���wo�۷��&#x16;&#xb;��$&#xf;�_P����&#x10;(&#x1b;&apos;�#�&#xe;�G�@\��&#x2;��`&#x7f;j�&#x7;��ޮutM�`Wm�y�&#x14;]�rM̦�i͖���f[+�&amp;�&#x1d;H���{�O�&#x11;&#x14;�&#x1b;���J$ip���&amp;}(M )�LB�=��&#x2;g
+D(v�&#x12;#&#x2;7�Tj���&#x1;���8&#x5;1�a��t�:�ׅ��&#x18;1��`c&#x12;�8&#x19;2n�&#x7f;;����5/��x��h�FYB&amp;pf�oǈ&#x7f;� �;�&#xf;�ܼb,��~�}S�0�&#x5;=��</queryString>
+  <java.net.URL>https://mozilla-ohttp.fastly-edge.com/</java.net.URL>
+</httpSample>
+<httpSample t="1658" it="0" lt="1658" ct="1160" ts="1779704998829" s="true" lb="JP04_TC02_SignIN/actions/Account.action-215" rc="200" rm="" tn="" dt="text" de="UTF-8" by="4092" sc="1" ec="0" ng="0" na="0" hn="R36001WL0307">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 
+Date: Mon, 25 May 2026 10:30:00 GMT
+Content-Type: text/html;charset=UTF-8
+Content-Length: 3860
+Connection: close
+Content-Language: en-US
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: navigate
+Referer: https://petstore.octoperf.com/actions/Catalog.action
+Sec-Fetch-Site: same-origin
+Accept-Language: en-US,en;q=0.9
+Sec-Fetch-User: ?1
+Priority: u=0, i
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Host: petstore.octoperf.com
+Upgrade-Insecure-Requests: 1
+Accept-Encoding: gzip, deflate, br, zstd
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+Sec-Fetch-Dest: document
+</requestHeader>
+  <responseData class="java.lang.String">
+
+
+
+
+
+
+&lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD XHTML 1.0 Transitional//EN&quot;
+&quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&quot;&gt;
+
+&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot;&gt;
+
+&lt;head&gt;
+&lt;link rel=&quot;StyleSheet&quot; href=&quot;../css/jpetstore.css&quot; type=&quot;text/css&quot;
+	media=&quot;screen&quot; /&gt;
+
+&lt;meta name=&quot;generator&quot;
+	content=&quot;HTML Tidy for Linux/x86 (vers 1st November 2002), see www.w3.org&quot; /&gt;
+&lt;title&gt;JPetStore Demo&lt;/title&gt;
+&lt;meta content=&quot;text/html; charset=windows-1252&quot;
+	http-equiv=&quot;Content-Type&quot; /&gt;
+&lt;meta http-equiv=&quot;Cache-Control&quot; content=&quot;max-age=0&quot; /&gt;
+&lt;meta http-equiv=&quot;Cache-Control&quot; content=&quot;no-cache&quot; /&gt;
+&lt;meta http-equiv=&quot;expires&quot; content=&quot;0&quot; /&gt;
+&lt;meta http-equiv=&quot;Expires&quot; content=&quot;Tue, 01 Jan 1980 1:00:00 GMT&quot; /&gt;
+&lt;meta http-equiv=&quot;Pragma&quot; content=&quot;no-cache&quot; /&gt;
+&lt;/head&gt;
+
+&lt;body&gt;
+
+&lt;div id=&quot;Header&quot;&gt;
+
+&lt;div id=&quot;Logo&quot;&gt;
+&lt;div id=&quot;LogoContent&quot;&gt;
+&amp;nbsp;
+&lt;a href=&quot;/actions/Catalog.action&quot;&gt;&lt;img src=&quot;../images/logo-topbar.svg&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Menu&quot;&gt;
+&lt;div id=&quot;MenuContent&quot;&gt;&lt;a href=&quot;/actions/Cart.action?viewCart=&quot;&gt;&lt;img align=&quot;middle&quot; name=&quot;img_cart&quot; src=&quot;../images/cart.gif&quot; /&gt;&lt;/a&gt; &lt;img align=&quot;middle&quot; src=&quot;../images/separator.gif&quot; /&gt; 
+	&lt;a href=&quot;/actions/Account.action?signonForm=&quot;&gt;Sign In&lt;/a&gt;
+   &lt;img align=&quot;middle&quot; src=&quot;../images/separator.gif&quot; /&gt; &lt;a
+	href=&quot;../help.html&quot;&gt;?&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Search&quot;&gt;
+&lt;div id=&quot;SearchContent&quot;&gt;&lt;form method=&quot;post&quot; action=&quot;/actions/Catalog.action&quot;&gt;
+	&lt;input size=&quot;14&quot; name=&quot;keyword&quot; type=&quot;text&quot; /&gt;
+	&lt;input name=&quot;searchProducts&quot; type=&quot;submit&quot; value=&quot;Search&quot; /&gt;
+&lt;div style=&quot;display: none;&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;_sourcePage&quot; value=&quot;ned8tdb7JylWJSDkMUcLdqm2nX5e57ppHBs4GD498TKYPYjq_9q6TAilDObLciUIL3z5XwHu3cimmi5YoUp_TvTAyIsU60AQla6-08LRlYg=&quot; /&gt;&lt;input type=&quot;hidden&quot; name=&quot;__fp&quot; value=&quot;4sLWDzZM7Ftoya6jU-IsFMQcxsA85p5oItwlBSuXsErJucfs7ZD4Yd800n5Sqwoh&quot; /&gt;&lt;/div&gt;&lt;/form&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;QuickLinks&quot;&gt;&lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=FISH&quot;&gt;&lt;img src=&quot;../images/sm_fish.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=DOGS&quot;&gt;&lt;img src=&quot;../images/sm_dogs.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=REPTILES&quot;&gt;&lt;img src=&quot;../images/sm_reptiles.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=CATS&quot;&gt;&lt;img src=&quot;../images/sm_cats.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=BIRDS&quot;&gt;&lt;img src=&quot;../images/sm_birds.gif&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div id=&quot;Content&quot;&gt;
+
+
+&lt;div id=&quot;Catalog&quot;&gt;&lt;form method=&quot;post&quot; action=&quot;/actions/Account.action&quot;&gt;
+
+	&lt;p&gt;Please enter your username and password.&lt;/p&gt;
+	&lt;p&gt;Username:&lt;input name=&quot;username&quot; id=&quot;stripes--1716002938&quot; type=&quot;text&quot; /&gt;&lt;script type=&quot;text/javascript&quot;&gt;setTimeout(function(){try{var z=document.getElementById(&apos;stripes--1716002938&apos;);z.focus();z.select();}catch(e){}},1);&lt;/script&gt; &lt;br /&gt;
+	Password:&lt;input name=&quot;password&quot; type=&quot;password&quot; value=&quot;j2ee&quot; /&gt;&lt;/p&gt;
+	&lt;input name=&quot;signon&quot; type=&quot;submit&quot; value=&quot;Login&quot; /&gt;
+
+&lt;div style=&quot;display: none;&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;_sourcePage&quot; value=&quot;L4wc8wY15soJJ4B9rpen5crBNLTGVB0LdUzyCnUnSo98uzuc3K0GXPxoz1HjdMteYnSkIDSq9J87EKEvHxATRYvQ6IC1ftzoJC5UJTan33o=&quot; /&gt;&lt;input type=&quot;hidden&quot; name=&quot;__fp&quot; value=&quot;96YSC4LbrBE94Df0ckQ9ltaW3YXvXerDA337zxhJ16yMGUVXS8RiFQGImvMsQ39m&quot; /&gt;&lt;/div&gt;&lt;/form&gt; Need a user name and password? &lt;a href=&quot;/actions/Account.action?newAccountForm=&quot;&gt;Register Now!&lt;/a&gt;&lt;/div&gt;
+
+
+&lt;/div&gt;
+
+&lt;div id=&quot;CTA&quot;&gt;
+Elevate you load-testing with &lt;a href=&quot;https://octoperf.com&quot;&gt;OctoPerf&lt;/a&gt;!
+&lt;/div&gt;
+
+&lt;div id=&quot;Footer&quot;&gt;
+
+&lt;div id=&quot;PoweredBy&quot;&gt;
+&amp;nbsp;&amp;nbsp;Hosted by &lt;a href=&quot;https://octoperf.com&quot; target=&quot;_blank&quot;&gt;https://octoperf.com&lt;/a&gt;&amp;nbsp;|&amp;nbsp;Powered by &lt;a href=&quot;https://mybatis.org/&quot; target=&quot;_blank&quot;&gt;www.mybatis.org&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Banner&quot;&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+
+
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String">JSESSIONID=07398BC5450E131ED16FA3A1A12838B3</cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://petstore.octoperf.com/actions/Account.action?signonForm=</java.net.URL>
+</httpSample>
+<httpSample t="832" it="0" lt="832" ct="654" ts="1779705025532" s="true" lb="JP04_TC03_Login/actions/Account.action-216" rc="302" rm="" tn="" dt="" de="" by="225" sc="1" ec="0" ng="0" na="0" hn="R36001WL0307">
+  <responseHeader class="java.lang.String">HTTP/1.1 302 
+Date: Mon, 25 May 2026 10:30:26 GMT
+Content-Length: 0
+Connection: close
+Location: /actions/Catalog.action
+Content-Language: en-US
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: navigate
+Referer: https://petstore.octoperf.com/actions/Account.action?signonForm=
+Sec-Fetch-Site: same-origin
+Accept-Language: en-US,en;q=0.9
+Origin: https://petstore.octoperf.com
+Sec-Fetch-User: ?1
+Priority: u=0, i
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Host: petstore.octoperf.com
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate, br, zstd
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+Sec-Fetch-Dest: document
+Content-Length: 247
+</requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String">JSESSIONID=07398BC5450E131ED16FA3A1A12838B3</cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">username=jiyansh01&amp;password=Jiyansh%40123&amp;signon=Login&amp;_sourcePage=L4wc8wY15soJJ4B9rpen5crBNLTGVB0LdUzyCnUnSo98uzuc3K0GXPxoz1HjdMteYnSkIDSq9J87EKEvHxATRYvQ6IC1ftzoJC5UJTan33o%3D&amp;__fp=96YSC4LbrBE94Df0ckQ9ltaW3YXvXerDA337zxhJ16yMGUVXS8RiFQGImvMsQ39m</queryString>
+  <redirectLocation class="java.lang.String">/actions/Catalog.action</redirectLocation>
+  <java.net.URL>https://petstore.octoperf.com/actions/Account.action</java.net.URL>
+</httpSample>
+<httpSample t="988" it="0" lt="988" ct="775" ts="1779705026381" s="true" lb="JP04_TC03_Login/actions/Catalog.action-217" rc="200" rm="" tn="" dt="text" de="UTF-8" by="5140" sc="1" ec="0" ng="0" na="0" hn="R36001WL0307">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 
+Date: Mon, 25 May 2026 10:30:27 GMT
+Content-Type: text/html;charset=UTF-8
+Content-Length: 4908
+Connection: close
+Content-Language: en-US
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: navigate
+Referer: https://petstore.octoperf.com/actions/Account.action?signonForm=
+Sec-Fetch-Site: same-origin
+Accept-Language: en-US,en;q=0.9
+Sec-Fetch-User: ?1
+Priority: u=0, i
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Host: petstore.octoperf.com
+Upgrade-Insecure-Requests: 1
+Accept-Encoding: gzip, deflate, br, zstd
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+Sec-Fetch-Dest: document
+</requestHeader>
+  <responseData class="java.lang.String">
+
+
+
+
+
+
+&lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD XHTML 1.0 Transitional//EN&quot;
+&quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&quot;&gt;
+
+&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot;&gt;
+
+&lt;head&gt;
+&lt;link rel=&quot;StyleSheet&quot; href=&quot;../css/jpetstore.css&quot; type=&quot;text/css&quot;
+	media=&quot;screen&quot; /&gt;
+
+&lt;meta name=&quot;generator&quot;
+	content=&quot;HTML Tidy for Linux/x86 (vers 1st November 2002), see www.w3.org&quot; /&gt;
+&lt;title&gt;JPetStore Demo&lt;/title&gt;
+&lt;meta content=&quot;text/html; charset=windows-1252&quot;
+	http-equiv=&quot;Content-Type&quot; /&gt;
+&lt;meta http-equiv=&quot;Cache-Control&quot; content=&quot;max-age=0&quot; /&gt;
+&lt;meta http-equiv=&quot;Cache-Control&quot; content=&quot;no-cache&quot; /&gt;
+&lt;meta http-equiv=&quot;expires&quot; content=&quot;0&quot; /&gt;
+&lt;meta http-equiv=&quot;Expires&quot; content=&quot;Tue, 01 Jan 1980 1:00:00 GMT&quot; /&gt;
+&lt;meta http-equiv=&quot;Pragma&quot; content=&quot;no-cache&quot; /&gt;
+&lt;/head&gt;
+
+&lt;body&gt;
+
+&lt;div id=&quot;Header&quot;&gt;
+
+&lt;div id=&quot;Logo&quot;&gt;
+&lt;div id=&quot;LogoContent&quot;&gt;
+&amp;nbsp;
+&lt;a href=&quot;/actions/Catalog.action&quot;&gt;&lt;img src=&quot;../images/logo-topbar.svg&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Menu&quot;&gt;
+&lt;div id=&quot;MenuContent&quot;&gt;&lt;a href=&quot;/actions/Cart.action?viewCart=&quot;&gt;&lt;img align=&quot;middle&quot; name=&quot;img_cart&quot; src=&quot;../images/cart.gif&quot; /&gt;&lt;/a&gt; &lt;img align=&quot;middle&quot; src=&quot;../images/separator.gif&quot; /&gt;  
+	
+ 
+	
+		&lt;a href=&quot;/actions/Account.action?signoff=&quot;&gt;Sign Out&lt;/a&gt;
+		&lt;img align=&quot;middle&quot; src=&quot;../images/separator.gif&quot; /&gt;
+		&lt;a href=&quot;/actions/Account.action?editAccountForm=&quot;&gt;My Account&lt;/a&gt;
+	
+ &lt;img align=&quot;middle&quot; src=&quot;../images/separator.gif&quot; /&gt; &lt;a
+	href=&quot;../help.html&quot;&gt;?&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Search&quot;&gt;
+&lt;div id=&quot;SearchContent&quot;&gt;&lt;form method=&quot;post&quot; action=&quot;/actions/Catalog.action&quot;&gt;
+	&lt;input size=&quot;14&quot; name=&quot;keyword&quot; type=&quot;text&quot; /&gt;
+	&lt;input name=&quot;searchProducts&quot; type=&quot;submit&quot; value=&quot;Search&quot; /&gt;
+&lt;div style=&quot;display: none;&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;_sourcePage&quot; value=&quot;Xwsk1ER_HaV6dWNPOgFZmQzBx1eyl4D2GowQ1c86FmyZZJ8gMmqrZOGpGkRa7oGn0MOl2q4a51QOmyOEo1zxIqOAF1y4qtjr&quot; /&gt;&lt;input type=&quot;hidden&quot; name=&quot;__fp&quot; value=&quot;GQZVeJs3Hm-6hcPk5ue156Bt1Quz53_Q3tAvdixCXcW8YC49uZ3-OZL48s6Cc7Kg&quot; /&gt;&lt;/div&gt;&lt;/form&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;QuickLinks&quot;&gt;&lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=FISH&quot;&gt;&lt;img src=&quot;../images/sm_fish.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=DOGS&quot;&gt;&lt;img src=&quot;../images/sm_dogs.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=REPTILES&quot;&gt;&lt;img src=&quot;../images/sm_reptiles.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=CATS&quot;&gt;&lt;img src=&quot;../images/sm_cats.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=BIRDS&quot;&gt;&lt;img src=&quot;../images/sm_birds.gif&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div id=&quot;Content&quot;&gt;
+
+
+&lt;div id=&quot;Welcome&quot;&gt;
+&lt;div id=&quot;WelcomeContent&quot;&gt;
+	
+        Welcome Jiyansh!
+      
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Main&quot;&gt;
+&lt;div id=&quot;Sidebar&quot;&gt;
+&lt;div id=&quot;SidebarContent&quot;&gt;&lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=FISH&quot;&gt;&lt;img src=&quot;../images/fish_icon.gif&quot; /&gt;&lt;/a&gt; &lt;br /&gt;
+Saltwater, Freshwater &lt;br /&gt;
+&lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=DOGS&quot;&gt;&lt;img src=&quot;../images/dogs_icon.gif&quot; /&gt;&lt;/a&gt; &lt;br /&gt;
+Various Breeds &lt;br /&gt;
+&lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=CATS&quot;&gt;&lt;img src=&quot;../images/cats_icon.gif&quot; /&gt;&lt;/a&gt; &lt;br /&gt;
+Various Breeds, Exotic Varieties &lt;br /&gt;
+&lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=REPTILES&quot;&gt;&lt;img src=&quot;../images/reptiles_icon.gif&quot; /&gt;&lt;/a&gt; &lt;br /&gt;
+Lizards, Turtles, Snakes &lt;br /&gt;
+&lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=BIRDS&quot;&gt;&lt;img src=&quot;../images/birds_icon.gif&quot; /&gt;&lt;/a&gt; &lt;br /&gt;
+Exotic Varieties&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;MainImage&quot;&gt;
+&lt;div id=&quot;MainImageContent&quot;&gt;
+  &lt;map name=&quot;estoremap&quot;&gt;
+	&lt;area alt=&quot;Birds&quot; coords=&quot;72,2,280,250&quot;
+		href=&quot;Catalog.action?viewCategory=&amp;categoryId=BIRDS&quot; shape=&quot;RECT&quot; /&gt;
+	&lt;area alt=&quot;Fish&quot; coords=&quot;2,180,72,250&quot;
+		href=&quot;Catalog.action?viewCategory=&amp;categoryId=FISH&quot; shape=&quot;RECT&quot; /&gt;
+	&lt;area alt=&quot;Dogs&quot; coords=&quot;60,250,130,320&quot;
+		href=&quot;Catalog.action?viewCategory=&amp;categoryId=DOGS&quot; shape=&quot;RECT&quot; /&gt;
+	&lt;area alt=&quot;Reptiles&quot; coords=&quot;140,270,210,340&quot;
+		href=&quot;Catalog.action?viewCategory=&amp;categoryId=REPTILES&quot; shape=&quot;RECT&quot; /&gt;
+	&lt;area alt=&quot;Cats&quot; coords=&quot;225,240,295,310&quot;
+		href=&quot;Catalog.action?viewCategory=&amp;categoryId=CATS&quot; shape=&quot;RECT&quot; /&gt;
+	&lt;area alt=&quot;Birds&quot; coords=&quot;280,180,350,250&quot;
+		href=&quot;Catalog.action?viewCategory=&amp;categoryId=BIRDS&quot; shape=&quot;RECT&quot; /&gt;
+  &lt;/map&gt;
+  &lt;img height=&quot;355&quot; src=&quot;../images/splash.gif&quot; align=&quot;middle&quot;
+	usemap=&quot;#estoremap&quot; width=&quot;350&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Separator&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;/div&gt;
+
+&lt;div id=&quot;CTA&quot;&gt;
+Elevate you load-testing with &lt;a href=&quot;https://octoperf.com&quot;&gt;OctoPerf&lt;/a&gt;!
+&lt;/div&gt;
+
+&lt;div id=&quot;Footer&quot;&gt;
+
+&lt;div id=&quot;PoweredBy&quot;&gt;
+&amp;nbsp;&amp;nbsp;Hosted by &lt;a href=&quot;https://octoperf.com&quot; target=&quot;_blank&quot;&gt;https://octoperf.com&lt;/a&gt;&amp;nbsp;|&amp;nbsp;Powered by &lt;a href=&quot;https://mybatis.org/&quot; target=&quot;_blank&quot;&gt;www.mybatis.org&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Banner&quot;&gt;
+	
+		
+	
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+
+
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String">JSESSIONID=07398BC5450E131ED16FA3A1A12838B3</cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://petstore.octoperf.com/actions/Catalog.action</java.net.URL>
+</httpSample>
+<httpSample t="849" it="0" lt="848" ct="676" ts="1779705049013" s="true" lb="JP04_TC04_SelectProduct/actions/Catalog.action-218" rc="200" rm="" tn="" dt="text" de="UTF-8" by="4060" sc="1" ec="0" ng="0" na="0" hn="R36001WL0307">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 
+Date: Mon, 25 May 2026 10:30:49 GMT
+Content-Type: text/html;charset=UTF-8
+Content-Length: 3828
+Connection: close
+Content-Language: en-US
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: navigate
+Referer: https://petstore.octoperf.com/actions/Catalog.action
+Sec-Fetch-Site: same-origin
+Accept-Language: en-US,en;q=0.9
+Sec-Fetch-User: ?1
+Priority: u=0, i
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Host: petstore.octoperf.com
+Upgrade-Insecure-Requests: 1
+Accept-Encoding: gzip, deflate, br, zstd
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+Sec-Fetch-Dest: document
+</requestHeader>
+  <responseData class="java.lang.String">
+
+
+
+
+
+
+&lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD XHTML 1.0 Transitional//EN&quot;
+&quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&quot;&gt;
+
+&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot;&gt;
+
+&lt;head&gt;
+&lt;link rel=&quot;StyleSheet&quot; href=&quot;../css/jpetstore.css&quot; type=&quot;text/css&quot;
+	media=&quot;screen&quot; /&gt;
+
+&lt;meta name=&quot;generator&quot;
+	content=&quot;HTML Tidy for Linux/x86 (vers 1st November 2002), see www.w3.org&quot; /&gt;
+&lt;title&gt;JPetStore Demo&lt;/title&gt;
+&lt;meta content=&quot;text/html; charset=windows-1252&quot;
+	http-equiv=&quot;Content-Type&quot; /&gt;
+&lt;meta http-equiv=&quot;Cache-Control&quot; content=&quot;max-age=0&quot; /&gt;
+&lt;meta http-equiv=&quot;Cache-Control&quot; content=&quot;no-cache&quot; /&gt;
+&lt;meta http-equiv=&quot;expires&quot; content=&quot;0&quot; /&gt;
+&lt;meta http-equiv=&quot;Expires&quot; content=&quot;Tue, 01 Jan 1980 1:00:00 GMT&quot; /&gt;
+&lt;meta http-equiv=&quot;Pragma&quot; content=&quot;no-cache&quot; /&gt;
+&lt;/head&gt;
+
+&lt;body&gt;
+
+&lt;div id=&quot;Header&quot;&gt;
+
+&lt;div id=&quot;Logo&quot;&gt;
+&lt;div id=&quot;LogoContent&quot;&gt;
+&amp;nbsp;
+&lt;a href=&quot;/actions/Catalog.action&quot;&gt;&lt;img src=&quot;../images/logo-topbar.svg&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Menu&quot;&gt;
+&lt;div id=&quot;MenuContent&quot;&gt;&lt;a href=&quot;/actions/Cart.action?viewCart=&quot;&gt;&lt;img align=&quot;middle&quot; name=&quot;img_cart&quot; src=&quot;../images/cart.gif&quot; /&gt;&lt;/a&gt; &lt;img align=&quot;middle&quot; src=&quot;../images/separator.gif&quot; /&gt;  
+	
+ 
+	
+		&lt;a href=&quot;/actions/Account.action?signoff=&quot;&gt;Sign Out&lt;/a&gt;
+		&lt;img align=&quot;middle&quot; src=&quot;../images/separator.gif&quot; /&gt;
+		&lt;a href=&quot;/actions/Account.action?editAccountForm=&quot;&gt;My Account&lt;/a&gt;
+	
+ &lt;img align=&quot;middle&quot; src=&quot;../images/separator.gif&quot; /&gt; &lt;a
+	href=&quot;../help.html&quot;&gt;?&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Search&quot;&gt;
+&lt;div id=&quot;SearchContent&quot;&gt;&lt;form method=&quot;post&quot; action=&quot;/actions/Catalog.action&quot;&gt;
+	&lt;input size=&quot;14&quot; name=&quot;keyword&quot; type=&quot;text&quot; /&gt;
+	&lt;input name=&quot;searchProducts&quot; type=&quot;submit&quot; value=&quot;Search&quot; /&gt;
+&lt;div style=&quot;display: none;&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;_sourcePage&quot; value=&quot;xMS0OtJsLlBuy0-bdr__pH9Yt1YCjuuONSnA6QLG7UG6gE5k8ui6KcH4gnVaQUdHSlYO0En6xcYjHajFGCgxFXXN3RqMIhL6xgs0HRpuokU=&quot; /&gt;&lt;input type=&quot;hidden&quot; name=&quot;__fp&quot; value=&quot;QePr__6fBwz4-JLBmJ0o1z_2KLVEUC5Qku7QimEDF6oXJeUhpPEcQ3eOcga2RxoQ&quot; /&gt;&lt;/div&gt;&lt;/form&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;QuickLinks&quot;&gt;&lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=FISH&quot;&gt;&lt;img src=&quot;../images/sm_fish.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=DOGS&quot;&gt;&lt;img src=&quot;../images/sm_dogs.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=REPTILES&quot;&gt;&lt;img src=&quot;../images/sm_reptiles.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=CATS&quot;&gt;&lt;img src=&quot;../images/sm_cats.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=BIRDS&quot;&gt;&lt;img src=&quot;../images/sm_birds.gif&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div id=&quot;Content&quot;&gt;
+
+
+&lt;div id=&quot;BackLink&quot;&gt;&lt;a href=&quot;/actions/Catalog.action&quot;&gt;Return to Main Menu&lt;/a&gt;&lt;/div&gt;
+
+&lt;div id=&quot;Catalog&quot;&gt;
+
+&lt;h2&gt;Fish&lt;/h2&gt;
+
+&lt;table&gt;
+	&lt;tr&gt;
+		&lt;th&gt;Product ID&lt;/th&gt;
+		&lt;th&gt;Name&lt;/th&gt;
+	&lt;/tr&gt;
+	
+		&lt;tr&gt;
+			&lt;td&gt;&lt;a href=&quot;/actions/Catalog.action?viewProduct=&amp;amp;productId=FI-SW-01&quot;&gt;FI-SW-01&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;Angelfish&lt;/td&gt;
+		&lt;/tr&gt;
+	
+		&lt;tr&gt;
+			&lt;td&gt;&lt;a href=&quot;/actions/Catalog.action?viewProduct=&amp;amp;productId=FI-SW-02&quot;&gt;FI-SW-02&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;Tiger Shark&lt;/td&gt;
+		&lt;/tr&gt;
+	
+		&lt;tr&gt;
+			&lt;td&gt;&lt;a href=&quot;/actions/Catalog.action?viewProduct=&amp;amp;productId=FI-FW-01&quot;&gt;FI-FW-01&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;Koi&lt;/td&gt;
+		&lt;/tr&gt;
+	
+		&lt;tr&gt;
+			&lt;td&gt;&lt;a href=&quot;/actions/Catalog.action?viewProduct=&amp;amp;productId=FI-FW-02&quot;&gt;FI-FW-02&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;Goldfish&lt;/td&gt;
+		&lt;/tr&gt;
+	
+&lt;/table&gt;
+
+&lt;/div&gt;
+
+
+&lt;/div&gt;
+
+&lt;div id=&quot;CTA&quot;&gt;
+Elevate you load-testing with &lt;a href=&quot;https://octoperf.com&quot;&gt;OctoPerf&lt;/a&gt;!
+&lt;/div&gt;
+
+&lt;div id=&quot;Footer&quot;&gt;
+
+&lt;div id=&quot;PoweredBy&quot;&gt;
+&amp;nbsp;&amp;nbsp;Hosted by &lt;a href=&quot;https://octoperf.com&quot; target=&quot;_blank&quot;&gt;https://octoperf.com&lt;/a&gt;&amp;nbsp;|&amp;nbsp;Powered by &lt;a href=&quot;https://mybatis.org/&quot; target=&quot;_blank&quot;&gt;www.mybatis.org&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Banner&quot;&gt;
+	
+		
+	
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+
+
+
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String">JSESSIONID=07398BC5450E131ED16FA3A1A12838B3</cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&amp;categoryId=FISH</java.net.URL>
+</httpSample>
+<httpSample t="958" it="0" lt="958" ct="747" ts="1779705072767" s="true" lb="JP04_TC05_SelectSubProduct/actions/Catalog.action-219" rc="200" rm="" tn="" dt="text" de="UTF-8" by="3958" sc="1" ec="0" ng="0" na="0" hn="R36001WL0307">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 
+Date: Mon, 25 May 2026 10:31:13 GMT
+Content-Type: text/html;charset=UTF-8
+Content-Length: 3726
+Connection: close
+Content-Language: en-US
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: navigate
+Referer: https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&amp;categoryId=FISH
+Sec-Fetch-Site: same-origin
+Accept-Language: en-US,en;q=0.9
+Sec-Fetch-User: ?1
+Priority: u=0, i
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Host: petstore.octoperf.com
+Upgrade-Insecure-Requests: 1
+Accept-Encoding: gzip, deflate, br, zstd
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+Sec-Fetch-Dest: document
+</requestHeader>
+  <responseData class="java.lang.String">
+
+
+
+
+
+
+&lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD XHTML 1.0 Transitional//EN&quot;
+&quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&quot;&gt;
+
+&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot;&gt;
+
+&lt;head&gt;
+&lt;link rel=&quot;StyleSheet&quot; href=&quot;../css/jpetstore.css&quot; type=&quot;text/css&quot;
+	media=&quot;screen&quot; /&gt;
+
+&lt;meta name=&quot;generator&quot;
+	content=&quot;HTML Tidy for Linux/x86 (vers 1st November 2002), see www.w3.org&quot; /&gt;
+&lt;title&gt;JPetStore Demo&lt;/title&gt;
+&lt;meta content=&quot;text/html; charset=windows-1252&quot;
+	http-equiv=&quot;Content-Type&quot; /&gt;
+&lt;meta http-equiv=&quot;Cache-Control&quot; content=&quot;max-age=0&quot; /&gt;
+&lt;meta http-equiv=&quot;Cache-Control&quot; content=&quot;no-cache&quot; /&gt;
+&lt;meta http-equiv=&quot;expires&quot; content=&quot;0&quot; /&gt;
+&lt;meta http-equiv=&quot;Expires&quot; content=&quot;Tue, 01 Jan 1980 1:00:00 GMT&quot; /&gt;
+&lt;meta http-equiv=&quot;Pragma&quot; content=&quot;no-cache&quot; /&gt;
+&lt;/head&gt;
+
+&lt;body&gt;
+
+&lt;div id=&quot;Header&quot;&gt;
+
+&lt;div id=&quot;Logo&quot;&gt;
+&lt;div id=&quot;LogoContent&quot;&gt;
+&amp;nbsp;
+&lt;a href=&quot;/actions/Catalog.action&quot;&gt;&lt;img src=&quot;../images/logo-topbar.svg&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Menu&quot;&gt;
+&lt;div id=&quot;MenuContent&quot;&gt;&lt;a href=&quot;/actions/Cart.action?viewCart=&quot;&gt;&lt;img align=&quot;middle&quot; name=&quot;img_cart&quot; src=&quot;../images/cart.gif&quot; /&gt;&lt;/a&gt; &lt;img align=&quot;middle&quot; src=&quot;../images/separator.gif&quot; /&gt;  
+	
+ 
+	
+		&lt;a href=&quot;/actions/Account.action?signoff=&quot;&gt;Sign Out&lt;/a&gt;
+		&lt;img align=&quot;middle&quot; src=&quot;../images/separator.gif&quot; /&gt;
+		&lt;a href=&quot;/actions/Account.action?editAccountForm=&quot;&gt;My Account&lt;/a&gt;
+	
+ &lt;img align=&quot;middle&quot; src=&quot;../images/separator.gif&quot; /&gt; &lt;a
+	href=&quot;../help.html&quot;&gt;?&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Search&quot;&gt;
+&lt;div id=&quot;SearchContent&quot;&gt;&lt;form method=&quot;post&quot; action=&quot;/actions/Catalog.action&quot;&gt;
+	&lt;input size=&quot;14&quot; name=&quot;keyword&quot; type=&quot;text&quot; /&gt;
+	&lt;input name=&quot;searchProducts&quot; type=&quot;submit&quot; value=&quot;Search&quot; /&gt;
+&lt;div style=&quot;display: none;&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;_sourcePage&quot; value=&quot;lj4M36o79mhvwy2QJwZWHxp4xSmXBGAR0K6ELUg8-Uswmjwvj1SNXd7VwyRevRCpyKAo-wavAnfbL72UN0g0x7035qFeWpRMgO8DRJj9US4=&quot; /&gt;&lt;input type=&quot;hidden&quot; name=&quot;__fp&quot; value=&quot;sfc6np5L8lrfOetiWqwn8DCF3JolvzM97BAyBFpIm2R-ArpURUasknNALU_yXSeL&quot; /&gt;&lt;/div&gt;&lt;/form&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;QuickLinks&quot;&gt;&lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=FISH&quot;&gt;&lt;img src=&quot;../images/sm_fish.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=DOGS&quot;&gt;&lt;img src=&quot;../images/sm_dogs.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=REPTILES&quot;&gt;&lt;img src=&quot;../images/sm_reptiles.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=CATS&quot;&gt;&lt;img src=&quot;../images/sm_cats.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=BIRDS&quot;&gt;&lt;img src=&quot;../images/sm_birds.gif&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div id=&quot;Content&quot;&gt;
+
+
+
+
+&lt;div id=&quot;BackLink&quot;&gt;&lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=FISH&quot;&gt;Return to FISH&lt;/a&gt;&lt;/div&gt;
+
+&lt;div id=&quot;Catalog&quot;&gt;
+
+&lt;h2&gt;Tiger Shark&lt;/h2&gt;
+
+&lt;table&gt;
+	&lt;tr&gt;
+		&lt;th&gt;Item ID&lt;/th&gt;
+		&lt;th&gt;Product ID&lt;/th&gt;
+		&lt;th&gt;Description&lt;/th&gt;
+		&lt;th&gt;List Price&lt;/th&gt;
+		&lt;th&gt;&amp;nbsp;&lt;/th&gt;
+	&lt;/tr&gt;
+	
+		&lt;tr&gt;
+			&lt;td&gt;&lt;a href=&quot;/actions/Catalog.action?viewItem=&amp;amp;itemId=EST-3&quot;&gt;EST-3&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;FI-SW-02&lt;/td&gt;
+			&lt;td&gt;Toothless  
+			  Tiger Shark&lt;/td&gt;
+			&lt;td&gt;$18.50&lt;/td&gt;
+			&lt;td&gt;&lt;a href=&quot;/actions/Cart.action?addItemToCart=&amp;amp;workingItemId=EST-3&quot; class=&quot;Button&quot;&gt;Add to Cart&lt;/a&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+	
+	&lt;tr&gt;
+		&lt;td&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;/div&gt;
+
+
+&lt;/div&gt;
+
+&lt;div id=&quot;CTA&quot;&gt;
+Elevate you load-testing with &lt;a href=&quot;https://octoperf.com&quot;&gt;OctoPerf&lt;/a&gt;!
+&lt;/div&gt;
+
+&lt;div id=&quot;Footer&quot;&gt;
+
+&lt;div id=&quot;PoweredBy&quot;&gt;
+&amp;nbsp;&amp;nbsp;Hosted by &lt;a href=&quot;https://octoperf.com&quot; target=&quot;_blank&quot;&gt;https://octoperf.com&lt;/a&gt;&amp;nbsp;|&amp;nbsp;Powered by &lt;a href=&quot;https://mybatis.org/&quot; target=&quot;_blank&quot;&gt;www.mybatis.org&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Banner&quot;&gt;
+	
+		
+	
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+
+
+
+
+
+
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String">JSESSIONID=07398BC5450E131ED16FA3A1A12838B3</cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&amp;productId=FI-SW-02</java.net.URL>
+</httpSample>
+<httpSample t="957" it="0" lt="947" ct="356" ts="1779705078112" s="true" lb="JP04_TC05_SelectSubProduct/api/v1/curated-recommendations-220" rc="200" rm="OK" tn="" dt="text" de="" by="26731" sc="1" ec="0" ng="0" na="0" hn="R36001WL0307">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Connection: close
+Content-Length: 26252
+server: nginx
+strict-transport-security: max-age=31536000
+via: 1.1 google, 1.1 varnish, 1.1 varnish
+content-type: application/json
+x-request-id: ad56e55a27734ccfa72a5c81e4e44dce
+accept-ranges: bytes
+Date: Mon, 25 May 2026 10:31:18 GMT
+X-Served-By: cache-maa10233-MAA, cache-maa10233-MAA, cache-maa10226-MAA
+X-Cache: MISS, MISS
+X-Cache-Hits: 0, 0
+X-Timer: S1779705079.519937,VS0,VE429
+Vary: Accept-Encoding
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.9
+Host: merino.services.mozilla.com
+content-type: application/json
+Priority: u=4
+Accept-Encoding: gzip, deflate, br, zstd
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+Accept: */*
+Content-Length: 112
+</requestHeader>
+  <responseData class="java.lang.String">{&quot;recommendedAt&quot;:1779705078794,&quot;surfaceId&quot;:&quot;NEW_TAB_EN_INTL&quot;,&quot;data&quot;:[{&quot;corpusItemId&quot;:&quot;8e5eb319-d805-4785-adfd-2afc78f42dd3&quot;,&quot;scheduledCorpusItemId&quot;:&quot;7051ceb9-64a2-4a50-9cb8-0f94c36de503&quot;,&quot;url&quot;:&quot;https://www.timesnownews.com/india/94-percent-audience-from-india-cockroach-party-founder-abhijeet-dipke-counters-rijijus-followers-from-pakistan-claim-article-154386951?utm_source=firefox-newtab-en-intl&quot;,&quot;title&quot;:&quot;‘94% Audience From India’: ‘Cockroach’ Party Founder Counters Rijiju’s ‘Followers From Pak’ Claim&quot;,&quot;excerpt&quot;:&quot;Dipke’s response came in counter to Rijiju’s post in which he showed “pity” for those seeking followers from Pakistan., India News, Times Now&quot;,&quot;topic&quot;:&quot;government&quot;,&quot;publisher&quot;:&quot;Times Now&quot;,&quot;isTimeSensitive&quot;:true,&quot;imageUrl&quot;:&quot;https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/c6aa7bd5-0d5c-4c5e-9d16-a776989d9dd2.jpeg&quot;,&quot;iconUrl&quot;:&quot;https://prod-images.merino.prod.webservices.mozgcp.net/favicons/4a7d254cf5884921a258c78f277cd1ce2e9a51e1c6eed7e8bcbd718bd0da2a00_1847.png&quot;,&quot;tileId&quot;:4417676196917088,&quot;receivedRank&quot;:0,&quot;serverScore&quot;:null,&quot;features&quot;:{&quot;t_government&quot;:1.0}},{&quot;corpusItemId&quot;:&quot;1d72e22d-ce02-4055-b752-768f1ac703bf&quot;,&quot;scheduledCorpusItemId&quot;:&quot;03bde230-fbbd-4151-a36f-6ca5347e1705&quot;,&quot;url&quot;:&quot;https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/?utm_source=firefox-newtab-en-intl&quot;,&quot;title&quot;:&quot;A Fundamental Principle of Aeronautical Engineering Has Been Overturned&quot;,&quot;excerpt&quot;:&quot;It’s long been accepted that the smoother the surface, the lower the aerodynamic drag. That turns out not always to be the case.&quot;,&quot;topic&quot;:&quot;education-science&quot;,&quot;publisher&quot;:&quot;WIRED&quot;,&quot;isTimeSensitive&quot;:false,&quot;imageUrl&quot;:&quot;https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/ffe644e1-690c-4de5-9544-e379c2d10360.jpeg&quot;,&quot;iconUrl&quot;:&quot;https://prod-images.merino.prod.webservices.mozgcp.net/favicons/b554495fc49de4c5cb670d311caa97e3845cb722406cbe9f5e4ef27ab37a85e1_12100.png&quot;,&quot;tileId&quot;:1375652925930268,&quot;receivedRank&quot;:1,&quot;serverScore&quot;:null,&quot;features&quot;:{&quot;t_education-science&quot;:1.0}},{&quot;corpusItemId&quot;:&quot;f1fb9478-9830-450d-bae7-0b426a7a456d&quot;,&quot;scheduledCorpusItemId&quot;:&quot;39d41d0a-5228-4e28-a8f9-8f3800834a2a&quot;,&quot;url&quot;:&quot;https://www.business-standard.com/cricket/news/harmanpreet-kaur-led-indian-team-depart-for-women-s-t20-world-cup-2026-126052300809_1.html?utm_source=firefox-newtab-en-intl&quot;,&quot;title&quot;:&quot;Harmanpreet Kaur-Led Indian Team Depart for Women’s T20 World Cup 2026&quot;,&quot;excerpt&quot;:&quot;Led by experienced captain Harmanpreet Kaur, India have been drawn in Group 1 alongside strong opponents Australia, South Africa, Pakistan, Bangladesh and the Netherlands.&quot;,&quot;topic&quot;:&quot;sports&quot;,&quot;publisher&quot;:&quot;Business Standard&quot;,&quot;isTimeSensitive&quot;:false,&quot;imageUrl&quot;:&quot;https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/78c59a04-7a41-43f3-826d-c5e0adaf9c04.jpeg&quot;,&quot;iconUrl&quot;:null,&quot;tileId&quot;:1930938415360272,&quot;receivedRank&quot;:2,&quot;serverScore&quot;:null,&quot;features&quot;:{&quot;t_sports&quot;:1.0}},{&quot;corpusItemId&quot;:&quot;62ce9ff8-8eaa-44af-b50b-796a960dc9fb&quot;,&quot;scheduledCorpusItemId&quot;:&quot;8ccb8afa-d157-472d-b41a-db2f79099cab&quot;,&quot;url&quot;:&quot;https://www.cntraveller.in/story/5-hill-stations-in-south-india-to-escape-the-summer-heat/?utm_source=firefox-newtab-en-intl&quot;,&quot;title&quot;:&quot;5 Hill Stations in South India to Escape the Summer Heat&quot;,&quot;excerpt&quot;:&quot;Where tea estates blanket the slopes, forest trails offer refuge, and summer days stay mercifully cool&quot;,&quot;topic&quot;:&quot;travel&quot;,&quot;publisher&quot;:&quot;Condé Nast Traveller India&quot;,&quot;isTimeSensitive&quot;:false,&quot;imageUrl&quot;:&quot;https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/7ae1324c-ec47-4b19-af91-ed96e4b7d06a.jpeg&quot;,&quot;iconUrl&quot;:&quot;https://prod-images.merino.prod.webservices.mozgcp.net/favicons/ad09db8de55f4881fbc0257ada6bbecc5e7b4ad2125c265bd0e3fcdf655ccf41_8083.png&quot;,&quot;tileId&quot;:889118391767113,&quot;receivedRank&quot;:3,&quot;serverScore&quot;:null,&quot;features&quot;:{&quot;t_travel&quot;:1.0}},{&quot;corpusItemId&quot;:&quot;60070c62-f07c-4b13-9423-217dd181bb80&quot;,&quot;scheduledCorpusItemId&quot;:&quot;efffc60e-d635-4973-8f4f-0eb0b1a19481&quot;,&quot;url&quot;:&quot;https://www.news18.com/lifestyle/food/thinking-of-cutting-carbs-from-your-meals-to-get-fit-try-carb-timing-instead-10109568.html?utm_source=firefox-newtab-en-intl&quot;,&quot;title&quot;:&quot;Thinking of Cutting Carbs From Your Meals to Get Fit? Try Carb Timing Instead&quot;,&quot;excerpt&quot;:&quot;Whole carbohydrates such as oats, millets, quinoa, fruits, and vegetables provide steady energy, fiber, and important micronutrients.&quot;,&quot;topic&quot;:&quot;food&quot;,&quot;publisher&quot;:&quot;News18&quot;,&quot;isTimeSensitive&quot;:false,&quot;imageUrl&quot;:&quot;https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/94633055-2518-49ae-a88b-63daf19d8884.jpeg&quot;,&quot;iconUrl&quot;:null,&quot;tileId&quot;:411453317212002,&quot;receivedRank&quot;:4,&quot;serverScore&quot;:null,&quot;features&quot;:{&quot;t_food&quot;:1.0}},{&quot;corpusItemId&quot;:&quot;127fe683-2941-4895-8b8d-04f22c4d7224&quot;,&quot;scheduledCorpusItemId&quot;:&quot;2ea2cf87-a39d-4e69-89b8-80a0d86669e7&quot;,&quot;url&quot;:&quot;https://www.indiatoday.in/movies/celebrities/story/john-krasinski-indian-cinema-jack-ryan-ghost-war-writing-process-2914398-2026-05-20?utm_source=firefox-newtab-en-intl&quot;,&quot;title&quot;:&quot;Jack Ryan’s John Krasinski Enters Dhurandhar Era, Wants to Watch Ranveer’s Film&quot;,&quot;excerpt&quot;:&quot;Ahead of Tom Clancy&apos;s Jack Ryan: Ghost War, John Krasinski spoke about Indian cinema, writing and the film&apos;s espionage world. Wendell Pierce and Michael Kelly also reflected on truth in the age of AI and a family milestone at home.&quot;,&quot;topic&quot;:&quot;arts&quot;,&quot;publisher&quot;:&quot;India Today&quot;,&quot;isTimeSensitive&quot;:false,&quot;imageUrl&quot;:&quot;https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/e1d38ce3-29d3-4430-af68-89a39f2dede1.jpeg&quot;,&quot;iconUrl&quot;:null,&quot;tileId&quot;:6921554691504239,&quot;receivedRank&quot;:5,&quot;serverScore&quot;:null,&quot;features&quot;:{&quot;t_arts&quot;:1.0}},{&quot;corpusItemId&quot;:&quot;0c11c088-993e-480e-b790-d004c3259580&quot;,&quot;scheduledCorpusItemId&quot;:&quot;c894faf0-fc84-49e3-ae6f-bd41474b7a16&quot;,&quot;url&quot;:&quot;https://www.forbes.com/sites/rachelwells/2026/05/24/after-meta-layoffs-psychologist-names-the-no1-skill-workers-need-now/?utm_source=firefox-newtab-en-intl&quot;,&quot;title&quot;:&quot;After Meta Layoffs, Psychologist Names the No.1 Skill Workers Need Now&quot;,&quot;excerpt&quot;:&quot;Meta laid off 8,000 employees and reassigned 7,000. In times of uncertainty and organizational upheaval, here’s the one skill you need now, according to a psychologist.&quot;,&quot;topic&quot;:&quot;career&quot;,&quot;publisher&quot;:&quot;Forbes&quot;,&quot;isTimeSensitive&quot;:false,&quot;imageUrl&quot;:&quot;https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/09d43eac-7c58-40e6-9911-6329743eb3fe.jpeg&quot;,&quot;iconUrl&quot;:&quot;https://prod-images.merino.prod.webservices.mozgcp.net/favicons/cea57c26eabac2ae24eda69de50ff7c67e3d57ad393c43904a68b51b9e6aca44_2509.png&quot;,&quot;tileId&quot;:7379513698717107,&quot;receivedRank&quot;:6,&quot;serverScore&quot;:null,&quot;features&quot;:{&quot;t_career&quot;:1.0}},{&quot;corpusItemId&quot;:&quot;a4f9e435-4636-40aa-a094-2eb522308317&quot;,&quot;scheduledCorpusItemId&quot;:&quot;34b97307-af1b-4149-baf2-a83aacb68d6d&quot;,&quot;url&quot;:&quot;https://www.bbc.com/news/articles/ce8pn63q771o?utm_source=firefox-newtab-en-intl&quot;,&quot;title&quot;:&quot;I Survived a Missile Strike in the Strait of Hormuz, but My Friend Has Not Been Found&quot;,&quot;excerpt&quot;:&quot;Sunil Puniya was on his first sea job when a missile struck the oil tanker Skylight at the start of the Iran war.&quot;,&quot;topic&quot;:&quot;education&quot;,&quot;publisher&quot;:&quot;BBC&quot;,&quot;isTimeSensitive&quot;:false,&quot;imageUrl&quot;:&quot;https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/30596dab-c594-461e-909b-d4ae24b920cb.webp&quot;,&quot;iconUrl&quot;:&quot;https://prod-images.merino.prod.webservices.mozgcp.net/favicons/c0924b1ab28c6bf0d80a0ca6c8d4c20532b8cf27da8ecf28d5e57109fe0b1bfb_662.png&quot;,&quot;tileId&quot;:6283204391755240,&quot;receivedRank&quot;:7,&quot;serverScore&quot;:null,&quot;features&quot;:{&quot;t_education&quot;:1.0}},{&quot;corpusItemId&quot;:&quot;63cf557e-88e4-409c-8133-49fa4e809e7e&quot;,&quot;scheduledCorpusItemId&quot;:&quot;8b145cc2-d640-4b5f-8eaa-283f21fb1796&quot;,&quot;url&quot;:&quot;https://www.vogue.in/content/7-easy-ways-to-increase-your-daily-fibre-intake?utm_source=firefox-newtab-en-intl&quot;,&quot;title&quot;:&quot;7 Easy Ways to Increase Your Daily Fibre Intake&quot;,&quot;excerpt&quot;:&quot;Most adults are deficient in the necessary dietary cornerstone, but these tips from medical professionals can help close the gap&quot;,&quot;topic&quot;:&quot;health&quot;,&quot;publisher&quot;:&quot;Vogue India&quot;,&quot;isTimeSensitive&quot;:false,&quot;imageUrl&quot;:&quot;https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/043b18ce-5c50-47a6-b2a1-c54a468ee15d.jpeg&quot;,&quot;iconUrl&quot;:&quot;https://prod-images.merino.prod.webservices.mozgcp.net/favicons/0137abe215358450defc129fc2c5e6c90e4f35259f0261b03e4043cbd80573e3_2613.png&quot;,&quot;tileId&quot;:899167144938695,&quot;receivedRank&quot;:8,&quot;serverScore&quot;:null,&quot;features&quot;:{&quot;t_health&quot;:1.0}},{&quot;corpusItemId&quot;:&quot;21a43c1c-6cbf-4c7f-9f08-9cb59dd17997&quot;,&quot;scheduledCorpusItemId&quot;:&quot;754b7710-d1c6-4e2b-928c-7bc6ab9bd211&quot;,&quot;url&quot;:&quot;https://www.indiatoday.in/business/personal-finance/story/would-you-wait-5-years-for-gratuity-or-switch-for-better-pay-indians-speak-2915012-2026-05-24?utm_source=firefox-newtab-en-intl&quot;,&quot;title&quot;:&quot;Would You Wait 5 Years for Gratuity or Switch for Better Pay? Indians Speak&quot;,&quot;excerpt&quot;:&quot;Professionals across sectors shared how the five-year gratuity mark shapes job-switch decisions. Their responses showed financial security matters, but career growth usually decides the final move.&quot;,&quot;topic&quot;:&quot;finance&quot;,&quot;publisher&quot;:&quot;India Today&quot;,&quot;isTimeSensitive&quot;:false,&quot;imageUrl&quot;:&quot;https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/5e28f883-b12a-4495-ad00-cb63b9ab2e0a.jpeg&quot;,&quot;iconUrl&quot;:null,&quot;tileId&quot;:6583890362873662,&quot;receivedRank&quot;:9,&quot;serverScore&quot;:null,&quot;features&quot;:{&quot;t_finance&quot;:1.0}},{&quot;corpusItemId&quot;:&quot;4b7aa08f-07a9-4b20-8d2f-8ec4c67665b2&quot;,&quot;scheduledCorpusItemId&quot;:&quot;4809a29d-4fe5-4b27-86c3-e2eebfe5c2f3&quot;,&quot;url&quot;:&quot;https://indianexpress.com/article/sports/late-night-shifts-village-grounds-built-india-sprinter-gurindervir-10704794/?utm_source=firefox-newtab-en-intl&quot;,&quot;title&quot;:&quot;How Late-Night Shifts and Village Grounds Built India’s Fastest Sprinter&quot;,&quot;excerpt&quot;:&quot;Gurindervir Singh’s father, Kamaljit, recalls the early struggles of India’s fastest man&quot;,&quot;topic&quot;:&quot;sports&quot;,&quot;publisher&quot;:&quot;The Indian Express&quot;,&quot;isTimeSensitive&quot;:false,&quot;imageUrl&quot;:&quot;https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/069ef394-83fa-4e99-8d5b-80131872d42b.jpeg&quot;,&quot;iconUrl&quot;:&quot;https://prod-images.merino.prod.webservices.mozgcp.net/favicons/f3e579097bd6a298dc549655b13d141026ce6fc9251d112a317b818ce376e044_2803.oct&quot;,&quot;tileId&quot;:2744533576106148,&quot;receivedRank&quot;:10,&quot;serverScore&quot;:null,&quot;features&quot;:{&quot;t_sports&quot;:1.0}},{&quot;corpusItemId&quot;:&quot;20e65b2d-d599-4084-8071-3ac6d06b711e&quot;,&quot;scheduledCorpusItemId&quot;:&quot;83e57253-3431-42c6-a629-7e26c9c0a10f&quot;,&quot;url&quot;:&quot;https://thewire.in/diplomacy/jaishankar-raises-us-visa-restrictions-as-rubio-defends-trumps-america-first-policies?utm_source=firefox-newtab-en-intl&quot;,&quot;title&quot;:&quot;Jaishankar Raises US Visa Restrictions As Rubio Defends Trump’s ‘America First’ Policies &quot;,&quot;excerpt&quot;:&quot;Separately, all five US consulates in India have pushed H-1B visa interview dates to 2027, leaving Indian professionals who travel home unable to return to the United States for extended periods.&quot;,&quot;topic&quot;:&quot;government&quot;,&quot;publisher&quot;:&quot;The Wire&quot;,&quot;isTimeSensitive&quot;:true,&quot;imageUrl&quot;:&quot;https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/5cd141ab-dd95-4e6f-bdbd-d15fe5aee696.jpeg&quot;,&quot;iconUrl&quot;:&quot;https://prod-images.merino.prod.webservices.mozgcp.net/favicons/b1f147ab878e9a4c4612b6525492f009c4031190a5eb144c5dce7a851c92c352_7986.ico&quot;,&quot;tileId&quot;:317723801439132,&quot;receivedRank&quot;:11,&quot;serverScore&quot;:null,&quot;features&quot;:{&quot;t_government&quot;:1.0}},{&quot;corpusItemId&quot;:&quot;61afcace-3e16-4ffe-9396-2de52ebf60e6&quot;,&quot;scheduledCorpusItemId&quot;:&quot;bea465df-5bfd-4414-ac5a-4394a0004176&quot;,&quot;url&quot;:&quot;https://www.timesnownews.com/education/success-can-be-the-real-enemy-of-growth-shobhit-nirwan-explains-why-article-154387678?utm_source=firefox-newtab-en-intl&quot;,&quot;title&quot;:&quot;‘Success Can Be the Real Enemy of Growth’ Shobhit Nirwan Explains Why&quot;,&quot;excerpt&quot;:&quot;Shobhit Nirwan explains how success can quietly reduce curiosity and learning. His core message is that continuous learning is essential and one must “stay a student always.”, Education, Times Now&quot;,&quot;topic&quot;:&quot;society&quot;,&quot;publisher&quot;:&quot;Times Now&quot;,&quot;isTimeSensitive&quot;:false,&quot;imageUrl&quot;:&quot;https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/bb095959-00fb-458c-8cdf-4ee9c99cb319.jpeg&quot;,&quot;iconUrl&quot;:&quot;https://prod-images.merino.prod.webservices.mozgcp.net/favicons/4a7d254cf5884921a258c78f277cd1ce2e9a51e1c6eed7e8bcbd718bd0da2a00_1847.png&quot;,&quot;tileId&quot;:2819798551703081,&quot;receivedRank&quot;:12,&quot;serverScore&quot;:null,&quot;features&quot;:{&quot;t_society&quot;:1.0}},{&quot;corpusItemId&quot;:&quot;67cdb0fb-80a1-4a83-b7ab-5aeb36e3916d&quot;,&quot;scheduledCorpusItemId&quot;:&quot;1a9607b1-d414-4cd5-b95e-5d48f4338b2d&quot;,&quot;url&quot;:&quot;https://www.forbes.com/sites/shodewan/2026/05/24/how-to-grow-professionally-when-your-job-isnt-growing-you/?utm_source=firefox-newtab-en-intl&quot;,&quot;title&quot;:&quot;How to Grow Professionally When Your Job Isn’t Growing You&quot;,&quot;excerpt&quot;:&quot;Feeling stuck in a job that stopped growing you? Here is how to take ownership of your development, build new skills, and keep moving forward on your own terms.&quot;,&quot;topic&quot;:&quot;career&quot;,&quot;publisher&quot;:&quot;Forbes&quot;,&quot;isTimeSensitive&quot;:false,&quot;imageUrl&quot;:&quot;https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/c785ede7-a7ac-4ade-8c35-141400337854.jpeg&quot;,&quot;iconUrl&quot;:&quot;https://prod-images.merino.prod.webservices.mozgcp.net/favicons/cea57c26eabac2ae24eda69de50ff7c67e3d57ad393c43904a68b51b9e6aca44_2509.png&quot;,&quot;tileId&quot;:8647830974221174,&quot;receivedRank&quot;:13,&quot;serverScore&quot;:null,&quot;features&quot;:{&quot;t_career&quot;:1.0}},{&quot;corpusItemId&quot;:&quot;5a2f4247-db28-46bc-b0c3-0830f973e32f&quot;,&quot;scheduledCorpusItemId&quot;:&quot;4a1f1136-bdce-4721-b50f-1eb58397f806&quot;,&quot;url&quot;:&quot;https://www.architecturaldigest.in/story/once-a-garage-space-transformed-into-an-idyllic-garden-cottage-in-bengaluru/?utm_source=firefox-newtab-en-intl&quot;,&quot;title&quot;:&quot;Once a Garage Space, Transformed Into an Idyllic Garden Cottage in Bengaluru&quot;,&quot;excerpt&quot;:&quot;When a neighbouring plot came up for sale in Bengaluru, a request for a garage quickly turned into the perfect starting point for a garden cottage built by Tessera Architects for friendship, family, and the joy of having people over.&quot;,&quot;topic&quot;:&quot;home&quot;,&quot;publisher&quot;:&quot;AD India&quot;,&quot;isTimeSensitive&quot;:false,&quot;imageUrl&quot;:&quot;https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/c6bfc2f5-ba3d-45b9-9bfa-1c5f42fa9a66.jpeg&quot;,&quot;iconUrl&quot;:&quot;https://prod-images.merino.prod.webservices.mozgcp.net/favicons/8d3df1e947c3b44cafb0fb4887d58fc7f1b3f10c10d593d5bedf17e311d05561_309614.oct&quot;,&quot;tileId&quot;:7624497406837353,&quot;receivedRank&quot;:14,&quot;serverScore&quot;:null,&quot;features&quot;:{&quot;t_home&quot;:1.0}},{&quot;corpusItemId&quot;:&quot;95996cbc-114b-4ae2-96c9-799967731ce3&quot;,&quot;scheduledCorpusItemId&quot;:&quot;e9337f9c-7b42-4236-bccb-27bb3eae3e2b&quot;,&quot;url&quot;:&quot;https://www.gq.com/story/whens-the-best-time-to-take-magnesium-3?utm_source=firefox-newtab-en-intl&quot;,&quot;title&quot;:&quot;When’s the Best Time to Take Magnesium?&quot;,&quot;excerpt&quot;:&quot;An expert explains how and when you should take magnesium supplements to maximize their benefits and minimize potential side effects.&quot;,&quot;topic&quot;:&quot;health&quot;,&quot;publisher&quot;:&quot;GQ&quot;,&quot;isTimeSensitive&quot;:false,&quot;imageUrl&quot;:&quot;https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/bd0e9644-feb8-4973-a46a-a9f305b1c927.jpeg&quot;,&quot;iconUrl&quot;:&quot;https://prod-images.merino.prod.webservices.mozgcp.net/favicons/64d23690a728762614ac35555c8c5e58da26eacdc0ad31db305dc0d72b29c01e_3478.png&quot;,&quot;tileId&quot;:7007106307060238,&quot;receivedRank&quot;:15,&quot;serverScore&quot;:null,&quot;features&quot;:{&quot;t_health&quot;:1.0}},{&quot;corpusItemId&quot;:&quot;4d8c7847-2004-48db-ac64-47ebee4ef921&quot;,&quot;scheduledCorpusItemId&quot;:&quot;c86a9388-b52a-4f59-aa09-1bc177eb2898&quot;,&quot;url&quot;:&quot;https://scroll.in/article/1093049/has-an-ai-authored-story-just-won-a-literary-prize-what-does-it-mean-for-writing-and-books?utm_source=firefox-newtab-en-intl&quot;,&quot;title&quot;:&quot;Has an AI-Authored Story Just Won a Literary Prize? What Does It Mean for Writing and Books?&quot;,&quot;excerpt&quot;:&quot;At least one – and maybe three – of the five regional winners of the Commonwealth Short Story Competition faces allegations of using AI to write the stories.&quot;,&quot;topic&quot;:&quot;tech&quot;,&quot;publisher&quot;:&quot;Scroll&quot;,&quot;isTimeSensitive&quot;:false,&quot;imageUrl&quot;:&quot;https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/7e18711c-7c04-4eab-ab85-e43b01f255ef.jpeg&quot;,&quot;iconUrl&quot;:&quot;https://prod-images.merino.prod.webservices.mozgcp.net/favicons/c60d4321c5330939855ea75b23282edd997410b439c0284b713fdd490f1336a5_1326.png&quot;,&quot;tileId&quot;:1804483447332340,&quot;receivedRank&quot;:16,&quot;serverScore&quot;:null,&quot;features&quot;:{&quot;t_tech&quot;:1.0}},{&quot;corpusItemId&quot;:&quot;5ade7389-c463-458c-802b-872cced18ee5&quot;,&quot;scheduledCorpusItemId&quot;:&quot;aaa7b62a-587f-496f-8a98-64cf1051c6f0&quot;,&quot;url&quot;:&quot;https://timesofindia.indiatimes.com/business/india-business/what-is-trumps-america-first-visa-policy-heres-what-it-means-for-indians/articleshow/131288902.cms?utm_source=firefox-newtab-en-intl&quot;,&quot;title&quot;:&quot;What Is Trump’s ‘America First’ Visa Policy? Here’s What It Means for Indians&quot;,&quot;excerpt&quot;:&quot;US Secretary of State Marco Rubio on Saturday announced that the United States will introduce a new visa scheduling system in India under the Trump administration&apos;s &apos;America First&apos; visa policy.&quot;,&quot;topic&quot;:&quot;business&quot;,&quot;publisher&quot;:&quot;The Times of India&quot;,&quot;isTimeSensitive&quot;:true,&quot;imageUrl&quot;:&quot;https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/77940c21-ff5b-4621-9654-35e0dce31616.jpeg&quot;,&quot;iconUrl&quot;:&quot;https://prod-images.merino.prod.webservices.mozgcp.net/favicons/abb8bd0e03d9d324bafad058881c0d5eacef66167cea24068a5fcff99a5595f8_13295.png&quot;,&quot;tileId&quot;:8180703852282765,&quot;receivedRank&quot;:17,&quot;serverScore&quot;:null,&quot;features&quot;:{&quot;t_business&quot;:1.0}},{&quot;corpusItemId&quot;:&quot;879929fb-cdaa-4f65-bff0-d8cc7d20686e&quot;,&quot;scheduledCorpusItemId&quot;:&quot;c1e0cb42-d716-44c9-81f9-fee3f361ceb4&quot;,&quot;url&quot;:&quot;https://www.cntraveller.in/story/new-books-foodies-need-to-get-their-hands-on-this-year/?utm_source=firefox-newtab-en-intl&quot;,&quot;title&quot;:&quot;6 New Books Foodies Need to Get Their Hands on This Year&quot;,&quot;excerpt&quot;:&quot;Cookbooks, culinary history archives, food memoirs and other 2026 releases that deserve a spot on every foodie’s shelf&quot;,&quot;topic&quot;:&quot;food&quot;,&quot;publisher&quot;:&quot;Condé Nast Traveller India&quot;,&quot;isTimeSensitive&quot;:false,&quot;imageUrl&quot;:&quot;https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/39e0819b-b7ca-4bf5-9de1-648e1976948a.jpeg&quot;,&quot;iconUrl&quot;:&quot;https://prod-images.merino.prod.webservices.mozgcp.net/favicons/ad09db8de55f4881fbc0257ada6bbecc5e7b4ad2125c265bd0e3fcdf655ccf41_8083.png&quot;,&quot;tileId&quot;:2360864039271854,&quot;receivedRank&quot;:18,&quot;serverScore&quot;:null,&quot;features&quot;:{&quot;t_food&quot;:1.0}},{&quot;corpusItemId&quot;:&quot;074f7bf5-ce0f-47e2-b52f-22ba37f5471e&quot;,&quot;scheduledCorpusItemId&quot;:&quot;1bbecf2c-07cf-44ee-b9f8-3f3a6c582d83&quot;,&quot;url&quot;:&quot;https://www.theverge.com/column/935545/hackers-ai-chatbots?utm_source=firefox-newtab-en-intl&quot;,&quot;title&quot;:&quot;Hackers Are Learning to Exploit Chatbot ‘Personalities’&quot;,&quot;excerpt&quot;:&quot;﻿AI can’t feel, but the best hackers pretend it can.&quot;,&quot;topic&quot;:&quot;tech&quot;,&quot;publisher&quot;:&quot;The Verge&quot;,&quot;isTimeSensitive&quot;:false,&quot;imageUrl&quot;:&quot;https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/eea545dd-980e-44d4-8f5c-7fe31db09261.jpeg&quot;,&quot;iconUrl&quot;:&quot;https://prod-images.merino.prod.webservices.mozgcp.net/favicons/1d3952d96d47acbab2580a8710a9d7567114332b492a885caf3eae99c73f69b5_17381.png&quot;,&quot;tileId&quot;:3134014693074847,&quot;receivedRank&quot;:19,&quot;serverScore&quot;:null,&quot;features&quot;:{&quot;t_tech&quot;:1.0}},{&quot;corpusItemId&quot;:&quot;f2ccc3ae-3a42-49f5-9c22-580272a10257&quot;,&quot;scheduledCorpusItemId&quot;:&quot;9430707c-5888-4b19-918b-d70be8e503ab&quot;,&quot;url&quot;:&quot;https://www.independent.co.uk/life-style/girl-dad-fatherhood-pints-ponytails-andrew-tate-b2982200.html?utm_source=firefox-newtab-en-intl&quot;,&quot;title&quot;:&quot;Girl Dads Are Great, Actually&quot;,&quot;excerpt&quot;:&quot;The slogan ‘girl dad’ has been printed on T-Shirts and trucker caps and worn proudly by fathers to daughters since the term was popularized by the late Kobe Bryant. But what does it mean to be a girl dad? Is it a performative notion of fatherhood, or a mo&quot;,&quot;topic&quot;:&quot;society-parenting&quot;,&quot;publisher&quot;:&quot;The Independent&quot;,&quot;isTimeSensitive&quot;:false,&quot;imageUrl&quot;:&quot;https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/9019f675-c169-4bda-a541-85ea9f2e4fdb.jpeg&quot;,&quot;iconUrl&quot;:&quot;https://prod-images.merino.prod.webservices.mozgcp.net/favicons/f0a0f4929b74b9462f3ce83e0cafe12fa14cd076654add1a5d5d3d63deb59a87_80112.png&quot;,&quot;tileId&quot;:1334248660339576,&quot;receivedRank&quot;:20,&quot;serverScore&quot;:null,&quot;features&quot;:{&quot;t_society-parenting&quot;:1.0}},{&quot;corpusItemId&quot;:&quot;7116178f-65de-4794-a70e-2724b7ec5073&quot;,&quot;scheduledCorpusItemId&quot;:&quot;06ebe268-e8b4-4488-9941-de2437a18a74&quot;,&quot;url&quot;:&quot;https://openthemagazine.com/columns/whats-the-secret-sauce-of-indias-century-old-business-families?utm_source=firefox-newtab-en-intl&quot;,&quot;title&quot;:&quot;What’s the Secret Sauce of India’s Century-Old Business Families?&quot;,&quot;excerpt&quot;:&quot;Acrimoniously or amicably, India’s family businesses have split. Interestingly, many have not only survived 100 years but are thriving.&quot;,&quot;topic&quot;:&quot;business&quot;,&quot;publisher&quot;:&quot;Open Magazine&quot;,&quot;isTimeSensitive&quot;:false,&quot;imageUrl&quot;:&quot;https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/720c01f8-a50f-42da-80db-5ac0bc46ac8c.jpeg&quot;,&quot;iconUrl&quot;:null,&quot;tileId&quot;:1806837943597393,&quot;receivedRank&quot;:21,&quot;serverScore&quot;:null,&quot;features&quot;:{&quot;t_business&quot;:1.0}},{&quot;corpusItemId&quot;:&quot;fa50d4df-8e31-40da-b88f-8944314ce2e1&quot;,&quot;scheduledCorpusItemId&quot;:&quot;8f935859-eb7e-4880-8faf-63b27d2aab06&quot;,&quot;url&quot;:&quot;https://www.vox.com/future-perfect/489426/moral-luck-ethics-parenting-guilt?utm_source=firefox-newtab-en-intl&quot;,&quot;title&quot;:&quot;You Can Do Everything Right and Things Can Still Go Wrong. “Moral Luck” Is a Way to Live With That.&quot;,&quot;excerpt&quot;:&quot;This radical philosophical idea can free you from a lifetime of unnecessary guilt.&quot;,&quot;topic&quot;:&quot;society-parenting&quot;,&quot;publisher&quot;:&quot;Vox&quot;,&quot;isTimeSensitive&quot;:false,&quot;imageUrl&quot;:&quot;https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/7342df06-2b06-4da1-90a4-e2cf2da46deb.jpeg&quot;,&quot;iconUrl&quot;:&quot;https://prod-images.merino.prod.webservices.mozgcp.net/favicons/0231ffd69a50956893bc799e788dc610a7036d990f44876a9106179d987aeca1_14472.png&quot;,&quot;tileId&quot;:5675295183450249,&quot;receivedRank&quot;:22,&quot;serverScore&quot;:null,&quot;features&quot;:{&quot;t_society-parenting&quot;:1.0}},{&quot;corpusItemId&quot;:&quot;e3f5233d-3afe-4e1e-86d9-c2c0d341e841&quot;,&quot;scheduledCorpusItemId&quot;:&quot;05942b3d-4841-4af0-9c3f-ce1ea7e96a9f&quot;,&quot;url&quot;:&quot;https://www.firstpost.com/lifestyle/the-indian-film-schools-outperforming-new-york-london-and-paris-at-cannes-14013955.html?utm_source=firefox-newtab-en-intl&quot;,&quot;title&quot;:&quot;The Indian Film Schools Outperforming New York, London, and Paris at Cannes&quot;,&quot;excerpt&quot;:&quot;India’s FTII Pune and SRFTI Kolkata are outperforming leading global film schools at the Cannes Film Festival, winning major prizes and shaping the next generation of Indian cinema&quot;,&quot;topic&quot;:&quot;arts&quot;,&quot;publisher&quot;:&quot;Firstpost&quot;,&quot;isTimeSensitive&quot;:false,&quot;imageUrl&quot;:&quot;https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/b42e0d6d-36ba-4ddb-a488-439f702a201a.jpeg&quot;,&quot;iconUrl&quot;:null,&quot;tileId&quot;:8790303364498219,&quot;receivedRank&quot;:23,&quot;serverScore&quot;:null,&quot;features&quot;:{&quot;t_arts&quot;:1.0}},{&quot;corpusItemId&quot;:&quot;57e8b256-4552-42a9-8958-4638840864e2&quot;,&quot;scheduledCorpusItemId&quot;:&quot;7881a11d-eb77-466d-8758-663757e1b00f&quot;,&quot;url&quot;:&quot;https://www.architecturaldigest.in/story/cape-weligama-revives-the-joys-of-summer-travel-with-its-crescent-shaped-infinity-pool-sri-lanka-hotels/?utm_source=firefox-newtab-en-intl&quot;,&quot;title&quot;:&quot;Cape Weligama Revives the Joys of Travel With Its Crescent-Shaped Infinity Pool&quot;,&quot;excerpt&quot;:&quot;Originally designed by renowned Thai architect Mathar ‘Lek’ Bunnag and recently renovated by French designer Cecile Domain, Cape Weligama is an evolving tropical paradise in Sri Lanka.&quot;,&quot;topic&quot;:&quot;travel&quot;,&quot;publisher&quot;:&quot;AD India&quot;,&quot;isTimeSensitive&quot;:false,&quot;imageUrl&quot;:&quot;https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/4723a826-d738-444c-a331-e55b4bc8f562.jpeg&quot;,&quot;iconUrl&quot;:&quot;https://prod-images.merino.prod.webservices.mozgcp.net/favicons/8d3df1e947c3b44cafb0fb4887d58fc7f1b3f10c10d593d5bedf17e311d05561_309614.oct&quot;,&quot;tileId&quot;:7357476442533721,&quot;receivedRank&quot;:24,&quot;serverScore&quot;:null,&quot;features&quot;:{&quot;t_travel&quot;:1.0}},{&quot;corpusItemId&quot;:&quot;22d68298-89bb-45e5-8578-22b7967da743&quot;,&quot;scheduledCorpusItemId&quot;:&quot;f0d10e63-37f4-403c-bd46-d698a23bbc5c&quot;,&quot;url&quot;:&quot;https://www.moneycontrol.com/lifestyle/home-garden/indian-homes-are-rediscovering-the-art-of-feeling-warm-again-here-s-how-article-13924027.html?utm_source=firefox-newtab-en-intl&quot;,&quot;title&quot;:&quot;Indian Homes Are Rediscovering the Art of Feeling Warm Again, Here’s How&quot;,&quot;excerpt&quot;:&quot;Modern Indian homes are moving away from stark white minimalism and embracing textured walls, earthy tones and layered finishes.&quot;,&quot;topic&quot;:&quot;home&quot;,&quot;publisher&quot;:&quot;Money Control&quot;,&quot;isTimeSensitive&quot;:false,&quot;imageUrl&quot;:&quot;https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/fbcc2afc-5902-4995-ac3a-ef7cf2909889.jpeg&quot;,&quot;iconUrl&quot;:&quot;https://prod-images.merino.prod.webservices.mozgcp.net/favicons/e6df937e99ab76f0aa140b0bf2ef8cbb926724bae94318033134ae41cede818e_1320.oct&quot;,&quot;tileId&quot;:8539516454510924,&quot;receivedRank&quot;:25,&quot;serverScore&quot;:null,&quot;features&quot;:{&quot;t_home&quot;:1.0}},{&quot;corpusItemId&quot;:&quot;2938d63e-a383-457a-bbfe-849d074c53eb&quot;,&quot;scheduledCorpusItemId&quot;:&quot;63ae2333-5f93-4a12-87d1-515b6834bebd&quot;,&quot;url&quot;:&quot;https://abcnews.com/International/wireStory/shrinking-snowfall-greeces-mountains-provoking-anxiety-altering-economy-133264509?utm_source=firefox-newtab-en-intl&quot;,&quot;title&quot;:&quot;Shrinking Snowfall on Greece’s Mountains Is Provoking Anxiety, Altering the Economy&quot;,&quot;excerpt&quot;:&quot;In Arachova, a Greek village reliant on snowmelt, water scarcity is becoming a concern&quot;,&quot;topic&quot;:&quot;education-science&quot;,&quot;publisher&quot;:&quot;ABC News&quot;,&quot;isTimeSensitive&quot;:false,&quot;imageUrl&quot;:&quot;https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/647d8819-5479-4332-b265-d77134dddb11.jpeg&quot;,&quot;iconUrl&quot;:null,&quot;tileId&quot;:7970973668073766,&quot;receivedRank&quot;:26,&quot;serverScore&quot;:null,&quot;features&quot;:{&quot;t_education-science&quot;:1.0}},{&quot;corpusItemId&quot;:&quot;902b7a4a-10ab-45ab-9651-0ef4c4755ee5&quot;,&quot;scheduledCorpusItemId&quot;:&quot;5ca1eb71-9e90-487c-9688-c793d697b0f9&quot;,&quot;url&quot;:&quot;https://www.livemint.com/money/personal-finance/should-retirees-in-india-use-credit-cards-key-benefits-and-risks-explained-11779428636530.html?utm_source=firefox-newtab-en-intl&quot;,&quot;title&quot;:&quot;Should Retirees in India Use Credit Cards? Key Benefits and Risks Explained&quot;,&quot;excerpt&quot;:&quot;Credit cards for retirees offer secure cashless payments, rewards, emergency liquidity and credit score benefits, but disciplined usage is essential to avoid debt, fraud risks and financial strain. Proper professional guidance must be taken before deciding on any particular credit card. &quot;,&quot;topic&quot;:&quot;finance&quot;,&quot;publisher&quot;:&quot;Mint&quot;,&quot;isTimeSensitive&quot;:false,&quot;imageUrl&quot;:&quot;https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/6d578d26-65ac-427b-ba55-403adfc292c3.jpeg&quot;,&quot;iconUrl&quot;:&quot;https://prod-images.merino.prod.webservices.mozgcp.net/favicons/63a8a3ba4f8871366fc6fa9a2da42a36c5b8b6a843b800796d73566ad254db9d_1058.png&quot;,&quot;tileId&quot;:3613322492340876,&quot;receivedRank&quot;:27,&quot;serverScore&quot;:null,&quot;features&quot;:{&quot;t_finance&quot;:1.0}}],&quot;feeds&quot;:null,&quot;interestPicker&quot;:null,&quot;inferredLocalModel&quot;:null}</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">{&quot;inferredInterests&quot;:null,&quot;locale&quot;:&quot;en-US&quot;,&quot;region&quot;:&quot;IN&quot;,&quot;topics&quot;:[],&quot;sections&quot;:[],&quot;enableInterestPicker&quot;:false}</queryString>
+  <java.net.URL>https://merino.services.mozilla.com/api/v1/curated-recommendations</java.net.URL>
+</httpSample>
+<httpSample t="855" it="0" lt="855" ct="669" ts="1779705097330" s="true" lb="JP04_TC06_Select_ITEMID/actions/Catalog.action-221" rc="200" rm="" tn="" dt="text" de="UTF-8" by="3947" sc="1" ec="0" ng="0" na="0" hn="R36001WL0307">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 
+Date: Mon, 25 May 2026 10:31:38 GMT
+Content-Type: text/html;charset=UTF-8
+Content-Length: 3715
+Connection: close
+Content-Language: en-US
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: navigate
+Referer: https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&amp;productId=FI-SW-02
+Sec-Fetch-Site: same-origin
+Accept-Language: en-US,en;q=0.9
+Sec-Fetch-User: ?1
+Priority: u=0, i
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Host: petstore.octoperf.com
+Upgrade-Insecure-Requests: 1
+Accept-Encoding: gzip, deflate, br, zstd
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+Sec-Fetch-Dest: document
+</requestHeader>
+  <responseData class="java.lang.String">
+
+
+
+
+
+
+&lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD XHTML 1.0 Transitional//EN&quot;
+&quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&quot;&gt;
+
+&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot;&gt;
+
+&lt;head&gt;
+&lt;link rel=&quot;StyleSheet&quot; href=&quot;../css/jpetstore.css&quot; type=&quot;text/css&quot;
+	media=&quot;screen&quot; /&gt;
+
+&lt;meta name=&quot;generator&quot;
+	content=&quot;HTML Tidy for Linux/x86 (vers 1st November 2002), see www.w3.org&quot; /&gt;
+&lt;title&gt;JPetStore Demo&lt;/title&gt;
+&lt;meta content=&quot;text/html; charset=windows-1252&quot;
+	http-equiv=&quot;Content-Type&quot; /&gt;
+&lt;meta http-equiv=&quot;Cache-Control&quot; content=&quot;max-age=0&quot; /&gt;
+&lt;meta http-equiv=&quot;Cache-Control&quot; content=&quot;no-cache&quot; /&gt;
+&lt;meta http-equiv=&quot;expires&quot; content=&quot;0&quot; /&gt;
+&lt;meta http-equiv=&quot;Expires&quot; content=&quot;Tue, 01 Jan 1980 1:00:00 GMT&quot; /&gt;
+&lt;meta http-equiv=&quot;Pragma&quot; content=&quot;no-cache&quot; /&gt;
+&lt;/head&gt;
+
+&lt;body&gt;
+
+&lt;div id=&quot;Header&quot;&gt;
+
+&lt;div id=&quot;Logo&quot;&gt;
+&lt;div id=&quot;LogoContent&quot;&gt;
+&amp;nbsp;
+&lt;a href=&quot;/actions/Catalog.action&quot;&gt;&lt;img src=&quot;../images/logo-topbar.svg&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Menu&quot;&gt;
+&lt;div id=&quot;MenuContent&quot;&gt;&lt;a href=&quot;/actions/Cart.action?viewCart=&quot;&gt;&lt;img align=&quot;middle&quot; name=&quot;img_cart&quot; src=&quot;../images/cart.gif&quot; /&gt;&lt;/a&gt; &lt;img align=&quot;middle&quot; src=&quot;../images/separator.gif&quot; /&gt;  
+	
+ 
+	
+		&lt;a href=&quot;/actions/Account.action?signoff=&quot;&gt;Sign Out&lt;/a&gt;
+		&lt;img align=&quot;middle&quot; src=&quot;../images/separator.gif&quot; /&gt;
+		&lt;a href=&quot;/actions/Account.action?editAccountForm=&quot;&gt;My Account&lt;/a&gt;
+	
+ &lt;img align=&quot;middle&quot; src=&quot;../images/separator.gif&quot; /&gt; &lt;a
+	href=&quot;../help.html&quot;&gt;?&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Search&quot;&gt;
+&lt;div id=&quot;SearchContent&quot;&gt;&lt;form method=&quot;post&quot; action=&quot;/actions/Catalog.action&quot;&gt;
+	&lt;input size=&quot;14&quot; name=&quot;keyword&quot; type=&quot;text&quot; /&gt;
+	&lt;input name=&quot;searchProducts&quot; type=&quot;submit&quot; value=&quot;Search&quot; /&gt;
+&lt;div style=&quot;display: none;&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;_sourcePage&quot; value=&quot;MjN8o1S8aVpfFNKe2xb3J5frSRMsY7D1B_wgHj1vDdS1Utk9ivvuw40Y8D0qgxknV5RnzmRCoFWcvg_uRPqGnCuxfWp97ban&quot; /&gt;&lt;input type=&quot;hidden&quot; name=&quot;__fp&quot; value=&quot;uQN9zqqrwVqZJmzFklkiE8nKiU77aG397DWHCff3ncqV9CfKI5p2FxjcxaxKj2Ks&quot; /&gt;&lt;/div&gt;&lt;/form&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;QuickLinks&quot;&gt;&lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=FISH&quot;&gt;&lt;img src=&quot;../images/sm_fish.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=DOGS&quot;&gt;&lt;img src=&quot;../images/sm_dogs.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=REPTILES&quot;&gt;&lt;img src=&quot;../images/sm_reptiles.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=CATS&quot;&gt;&lt;img src=&quot;../images/sm_cats.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=BIRDS&quot;&gt;&lt;img src=&quot;../images/sm_birds.gif&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div id=&quot;Content&quot;&gt;
+
+
+&lt;div id=&quot;BackLink&quot;&gt;&lt;a href=&quot;/actions/Catalog.action?viewProduct=&amp;amp;productId=FI-SW-02&quot;&gt;Return to FI-SW-02&lt;/a&gt;&lt;/div&gt;
+
+&lt;div id=&quot;Catalog&quot;&gt;
+
+&lt;table&gt;
+	&lt;tr&gt;
+		&lt;td&gt;&lt;image src=&quot;../images/fish4.gif&quot;&gt;Salt Water fish from Australia&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;&lt;b&gt; EST-3 &lt;/b&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;&lt;b&gt;&lt;font size=&quot;4&quot;&gt; Toothless
+		 
+		 
+		Tiger Shark &lt;/font&gt;&lt;/b&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Tiger Shark&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;
+        Back ordered.
+       &lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;$18.50&lt;/td&gt;
+	&lt;/tr&gt;
+
+	&lt;tr&gt;
+		&lt;td&gt;&lt;a href=&quot;/actions/Cart.action?addItemToCart=&amp;amp;workingItemId=EST-3&quot; class=&quot;Button&quot;&gt;Add to Cart&lt;/a&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;/div&gt;
+
+
+&lt;/div&gt;
+
+&lt;div id=&quot;CTA&quot;&gt;
+Elevate you load-testing with &lt;a href=&quot;https://octoperf.com&quot;&gt;OctoPerf&lt;/a&gt;!
+&lt;/div&gt;
+
+&lt;div id=&quot;Footer&quot;&gt;
+
+&lt;div id=&quot;PoweredBy&quot;&gt;
+&amp;nbsp;&amp;nbsp;Hosted by &lt;a href=&quot;https://octoperf.com&quot; target=&quot;_blank&quot;&gt;https://octoperf.com&lt;/a&gt;&amp;nbsp;|&amp;nbsp;Powered by &lt;a href=&quot;https://mybatis.org/&quot; target=&quot;_blank&quot;&gt;www.mybatis.org&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Banner&quot;&gt;
+	
+		
+	
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+
+
+
+
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String">JSESSIONID=07398BC5450E131ED16FA3A1A12838B3</cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://petstore.octoperf.com/actions/Catalog.action?viewItem=&amp;itemId=EST-3</java.net.URL>
+</httpSample>
+<httpSample t="906" it="0" lt="906" ct="680" ts="1779705118907" s="true" lb="JP04_TC07_Click_AddToCart/actions/Cart.action-223" rc="200" rm="" tn="" dt="text" de="UTF-8" by="4807" sc="1" ec="0" ng="0" na="0" hn="R36001WL0307">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 
+Date: Mon, 25 May 2026 10:31:59 GMT
+Content-Type: text/html;charset=UTF-8
+Content-Length: 4575
+Connection: close
+Content-Language: en-US
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: navigate
+Referer: https://petstore.octoperf.com/actions/Catalog.action?viewItem=&amp;itemId=EST-3
+Sec-Fetch-Site: same-origin
+Accept-Language: en-US,en;q=0.9
+Sec-Fetch-User: ?1
+Priority: u=0, i
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Host: petstore.octoperf.com
+Upgrade-Insecure-Requests: 1
+Accept-Encoding: gzip, deflate, br, zstd
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+Sec-Fetch-Dest: document
+</requestHeader>
+  <responseData class="java.lang.String">
+
+
+
+
+
+
+&lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD XHTML 1.0 Transitional//EN&quot;
+&quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&quot;&gt;
+
+&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot;&gt;
+
+&lt;head&gt;
+&lt;link rel=&quot;StyleSheet&quot; href=&quot;../css/jpetstore.css&quot; type=&quot;text/css&quot;
+	media=&quot;screen&quot; /&gt;
+
+&lt;meta name=&quot;generator&quot;
+	content=&quot;HTML Tidy for Linux/x86 (vers 1st November 2002), see www.w3.org&quot; /&gt;
+&lt;title&gt;JPetStore Demo&lt;/title&gt;
+&lt;meta content=&quot;text/html; charset=windows-1252&quot;
+	http-equiv=&quot;Content-Type&quot; /&gt;
+&lt;meta http-equiv=&quot;Cache-Control&quot; content=&quot;max-age=0&quot; /&gt;
+&lt;meta http-equiv=&quot;Cache-Control&quot; content=&quot;no-cache&quot; /&gt;
+&lt;meta http-equiv=&quot;expires&quot; content=&quot;0&quot; /&gt;
+&lt;meta http-equiv=&quot;Expires&quot; content=&quot;Tue, 01 Jan 1980 1:00:00 GMT&quot; /&gt;
+&lt;meta http-equiv=&quot;Pragma&quot; content=&quot;no-cache&quot; /&gt;
+&lt;/head&gt;
+
+&lt;body&gt;
+
+&lt;div id=&quot;Header&quot;&gt;
+
+&lt;div id=&quot;Logo&quot;&gt;
+&lt;div id=&quot;LogoContent&quot;&gt;
+&amp;nbsp;
+&lt;a href=&quot;/actions/Catalog.action&quot;&gt;&lt;img src=&quot;../images/logo-topbar.svg&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Menu&quot;&gt;
+&lt;div id=&quot;MenuContent&quot;&gt;&lt;a href=&quot;/actions/Cart.action?viewCart=&quot;&gt;&lt;img align=&quot;middle&quot; name=&quot;img_cart&quot; src=&quot;../images/cart.gif&quot; /&gt;&lt;/a&gt; &lt;img align=&quot;middle&quot; src=&quot;../images/separator.gif&quot; /&gt;  
+	
+ 
+	
+		&lt;a href=&quot;/actions/Account.action?signoff=&quot;&gt;Sign Out&lt;/a&gt;
+		&lt;img align=&quot;middle&quot; src=&quot;../images/separator.gif&quot; /&gt;
+		&lt;a href=&quot;/actions/Account.action?editAccountForm=&quot;&gt;My Account&lt;/a&gt;
+	
+ &lt;img align=&quot;middle&quot; src=&quot;../images/separator.gif&quot; /&gt; &lt;a
+	href=&quot;../help.html&quot;&gt;?&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Search&quot;&gt;
+&lt;div id=&quot;SearchContent&quot;&gt;&lt;form method=&quot;post&quot; action=&quot;/actions/Catalog.action&quot;&gt;
+	&lt;input size=&quot;14&quot; name=&quot;keyword&quot; type=&quot;text&quot; /&gt;
+	&lt;input name=&quot;searchProducts&quot; type=&quot;submit&quot; value=&quot;Search&quot; /&gt;
+&lt;div style=&quot;display: none;&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;_sourcePage&quot; value=&quot;eyDCGAvqt2_Ffv9yZ5qijwQjZ4jdA7zO9Z6NoAMrmxwrrZ9TfgfEJO7VLDfZG6RXuH1VhQef9orIXjRH2DlxKxiWvi6Ac7nn&quot; /&gt;&lt;input type=&quot;hidden&quot; name=&quot;__fp&quot; value=&quot;9YFRZFHh7qjKtLlAPVZ9V278o-lcZH2lyrGZsgQ08YkeNMwEKZOxvjHDiLS8QTMV&quot; /&gt;&lt;/div&gt;&lt;/form&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;QuickLinks&quot;&gt;&lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=FISH&quot;&gt;&lt;img src=&quot;../images/sm_fish.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=DOGS&quot;&gt;&lt;img src=&quot;../images/sm_dogs.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=REPTILES&quot;&gt;&lt;img src=&quot;../images/sm_reptiles.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=CATS&quot;&gt;&lt;img src=&quot;../images/sm_cats.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=BIRDS&quot;&gt;&lt;img src=&quot;../images/sm_birds.gif&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div id=&quot;Content&quot;&gt;
+
+
+&lt;div id=&quot;BackLink&quot;&gt;&lt;a href=&quot;/actions/Catalog.action&quot;&gt;Return to Main Menu&lt;/a&gt;&lt;/div&gt;
+
+&lt;div id=&quot;Catalog&quot;&gt;
+
+&lt;div id=&quot;Cart&quot;&gt;
+
+&lt;h2&gt;Shopping Cart&lt;/h2&gt;
+&lt;form method=&quot;post&quot; action=&quot;/actions/Cart.action&quot;&gt;
+	&lt;table&gt;
+		&lt;tr&gt;
+			&lt;th&gt;&lt;b&gt;Item ID&lt;/b&gt;&lt;/th&gt;
+			&lt;th&gt;&lt;b&gt;Product ID&lt;/b&gt;&lt;/th&gt;
+			&lt;th&gt;&lt;b&gt;Description&lt;/b&gt;&lt;/th&gt;
+			&lt;th&gt;&lt;b&gt;In Stock?&lt;/b&gt;&lt;/th&gt;
+			&lt;th&gt;&lt;b&gt;Quantity&lt;/b&gt;&lt;/th&gt;
+			&lt;th&gt;&lt;b&gt;List Price&lt;/b&gt;&lt;/th&gt;
+			&lt;th&gt;&lt;b&gt;Total Cost&lt;/b&gt;&lt;/th&gt;
+			&lt;th&gt;&amp;nbsp;&lt;/th&gt;
+		&lt;/tr&gt;
+
+		
+
+		
+			&lt;tr&gt;
+				&lt;td&gt;&lt;a href=&quot;/actions/Catalog.action?viewItem=&amp;amp;itemId=EST-3&quot;&gt;EST-3&lt;/a&gt;&lt;/td&gt;
+				&lt;td&gt;FI-SW-02&lt;/td&gt;
+				&lt;td&gt;Toothless 
+				 
+				 Tiger Shark&lt;/td&gt;
+				&lt;td&gt;false&lt;/td&gt;
+				&lt;td&gt;&lt;input size=&quot;3&quot; name=&quot;EST-3&quot; type=&quot;text&quot; value=&quot;1&quot; /&gt;&lt;/td&gt;
+				&lt;td&gt;$18.50&lt;/td&gt;
+				&lt;td&gt;$18.50&lt;/td&gt;
+				&lt;td&gt;&lt;a href=&quot;/actions/Cart.action?removeItemFromCart=&amp;amp;workingItemId=EST-3&quot; class=&quot;Button&quot;&gt;Remove&lt;/a&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+		
+		&lt;tr&gt;
+			&lt;td colspan=&quot;7&quot;&gt;Sub Total: $18.50 &lt;input name=&quot;updateCartQuantities&quot; type=&quot;submit&quot; value=&quot;Update Cart&quot; /&gt;&lt;/td&gt;
+			&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/table&gt;
+
+&lt;div style=&quot;display: none;&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;_sourcePage&quot; value=&quot;-lWuefq2NO3AZxjqZuRR1OEA64BdWbTCYisMYHSFZY0UmGdKqbsQiSSxSQnodSJsYqWANVotRpDY0Psm_6jUFbfWRStqXSbV&quot; /&gt;&lt;input type=&quot;hidden&quot; name=&quot;__fp&quot; value=&quot;dRhNuXJhEUc5F78jC15Ikm0DXPmft-ms-lBu2SIxjkKYUz5j1CtDAeY-6wXn42Ex&quot; /&gt;&lt;/div&gt;&lt;/form&gt; 
+	&lt;a href=&quot;/actions/Order.action?newOrderForm=&quot; class=&quot;Button&quot;&gt;Proceed to Checkout&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;MyList&quot;&gt;
+  
+	
+  
+&lt;/div&gt;
+
+&lt;div id=&quot;Separator&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;/div&gt;
+
+&lt;div id=&quot;CTA&quot;&gt;
+Elevate you load-testing with &lt;a href=&quot;https://octoperf.com&quot;&gt;OctoPerf&lt;/a&gt;!
+&lt;/div&gt;
+
+&lt;div id=&quot;Footer&quot;&gt;
+
+&lt;div id=&quot;PoweredBy&quot;&gt;
+&amp;nbsp;&amp;nbsp;Hosted by &lt;a href=&quot;https://octoperf.com&quot; target=&quot;_blank&quot;&gt;https://octoperf.com&lt;/a&gt;&amp;nbsp;|&amp;nbsp;Powered by &lt;a href=&quot;https://mybatis.org/&quot; target=&quot;_blank&quot;&gt;www.mybatis.org&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Banner&quot;&gt;
+	
+		
+	
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String">JSESSIONID=07398BC5450E131ED16FA3A1A12838B3</cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://petstore.octoperf.com/actions/Cart.action?addItemToCart=&amp;workingItemId=EST-3</java.net.URL>
+</httpSample>
+<httpSample t="995" it="0" lt="995" ct="771" ts="1779705143062" s="true" lb="JP04_TC08_Click_ProceedToCheckout/actions/Order.action-224" rc="200" rm="" tn="" dt="text" de="UTF-8" by="5567" sc="1" ec="0" ng="0" na="0" hn="R36001WL0307">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 
+Date: Mon, 25 May 2026 10:32:23 GMT
+Content-Type: text/html;charset=UTF-8
+Content-Length: 5335
+Connection: close
+Content-Language: en-US
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: navigate
+Referer: https://petstore.octoperf.com/actions/Cart.action?addItemToCart=&amp;workingItemId=EST-3
+Sec-Fetch-Site: same-origin
+Accept-Language: en-US,en;q=0.9
+Sec-Fetch-User: ?1
+Priority: u=0, i
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Host: petstore.octoperf.com
+Upgrade-Insecure-Requests: 1
+Accept-Encoding: gzip, deflate, br, zstd
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+Sec-Fetch-Dest: document
+</requestHeader>
+  <responseData class="java.lang.String">
+
+
+
+
+
+
+&lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD XHTML 1.0 Transitional//EN&quot;
+&quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&quot;&gt;
+
+&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot;&gt;
+
+&lt;head&gt;
+&lt;link rel=&quot;StyleSheet&quot; href=&quot;../css/jpetstore.css&quot; type=&quot;text/css&quot;
+	media=&quot;screen&quot; /&gt;
+
+&lt;meta name=&quot;generator&quot;
+	content=&quot;HTML Tidy for Linux/x86 (vers 1st November 2002), see www.w3.org&quot; /&gt;
+&lt;title&gt;JPetStore Demo&lt;/title&gt;
+&lt;meta content=&quot;text/html; charset=windows-1252&quot;
+	http-equiv=&quot;Content-Type&quot; /&gt;
+&lt;meta http-equiv=&quot;Cache-Control&quot; content=&quot;max-age=0&quot; /&gt;
+&lt;meta http-equiv=&quot;Cache-Control&quot; content=&quot;no-cache&quot; /&gt;
+&lt;meta http-equiv=&quot;expires&quot; content=&quot;0&quot; /&gt;
+&lt;meta http-equiv=&quot;Expires&quot; content=&quot;Tue, 01 Jan 1980 1:00:00 GMT&quot; /&gt;
+&lt;meta http-equiv=&quot;Pragma&quot; content=&quot;no-cache&quot; /&gt;
+&lt;/head&gt;
+
+&lt;body&gt;
+
+&lt;div id=&quot;Header&quot;&gt;
+
+&lt;div id=&quot;Logo&quot;&gt;
+&lt;div id=&quot;LogoContent&quot;&gt;
+&amp;nbsp;
+&lt;a href=&quot;/actions/Catalog.action&quot;&gt;&lt;img src=&quot;../images/logo-topbar.svg&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Menu&quot;&gt;
+&lt;div id=&quot;MenuContent&quot;&gt;&lt;a href=&quot;/actions/Cart.action?viewCart=&quot;&gt;&lt;img align=&quot;middle&quot; name=&quot;img_cart&quot; src=&quot;../images/cart.gif&quot; /&gt;&lt;/a&gt; &lt;img align=&quot;middle&quot; src=&quot;../images/separator.gif&quot; /&gt;  
+	
+ 
+	
+		&lt;a href=&quot;/actions/Account.action?signoff=&quot;&gt;Sign Out&lt;/a&gt;
+		&lt;img align=&quot;middle&quot; src=&quot;../images/separator.gif&quot; /&gt;
+		&lt;a href=&quot;/actions/Account.action?editAccountForm=&quot;&gt;My Account&lt;/a&gt;
+	
+ &lt;img align=&quot;middle&quot; src=&quot;../images/separator.gif&quot; /&gt; &lt;a
+	href=&quot;../help.html&quot;&gt;?&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Search&quot;&gt;
+&lt;div id=&quot;SearchContent&quot;&gt;&lt;form method=&quot;post&quot; action=&quot;/actions/Catalog.action&quot;&gt;
+	&lt;input size=&quot;14&quot; name=&quot;keyword&quot; type=&quot;text&quot; /&gt;
+	&lt;input name=&quot;searchProducts&quot; type=&quot;submit&quot; value=&quot;Search&quot; /&gt;
+&lt;div style=&quot;display: none;&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;_sourcePage&quot; value=&quot;nk9Tv-C79wT6qUdT2hcVTYrVVh_mkkfA0FGAr13rkY9TbvD8IUGkY3rcRjIniY9dc4XuooXoqfOUagfcMwu1sPHZWHuhnmiQr-hUYejm99E=&quot; /&gt;&lt;input type=&quot;hidden&quot; name=&quot;__fp&quot; value=&quot;SeYKt-xCnOT3325SMvqiPoYJxsykvl67ru9HCP07ca5SzCe4vrHufA3OloFXpSLG&quot; /&gt;&lt;/div&gt;&lt;/form&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;QuickLinks&quot;&gt;&lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=FISH&quot;&gt;&lt;img src=&quot;../images/sm_fish.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=DOGS&quot;&gt;&lt;img src=&quot;../images/sm_dogs.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=REPTILES&quot;&gt;&lt;img src=&quot;../images/sm_reptiles.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=CATS&quot;&gt;&lt;img src=&quot;../images/sm_cats.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=BIRDS&quot;&gt;&lt;img src=&quot;../images/sm_birds.gif&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div id=&quot;Content&quot;&gt;
+
+
+&lt;div id=&quot;Catalog&quot;&gt;&lt;form method=&quot;post&quot; action=&quot;/actions/Order.action&quot;&gt;
+
+	&lt;table&gt;
+		&lt;tr&gt;
+			&lt;th colspan=2&gt;Payment Details&lt;/th&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;Card Type:&lt;/td&gt;
+			&lt;td&gt;&lt;select name=&quot;order.cardType&quot;&gt;
+				&lt;option value=&quot;Visa&quot; selected=&quot;selected&quot;&gt;Visa&lt;/option&gt;&lt;option value=&quot;MasterCard&quot;&gt;MasterCard&lt;/option&gt;&lt;option value=&quot;American Express&quot;&gt;American Express&lt;/option&gt;
+			&lt;/select&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;Card Number:&lt;/td&gt;
+			&lt;td&gt;&lt;input name=&quot;order.creditCard&quot; type=&quot;text&quot; value=&quot;999 9999 9999 9999&quot; /&gt; * Use a fake
+			number!&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;Expiry Date (MM/YYYY):&lt;/td&gt;
+			&lt;td&gt;&lt;input name=&quot;order.expiryDate&quot; type=&quot;text&quot; value=&quot;12/03&quot; /&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;th colspan=2&gt;Billing Address&lt;/th&gt;
+		&lt;/tr&gt;
+
+		&lt;tr&gt;
+			&lt;td&gt;First name:&lt;/td&gt;
+			&lt;td&gt;&lt;input name=&quot;order.billToFirstName&quot; type=&quot;text&quot; value=&quot;Jiyansh&quot; /&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;Last name:&lt;/td&gt;
+			&lt;td&gt;&lt;input name=&quot;order.billToLastName&quot; type=&quot;text&quot; value=&quot;Kumar&quot; /&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;Address 1:&lt;/td&gt;
+			&lt;td&gt;&lt;input size=&quot;40&quot; name=&quot;order.billAddress1&quot; type=&quot;text&quot; value=&quot;Hosa Road&quot; /&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;Address 2:&lt;/td&gt;
+			&lt;td&gt;&lt;input size=&quot;40&quot; name=&quot;order.billAddress2&quot; type=&quot;text&quot; value=&quot;bangalore&quot; /&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;City:&lt;/td&gt;
+			&lt;td&gt;&lt;input name=&quot;order.billCity&quot; type=&quot;text&quot; value=&quot;Bangalore&quot; /&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;State:&lt;/td&gt;
+			&lt;td&gt;&lt;input size=&quot;4&quot; name=&quot;order.billState&quot; type=&quot;text&quot; value=&quot;Karnataka&quot; /&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;Zip:&lt;/td&gt;
+			&lt;td&gt;&lt;input size=&quot;10&quot; name=&quot;order.billZip&quot; type=&quot;text&quot; value=&quot;560068&quot; /&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;Country:&lt;/td&gt;
+			&lt;td&gt;&lt;input size=&quot;15&quot; name=&quot;order.billCountry&quot; type=&quot;text&quot; value=&quot;India&quot; /&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+
+		&lt;tr&gt;
+			&lt;td colspan=2&gt;&lt;input name=&quot;shippingAddressRequired&quot; type=&quot;checkbox&quot; value=&quot;true&quot; /&gt;
+			Ship to different address...&lt;/td&gt;
+		&lt;/tr&gt;
+
+	&lt;/table&gt;
+
+	&lt;input name=&quot;newOrder&quot; type=&quot;submit&quot; value=&quot;Continue&quot; /&gt;
+
+&lt;div style=&quot;display: none;&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;_sourcePage&quot; value=&quot;JOZP70U1lgteH6oIo8raIA3IsaboL7qY9m0x1WFG8_L6BBii3ElbhzLNWeuFgXyutMZd4zfG5Sd7yE6OJmHWPNVtCR0KtKf1HeIchi7wiuA=&quot; /&gt;&lt;input type=&quot;hidden&quot; name=&quot;__fp&quot; value=&quot;1O2fhg9b436V7TbGUVS-HMcsrHUM2GQl_ghDagBLc39AguTSWyi6tfe6yAR4DGMGCZq2DnV6RdwOmkHydXwW9Kjf3U922I-vWJGaWTorBwy1PKh9mFjvWw==&quot; /&gt;&lt;/div&gt;&lt;/form&gt;&lt;/div&gt;
+
+
+&lt;/div&gt;
+
+&lt;div id=&quot;CTA&quot;&gt;
+Elevate you load-testing with &lt;a href=&quot;https://octoperf.com&quot;&gt;OctoPerf&lt;/a&gt;!
+&lt;/div&gt;
+
+&lt;div id=&quot;Footer&quot;&gt;
+
+&lt;div id=&quot;PoweredBy&quot;&gt;
+&amp;nbsp;&amp;nbsp;Hosted by &lt;a href=&quot;https://octoperf.com&quot; target=&quot;_blank&quot;&gt;https://octoperf.com&lt;/a&gt;&amp;nbsp;|&amp;nbsp;Powered by &lt;a href=&quot;https://mybatis.org/&quot; target=&quot;_blank&quot;&gt;www.mybatis.org&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Banner&quot;&gt;
+	
+		
+	
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String">JSESSIONID=07398BC5450E131ED16FA3A1A12838B3</cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://petstore.octoperf.com/actions/Order.action?newOrderForm=</java.net.URL>
+</httpSample>
+<httpSample t="963" it="0" lt="963" ct="760" ts="1779705172590" s="true" lb="JP04_TC09_Click_Continue/actions/Order.action-225" rc="200" rm="" tn="" dt="text" de="UTF-8" by="4709" sc="1" ec="0" ng="0" na="0" hn="R36001WL0307">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 
+Date: Mon, 25 May 2026 10:32:53 GMT
+Content-Type: text/html;charset=UTF-8
+Content-Length: 4477
+Connection: close
+Content-Language: en-US
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: navigate
+Referer: https://petstore.octoperf.com/actions/Order.action?newOrderForm=
+Sec-Fetch-Site: same-origin
+Accept-Language: en-US,en;q=0.9
+Origin: https://petstore.octoperf.com
+Sec-Fetch-User: ?1
+Priority: u=0, i
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Host: petstore.octoperf.com
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate, br, zstd
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+Sec-Fetch-Dest: document
+Content-Length: 562
+</requestHeader>
+  <responseData class="java.lang.String">
+
+
+
+
+
+
+&lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD XHTML 1.0 Transitional//EN&quot;
+&quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&quot;&gt;
+
+&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot;&gt;
+
+&lt;head&gt;
+&lt;link rel=&quot;StyleSheet&quot; href=&quot;../css/jpetstore.css&quot; type=&quot;text/css&quot;
+	media=&quot;screen&quot; /&gt;
+
+&lt;meta name=&quot;generator&quot;
+	content=&quot;HTML Tidy for Linux/x86 (vers 1st November 2002), see www.w3.org&quot; /&gt;
+&lt;title&gt;JPetStore Demo&lt;/title&gt;
+&lt;meta content=&quot;text/html; charset=windows-1252&quot;
+	http-equiv=&quot;Content-Type&quot; /&gt;
+&lt;meta http-equiv=&quot;Cache-Control&quot; content=&quot;max-age=0&quot; /&gt;
+&lt;meta http-equiv=&quot;Cache-Control&quot; content=&quot;no-cache&quot; /&gt;
+&lt;meta http-equiv=&quot;expires&quot; content=&quot;0&quot; /&gt;
+&lt;meta http-equiv=&quot;Expires&quot; content=&quot;Tue, 01 Jan 1980 1:00:00 GMT&quot; /&gt;
+&lt;meta http-equiv=&quot;Pragma&quot; content=&quot;no-cache&quot; /&gt;
+&lt;/head&gt;
+
+&lt;body&gt;
+
+&lt;div id=&quot;Header&quot;&gt;
+
+&lt;div id=&quot;Logo&quot;&gt;
+&lt;div id=&quot;LogoContent&quot;&gt;
+&amp;nbsp;
+&lt;a href=&quot;/actions/Catalog.action&quot;&gt;&lt;img src=&quot;../images/logo-topbar.svg&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Menu&quot;&gt;
+&lt;div id=&quot;MenuContent&quot;&gt;&lt;a href=&quot;/actions/Cart.action?viewCart=&quot;&gt;&lt;img align=&quot;middle&quot; name=&quot;img_cart&quot; src=&quot;../images/cart.gif&quot; /&gt;&lt;/a&gt; &lt;img align=&quot;middle&quot; src=&quot;../images/separator.gif&quot; /&gt;  
+	
+ 
+	
+		&lt;a href=&quot;/actions/Account.action?signoff=&quot;&gt;Sign Out&lt;/a&gt;
+		&lt;img align=&quot;middle&quot; src=&quot;../images/separator.gif&quot; /&gt;
+		&lt;a href=&quot;/actions/Account.action?editAccountForm=&quot;&gt;My Account&lt;/a&gt;
+	
+ &lt;img align=&quot;middle&quot; src=&quot;../images/separator.gif&quot; /&gt; &lt;a
+	href=&quot;../help.html&quot;&gt;?&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Search&quot;&gt;
+&lt;div id=&quot;SearchContent&quot;&gt;&lt;form method=&quot;post&quot; action=&quot;/actions/Catalog.action&quot;&gt;
+	&lt;input size=&quot;14&quot; name=&quot;keyword&quot; type=&quot;text&quot; /&gt;
+	&lt;input name=&quot;searchProducts&quot; type=&quot;submit&quot; value=&quot;Search&quot; /&gt;
+&lt;div style=&quot;display: none;&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;_sourcePage&quot; value=&quot;z_9SqlYqgThhI5rgxecCt2uXY7-laoDIYbbXtX14lqYkybKIoNVWrtEkTCvOZ-1Yux8EziRpHoIVU1MDqU583eYAFw2N3YdRGIegZvps06E=&quot; /&gt;&lt;input type=&quot;hidden&quot; name=&quot;__fp&quot; value=&quot;QIJ0ng-pSNM29U08FWhW-rlmMiTg6pxdT8iKYjol6UGpSjURRwUoGJbxQwhAMrfu&quot; /&gt;&lt;/div&gt;&lt;/form&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;QuickLinks&quot;&gt;&lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=FISH&quot;&gt;&lt;img src=&quot;../images/sm_fish.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=DOGS&quot;&gt;&lt;img src=&quot;../images/sm_dogs.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=REPTILES&quot;&gt;&lt;img src=&quot;../images/sm_reptiles.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=CATS&quot;&gt;&lt;img src=&quot;../images/sm_cats.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=BIRDS&quot;&gt;&lt;img src=&quot;../images/sm_birds.gif&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div id=&quot;Content&quot;&gt;
+
+
+&lt;div id=&quot;BackLink&quot;&gt;&lt;a href=&quot;/actions/Catalog.action&quot;&gt;Return to Main Menu&lt;/a&gt;&lt;/div&gt;
+
+&lt;div id=&quot;Catalog&quot;&gt;Please confirm the information below and then
+press continue...
+
+&lt;table&gt;
+	&lt;tr&gt;
+		&lt;th align=&quot;center&quot; colspan=&quot;2&quot;&gt;&lt;font size=&quot;4&quot;&gt;&lt;b&gt;Order&lt;/b&gt;&lt;/font&gt;
+		&lt;br /&gt;
+		&lt;font size=&quot;3&quot;&gt;&lt;b&gt; 2026/05/25 10:32:23&lt;/b&gt;&lt;/font&gt;
+		&lt;/th&gt;
+	&lt;/tr&gt;
+
+	&lt;tr&gt;
+		&lt;th colspan=&quot;2&quot;&gt;Billing Address&lt;/th&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;First name:&lt;/td&gt;
+		&lt;td&gt;Jiyansh&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Last name:&lt;/td&gt;
+		&lt;td&gt;Kumar&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Address 1:&lt;/td&gt;
+		&lt;td&gt;Hosa Road&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Address 2:&lt;/td&gt;
+		&lt;td&gt;bangalore&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;City:&lt;/td&gt;
+		&lt;td&gt;Bangalore&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;State:&lt;/td&gt;
+		&lt;td&gt;Karnataka&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Zip:&lt;/td&gt;
+		&lt;td&gt;560068&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Country:&lt;/td&gt;
+		&lt;td&gt;India&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;th colspan=&quot;2&quot;&gt;Shipping Address&lt;/th&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;First name:&lt;/td&gt;
+		&lt;td&gt;Jiyansh&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Last name:&lt;/td&gt;
+		&lt;td&gt;Kumar&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Address 1:&lt;/td&gt;
+		&lt;td&gt;Hosa Road&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Address 2:&lt;/td&gt;
+		&lt;td&gt;bangalore&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;City:&lt;/td&gt;
+		&lt;td&gt;Bangalore&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;State:&lt;/td&gt;
+		&lt;td&gt;Karnataka&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Zip:&lt;/td&gt;
+		&lt;td&gt;560068&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Country:&lt;/td&gt;
+		&lt;td&gt;India&lt;/td&gt;
+	&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;a href=&quot;/actions/Order.action?newOrder=&amp;amp;confirmed=true&quot; class=&quot;Button&quot;&gt;Confirm&lt;/a&gt;&lt;/div&gt;
+
+
+&lt;/div&gt;
+
+&lt;div id=&quot;CTA&quot;&gt;
+Elevate you load-testing with &lt;a href=&quot;https://octoperf.com&quot;&gt;OctoPerf&lt;/a&gt;!
+&lt;/div&gt;
+
+&lt;div id=&quot;Footer&quot;&gt;
+
+&lt;div id=&quot;PoweredBy&quot;&gt;
+&amp;nbsp;&amp;nbsp;Hosted by &lt;a href=&quot;https://octoperf.com&quot; target=&quot;_blank&quot;&gt;https://octoperf.com&lt;/a&gt;&amp;nbsp;|&amp;nbsp;Powered by &lt;a href=&quot;https://mybatis.org/&quot; target=&quot;_blank&quot;&gt;www.mybatis.org&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Banner&quot;&gt;
+	
+		
+	
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+
+
+
+
+
+
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String">JSESSIONID=07398BC5450E131ED16FA3A1A12838B3</cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">order.cardType=Visa&amp;order.creditCard=999+9999+9999+9999&amp;order.expiryDate=12%2F03&amp;order.billToFirstName=Jiyansh&amp;order.billToLastName=Kumar&amp;order.billAddress1=Hosa+Road&amp;order.billAddress2=bangalore&amp;order.billCity=Bangalore&amp;order.billState=Karnataka&amp;order.billZip=560068&amp;order.billCountry=India&amp;newOrder=Continue&amp;_sourcePage=JOZP70U1lgteH6oIo8raIA3IsaboL7qY9m0x1WFG8_L6BBii3ElbhzLNWeuFgXyutMZd4zfG5Sd7yE6OJmHWPNVtCR0KtKf1HeIchi7wiuA%3D&amp;__fp=1O2fhg9b436V7TbGUVS-HMcsrHUM2GQl_ghDagBLc39AguTSWyi6tfe6yAR4DGMGCZq2DnV6RdwOmkHydXwW9Kjf3U922I-vWJGaWTorBwy1PKh9mFjvWw%3D%3D</queryString>
+  <java.net.URL>https://petstore.octoperf.com/actions/Order.action</java.net.URL>
+</httpSample>
+<httpSample t="920" it="0" lt="920" ct="699" ts="1779705191125" s="true" lb="JP04_TC10_Click_Confirm/actions/Order.action-226" rc="200" rm="" tn="" dt="text" de="UTF-8" by="5411" sc="1" ec="0" ng="0" na="0" hn="R36001WL0307">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 
+Date: Mon, 25 May 2026 10:33:11 GMT
+Content-Type: text/html;charset=UTF-8
+Content-Length: 5179
+Connection: close
+Content-Language: en-US
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: navigate
+Referer: https://petstore.octoperf.com/actions/Order.action
+Sec-Fetch-Site: same-origin
+Accept-Language: en-US,en;q=0.9
+Sec-Fetch-User: ?1
+Priority: u=0, i
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Host: petstore.octoperf.com
+Upgrade-Insecure-Requests: 1
+Accept-Encoding: gzip, deflate, br, zstd
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+Sec-Fetch-Dest: document
+</requestHeader>
+  <responseData class="java.lang.String">
+
+
+
+
+
+
+&lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD XHTML 1.0 Transitional//EN&quot;
+&quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&quot;&gt;
+
+&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot;&gt;
+
+&lt;head&gt;
+&lt;link rel=&quot;StyleSheet&quot; href=&quot;../css/jpetstore.css&quot; type=&quot;text/css&quot;
+	media=&quot;screen&quot; /&gt;
+
+&lt;meta name=&quot;generator&quot;
+	content=&quot;HTML Tidy for Linux/x86 (vers 1st November 2002), see www.w3.org&quot; /&gt;
+&lt;title&gt;JPetStore Demo&lt;/title&gt;
+&lt;meta content=&quot;text/html; charset=windows-1252&quot;
+	http-equiv=&quot;Content-Type&quot; /&gt;
+&lt;meta http-equiv=&quot;Cache-Control&quot; content=&quot;max-age=0&quot; /&gt;
+&lt;meta http-equiv=&quot;Cache-Control&quot; content=&quot;no-cache&quot; /&gt;
+&lt;meta http-equiv=&quot;expires&quot; content=&quot;0&quot; /&gt;
+&lt;meta http-equiv=&quot;Expires&quot; content=&quot;Tue, 01 Jan 1980 1:00:00 GMT&quot; /&gt;
+&lt;meta http-equiv=&quot;Pragma&quot; content=&quot;no-cache&quot; /&gt;
+&lt;/head&gt;
+
+&lt;body&gt;
+
+&lt;div id=&quot;Header&quot;&gt;
+
+&lt;div id=&quot;Logo&quot;&gt;
+&lt;div id=&quot;LogoContent&quot;&gt;
+&amp;nbsp;
+&lt;a href=&quot;/actions/Catalog.action&quot;&gt;&lt;img src=&quot;../images/logo-topbar.svg&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Menu&quot;&gt;
+&lt;div id=&quot;MenuContent&quot;&gt;&lt;a href=&quot;/actions/Cart.action?viewCart=&quot;&gt;&lt;img align=&quot;middle&quot; name=&quot;img_cart&quot; src=&quot;../images/cart.gif&quot; /&gt;&lt;/a&gt; &lt;img align=&quot;middle&quot; src=&quot;../images/separator.gif&quot; /&gt;  
+	
+ 
+	
+		&lt;a href=&quot;/actions/Account.action?signoff=&quot;&gt;Sign Out&lt;/a&gt;
+		&lt;img align=&quot;middle&quot; src=&quot;../images/separator.gif&quot; /&gt;
+		&lt;a href=&quot;/actions/Account.action?editAccountForm=&quot;&gt;My Account&lt;/a&gt;
+	
+ &lt;img align=&quot;middle&quot; src=&quot;../images/separator.gif&quot; /&gt; &lt;a
+	href=&quot;../help.html&quot;&gt;?&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Search&quot;&gt;
+&lt;div id=&quot;SearchContent&quot;&gt;&lt;form method=&quot;post&quot; action=&quot;/actions/Catalog.action&quot;&gt;
+	&lt;input size=&quot;14&quot; name=&quot;keyword&quot; type=&quot;text&quot; /&gt;
+	&lt;input name=&quot;searchProducts&quot; type=&quot;submit&quot; value=&quot;Search&quot; /&gt;
+&lt;div style=&quot;display: none;&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;_sourcePage&quot; value=&quot;qbykodFK7vj6tIP1r9w-5JDN8qk-4obyolpILEAV7QF9L_R4tc77Jhv1KXqom0wsIeSHpfyGpYwCGbbrmiD1GoNDFKL3NEFkc27593UNgJI=&quot; /&gt;&lt;input type=&quot;hidden&quot; name=&quot;__fp&quot; value=&quot;IJUdgq9cAAb9gm2wRfWqZiK9gHt1XGVq42dod3uEi7Jo-py6B1PQGd7lMLpp84Wd&quot; /&gt;&lt;/div&gt;&lt;/form&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;QuickLinks&quot;&gt;&lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=FISH&quot;&gt;&lt;img src=&quot;../images/sm_fish.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=DOGS&quot;&gt;&lt;img src=&quot;../images/sm_dogs.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=REPTILES&quot;&gt;&lt;img src=&quot;../images/sm_reptiles.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=CATS&quot;&gt;&lt;img src=&quot;../images/sm_cats.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=BIRDS&quot;&gt;&lt;img src=&quot;../images/sm_birds.gif&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div id=&quot;Content&quot;&gt;&lt;ul class=&quot;messages&quot;&gt;&lt;li&gt;Thank you, your order has been submitted.&lt;/li&gt;&lt;/ul&gt;
+
+
+&lt;div id=&quot;BackLink&quot;&gt;&lt;a href=&quot;/actions/Catalog.action&quot;&gt;Return to Main Menu&lt;/a&gt;&lt;/div&gt;
+
+&lt;div id=&quot;Catalog&quot;&gt;
+
+&lt;table&gt;
+	&lt;tr&gt;
+		&lt;th align=&quot;center&quot; colspan=&quot;2&quot;&gt;Order #352663
+		2026/05/25 10:32:23&lt;/th&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;th colspan=&quot;2&quot;&gt;Payment Details&lt;/th&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Card Type:&lt;/td&gt;
+		&lt;td&gt;Visa&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Card Number:&lt;/td&gt;
+		&lt;td&gt;999 9999 9999 9999 * Fake
+		number!&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Expiry Date (MM/YYYY):&lt;/td&gt;
+		&lt;td&gt;12/03&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;th colspan=&quot;2&quot;&gt;Billing Address&lt;/th&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;First name:&lt;/td&gt;
+		&lt;td&gt;Jiyansh&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Last name:&lt;/td&gt;
+		&lt;td&gt;Kumar&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Address 1:&lt;/td&gt;
+		&lt;td&gt;Hosa Road&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Address 2:&lt;/td&gt;
+		&lt;td&gt;bangalore&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;City:&lt;/td&gt;
+		&lt;td&gt;Bangalore&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;State:&lt;/td&gt;
+		&lt;td&gt;Karnataka&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Zip:&lt;/td&gt;
+		&lt;td&gt;560068&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Country:&lt;/td&gt;
+		&lt;td&gt;India&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;th colspan=&quot;2&quot;&gt;Shipping Address&lt;/th&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;First name:&lt;/td&gt;
+		&lt;td&gt;Jiyansh&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Last name:&lt;/td&gt;
+		&lt;td&gt;Kumar&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Address 1:&lt;/td&gt;
+		&lt;td&gt;Hosa Road&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Address 2:&lt;/td&gt;
+		&lt;td&gt;bangalore&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;City:&lt;/td&gt;
+		&lt;td&gt;Bangalore&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;State:&lt;/td&gt;
+		&lt;td&gt;Karnataka&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Zip:&lt;/td&gt;
+		&lt;td&gt;560068&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Country:&lt;/td&gt;
+		&lt;td&gt;India&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Courier:&lt;/td&gt;
+		&lt;td&gt;UPS&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td colspan=&quot;2&quot;&gt;Status: P&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td colspan=&quot;2&quot;&gt;
+		&lt;table&gt;
+			&lt;tr&gt;
+				&lt;th&gt;Item ID&lt;/th&gt;
+				&lt;th&gt;Description&lt;/th&gt;
+				&lt;th&gt;Quantity&lt;/th&gt;
+				&lt;th&gt;Price&lt;/th&gt;
+				&lt;th&gt;Total Cost&lt;/th&gt;
+			&lt;/tr&gt;
+			
+				&lt;tr&gt;
+					&lt;td&gt;&lt;a href=&quot;/actions/Catalog.action?viewItem=&amp;amp;itemId=EST-3&quot;&gt;EST-3&lt;/a&gt;&lt;/td&gt;
+					&lt;td&gt;
+						Toothless
+						
+						
+						
+						
+						Tiger Shark
+					 &lt;/td&gt;
+
+					&lt;td&gt;1&lt;/td&gt;
+					&lt;td&gt;$18.50&lt;/td&gt;
+					&lt;td&gt;$18.50&lt;/td&gt;
+				&lt;/tr&gt;
+			
+			&lt;tr&gt;
+				&lt;th colspan=&quot;5&quot;&gt;Total: $18.50&lt;/th&gt;
+			&lt;/tr&gt;
+		&lt;/table&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/div&gt;
+
+
+&lt;/div&gt;
+
+&lt;div id=&quot;CTA&quot;&gt;
+Elevate you load-testing with &lt;a href=&quot;https://octoperf.com&quot;&gt;OctoPerf&lt;/a&gt;!
+&lt;/div&gt;
+
+&lt;div id=&quot;Footer&quot;&gt;
+
+&lt;div id=&quot;PoweredBy&quot;&gt;
+&amp;nbsp;&amp;nbsp;Hosted by &lt;a href=&quot;https://octoperf.com&quot; target=&quot;_blank&quot;&gt;https://octoperf.com&lt;/a&gt;&amp;nbsp;|&amp;nbsp;Powered by &lt;a href=&quot;https://mybatis.org/&quot; target=&quot;_blank&quot;&gt;www.mybatis.org&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Banner&quot;&gt;
+	
+		
+	
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String">JSESSIONID=07398BC5450E131ED16FA3A1A12838B3</cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://petstore.octoperf.com/actions/Order.action?newOrder=&amp;confirmed=true</java.net.URL>
+</httpSample>
+<httpSample t="923" it="0" lt="923" ct="716" ts="1779705215100" s="true" lb="JP04_TC11_GoTo_MyAccount/actions/Account.action-227" rc="200" rm="" tn="" dt="text" de="UTF-8" by="6461" sc="1" ec="0" ng="0" na="0" hn="R36001WL0307">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 
+Date: Mon, 25 May 2026 10:33:35 GMT
+Content-Type: text/html;charset=UTF-8
+Content-Length: 6229
+Connection: close
+Content-Language: en-US
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: navigate
+Referer: https://petstore.octoperf.com/actions/Order.action?newOrder=&amp;confirmed=true
+Sec-Fetch-Site: same-origin
+Accept-Language: en-US,en;q=0.9
+Sec-Fetch-User: ?1
+Priority: u=0, i
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Host: petstore.octoperf.com
+Upgrade-Insecure-Requests: 1
+Accept-Encoding: gzip, deflate, br, zstd
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+Sec-Fetch-Dest: document
+</requestHeader>
+  <responseData class="java.lang.String">
+
+
+
+
+
+
+&lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD XHTML 1.0 Transitional//EN&quot;
+&quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&quot;&gt;
+
+&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot;&gt;
+
+&lt;head&gt;
+&lt;link rel=&quot;StyleSheet&quot; href=&quot;../css/jpetstore.css&quot; type=&quot;text/css&quot;
+	media=&quot;screen&quot; /&gt;
+
+&lt;meta name=&quot;generator&quot;
+	content=&quot;HTML Tidy for Linux/x86 (vers 1st November 2002), see www.w3.org&quot; /&gt;
+&lt;title&gt;JPetStore Demo&lt;/title&gt;
+&lt;meta content=&quot;text/html; charset=windows-1252&quot;
+	http-equiv=&quot;Content-Type&quot; /&gt;
+&lt;meta http-equiv=&quot;Cache-Control&quot; content=&quot;max-age=0&quot; /&gt;
+&lt;meta http-equiv=&quot;Cache-Control&quot; content=&quot;no-cache&quot; /&gt;
+&lt;meta http-equiv=&quot;expires&quot; content=&quot;0&quot; /&gt;
+&lt;meta http-equiv=&quot;Expires&quot; content=&quot;Tue, 01 Jan 1980 1:00:00 GMT&quot; /&gt;
+&lt;meta http-equiv=&quot;Pragma&quot; content=&quot;no-cache&quot; /&gt;
+&lt;/head&gt;
+
+&lt;body&gt;
+
+&lt;div id=&quot;Header&quot;&gt;
+
+&lt;div id=&quot;Logo&quot;&gt;
+&lt;div id=&quot;LogoContent&quot;&gt;
+&amp;nbsp;
+&lt;a href=&quot;/actions/Catalog.action&quot;&gt;&lt;img src=&quot;../images/logo-topbar.svg&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Menu&quot;&gt;
+&lt;div id=&quot;MenuContent&quot;&gt;&lt;a href=&quot;/actions/Cart.action?viewCart=&quot;&gt;&lt;img align=&quot;middle&quot; name=&quot;img_cart&quot; src=&quot;../images/cart.gif&quot; /&gt;&lt;/a&gt; &lt;img align=&quot;middle&quot; src=&quot;../images/separator.gif&quot; /&gt;  
+	
+ 
+	
+		&lt;a href=&quot;/actions/Account.action?signoff=&quot;&gt;Sign Out&lt;/a&gt;
+		&lt;img align=&quot;middle&quot; src=&quot;../images/separator.gif&quot; /&gt;
+		&lt;a href=&quot;/actions/Account.action?editAccountForm=&quot;&gt;My Account&lt;/a&gt;
+	
+ &lt;img align=&quot;middle&quot; src=&quot;../images/separator.gif&quot; /&gt; &lt;a
+	href=&quot;../help.html&quot;&gt;?&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Search&quot;&gt;
+&lt;div id=&quot;SearchContent&quot;&gt;&lt;form method=&quot;post&quot; action=&quot;/actions/Catalog.action&quot;&gt;
+	&lt;input size=&quot;14&quot; name=&quot;keyword&quot; type=&quot;text&quot; /&gt;
+	&lt;input name=&quot;searchProducts&quot; type=&quot;submit&quot; value=&quot;Search&quot; /&gt;
+&lt;div style=&quot;display: none;&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;_sourcePage&quot; value=&quot;4As-9MY5qYS8qZIIMdAAzc1B0PT0amIACDa-ZKSCuVpN_i12ottSpfhLlVbgHyghnXPZOWthSdymbhyb1hmM4KW8qeLWAIIo49dG1GuFRTW1cTF2m0QvpQ==&quot; /&gt;&lt;input type=&quot;hidden&quot; name=&quot;__fp&quot; value=&quot;xv63tbe6UPHsi8p9C73r3Isn0Nxbo5n_AuUefM8AcckXtr8JmwfrbUi0SiEYSxqi&quot; /&gt;&lt;/div&gt;&lt;/form&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;QuickLinks&quot;&gt;&lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=FISH&quot;&gt;&lt;img src=&quot;../images/sm_fish.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=DOGS&quot;&gt;&lt;img src=&quot;../images/sm_dogs.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=REPTILES&quot;&gt;&lt;img src=&quot;../images/sm_reptiles.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=CATS&quot;&gt;&lt;img src=&quot;../images/sm_cats.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=BIRDS&quot;&gt;&lt;img src=&quot;../images/sm_birds.gif&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div id=&quot;Content&quot;&gt;
+
+
+&lt;div id=&quot;Catalog&quot;&gt;&lt;form method=&quot;post&quot; action=&quot;/actions/Account.action&quot;&gt;
+
+	&lt;h3&gt;User Information&lt;/h3&gt;
+
+	&lt;table&gt;
+		&lt;tr&gt;
+			&lt;td&gt;User ID:&lt;/td&gt;
+			&lt;td&gt;jiyansh01&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;New password:&lt;/td&gt;
+			&lt;td&gt;&lt;input name=&quot;password&quot; id=&quot;stripes-1849025774&quot; type=&quot;text&quot; /&gt;&lt;script type=&quot;text/javascript&quot;&gt;setTimeout(function(){try{var z=document.getElementById(&apos;stripes-1849025774&apos;);z.focus();z.select();}catch(e){}},1);&lt;/script&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;Repeat password:&lt;/td&gt;
+			&lt;td&gt;&lt;input name=&quot;repeatedPassword&quot; type=&quot;text&quot; /&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/table&gt;
+	
+&lt;h3&gt;Account Information&lt;/h3&gt;
+
+&lt;table&gt;
+	&lt;tr&gt;
+		&lt;td&gt;First name:&lt;/td&gt;
+		&lt;td&gt;&lt;input name=&quot;account.firstName&quot; type=&quot;text&quot; value=&quot;Jiyansh&quot; /&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Last name:&lt;/td&gt;
+		&lt;td&gt;&lt;input name=&quot;account.lastName&quot; type=&quot;text&quot; value=&quot;Kumar&quot; /&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Email:&lt;/td&gt;
+		&lt;td&gt;&lt;input size=&quot;40&quot; name=&quot;account.email&quot; type=&quot;text&quot; value=&quot;jiyansh@gmail.com&quot; /&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Phone:&lt;/td&gt;
+		&lt;td&gt;&lt;input name=&quot;account.phone&quot; type=&quot;text&quot; value=&quot;99999999999&quot; /&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Address 1:&lt;/td&gt;
+		&lt;td&gt;&lt;input size=&quot;40&quot; name=&quot;account.address1&quot; type=&quot;text&quot; value=&quot;Hosa Road&quot; /&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Address 2:&lt;/td&gt;
+		&lt;td&gt;&lt;input size=&quot;40&quot; name=&quot;account.address2&quot; type=&quot;text&quot; value=&quot;bangalore&quot; /&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;City:&lt;/td&gt;
+		&lt;td&gt;&lt;input name=&quot;account.city&quot; type=&quot;text&quot; value=&quot;Bangalore&quot; /&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;State:&lt;/td&gt;
+		&lt;td&gt;&lt;input size=&quot;4&quot; name=&quot;account.state&quot; type=&quot;text&quot; value=&quot;Karnataka&quot; /&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Zip:&lt;/td&gt;
+		&lt;td&gt;&lt;input size=&quot;10&quot; name=&quot;account.zip&quot; type=&quot;text&quot; value=&quot;560068&quot; /&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Country:&lt;/td&gt;
+		&lt;td&gt;&lt;input size=&quot;15&quot; name=&quot;account.country&quot; type=&quot;text&quot; value=&quot;India&quot; /&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;h3&gt;Profile Information&lt;/h3&gt;
+
+&lt;table&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Language Preference:&lt;/td&gt;
+		&lt;td&gt;&lt;select name=&quot;account.languagePreference&quot;&gt;
+			&lt;option value=&quot;english&quot; selected=&quot;selected&quot;&gt;english&lt;/option&gt;&lt;option value=&quot;japanese&quot;&gt;japanese&lt;/option&gt;
+		&lt;/select&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Favourite Category:&lt;/td&gt;
+		&lt;td&gt;&lt;select name=&quot;account.favouriteCategoryId&quot;&gt;
+			&lt;option value=&quot;FISH&quot; selected=&quot;selected&quot;&gt;FISH&lt;/option&gt;&lt;option value=&quot;DOGS&quot;&gt;DOGS&lt;/option&gt;&lt;option value=&quot;REPTILES&quot;&gt;REPTILES&lt;/option&gt;&lt;option value=&quot;CATS&quot;&gt;CATS&lt;/option&gt;&lt;option value=&quot;BIRDS&quot;&gt;BIRDS&lt;/option&gt;
+		&lt;/select&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Enable MyList&lt;/td&gt;
+		&lt;td&gt;&lt;input name=&quot;account.listOption&quot; type=&quot;checkbox&quot; value=&quot;true&quot; /&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Enable MyBanner&lt;/td&gt;
+		&lt;td&gt;&lt;input name=&quot;account.bannerOption&quot; type=&quot;checkbox&quot; value=&quot;true&quot; /&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+
+&lt;/table&gt;
+
+
+	&lt;input name=&quot;editAccount&quot; type=&quot;submit&quot; value=&quot;Save Account Information&quot; /&gt;
+
+&lt;div style=&quot;display: none;&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;_sourcePage&quot; value=&quot;zRcR1zV5rK7IP99irPII7ZUQAyI7VR8yps7ZMAGjaYSx8pLGh0cS1mF1YouxcdpNbEbAzS6g5p2u-Qkc87V3_zZk3SjfqutuHixm1FMoLpg6kxyOty-nXw==&quot; /&gt;&lt;input type=&quot;hidden&quot; name=&quot;__fp&quot; value=&quot;chP1IDqsr_-Sx4qQ1kTwrClEySPsHdX_uwFD2M7Xd_WX2-Axn50SPHpUoTNoEOLCwSUvktNBTM_8xSaX2vG1wfnpu2Hh1DUIE_VGAclW83PqqhWorEWj7nXm515KN_Hz7BoL0ZHY-bJQKyIjtk-qfYXoBlE8_0F57JYVUjB9_RGETMPGk4P4XmCRALMXikgX&quot; /&gt;&lt;/div&gt;&lt;/form&gt; &lt;a href=&quot;/actions/Order.action?listOrders=&quot;&gt;My Orders&lt;/a&gt;&lt;/div&gt;
+
+
+&lt;/div&gt;
+
+&lt;div id=&quot;CTA&quot;&gt;
+Elevate you load-testing with &lt;a href=&quot;https://octoperf.com&quot;&gt;OctoPerf&lt;/a&gt;!
+&lt;/div&gt;
+
+&lt;div id=&quot;Footer&quot;&gt;
+
+&lt;div id=&quot;PoweredBy&quot;&gt;
+&amp;nbsp;&amp;nbsp;Hosted by &lt;a href=&quot;https://octoperf.com&quot; target=&quot;_blank&quot;&gt;https://octoperf.com&lt;/a&gt;&amp;nbsp;|&amp;nbsp;Powered by &lt;a href=&quot;https://mybatis.org/&quot; target=&quot;_blank&quot;&gt;www.mybatis.org&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Banner&quot;&gt;
+	
+		
+	
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String">JSESSIONID=07398BC5450E131ED16FA3A1A12838B3</cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://petstore.octoperf.com/actions/Account.action?editAccountForm=</java.net.URL>
+</httpSample>
+<httpSample t="1207" it="0" lt="1207" ct="944" ts="1779705247817" s="true" lb="JP04_TC12_GoTo_MyOrders/actions/Order.action-228" rc="200" rm="" tn="" dt="text" de="UTF-8" by="3597" sc="1" ec="0" ng="0" na="0" hn="R36001WL0307">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 
+Date: Mon, 25 May 2026 10:34:08 GMT
+Content-Type: text/html;charset=UTF-8
+Content-Length: 3365
+Connection: close
+Content-Language: en-US
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: navigate
+Referer: https://petstore.octoperf.com/actions/Account.action?editAccountForm=
+Sec-Fetch-Site: same-origin
+Accept-Language: en-US,en;q=0.9
+Sec-Fetch-User: ?1
+Priority: u=0, i
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Host: petstore.octoperf.com
+Upgrade-Insecure-Requests: 1
+Accept-Encoding: gzip, deflate, br, zstd
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+Sec-Fetch-Dest: document
+</requestHeader>
+  <responseData class="java.lang.String">
+
+
+
+
+
+
+&lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD XHTML 1.0 Transitional//EN&quot;
+&quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&quot;&gt;
+
+&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot;&gt;
+
+&lt;head&gt;
+&lt;link rel=&quot;StyleSheet&quot; href=&quot;../css/jpetstore.css&quot; type=&quot;text/css&quot;
+	media=&quot;screen&quot; /&gt;
+
+&lt;meta name=&quot;generator&quot;
+	content=&quot;HTML Tidy for Linux/x86 (vers 1st November 2002), see www.w3.org&quot; /&gt;
+&lt;title&gt;JPetStore Demo&lt;/title&gt;
+&lt;meta content=&quot;text/html; charset=windows-1252&quot;
+	http-equiv=&quot;Content-Type&quot; /&gt;
+&lt;meta http-equiv=&quot;Cache-Control&quot; content=&quot;max-age=0&quot; /&gt;
+&lt;meta http-equiv=&quot;Cache-Control&quot; content=&quot;no-cache&quot; /&gt;
+&lt;meta http-equiv=&quot;expires&quot; content=&quot;0&quot; /&gt;
+&lt;meta http-equiv=&quot;Expires&quot; content=&quot;Tue, 01 Jan 1980 1:00:00 GMT&quot; /&gt;
+&lt;meta http-equiv=&quot;Pragma&quot; content=&quot;no-cache&quot; /&gt;
+&lt;/head&gt;
+
+&lt;body&gt;
+
+&lt;div id=&quot;Header&quot;&gt;
+
+&lt;div id=&quot;Logo&quot;&gt;
+&lt;div id=&quot;LogoContent&quot;&gt;
+&amp;nbsp;
+&lt;a href=&quot;/actions/Catalog.action&quot;&gt;&lt;img src=&quot;../images/logo-topbar.svg&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Menu&quot;&gt;
+&lt;div id=&quot;MenuContent&quot;&gt;&lt;a href=&quot;/actions/Cart.action?viewCart=&quot;&gt;&lt;img align=&quot;middle&quot; name=&quot;img_cart&quot; src=&quot;../images/cart.gif&quot; /&gt;&lt;/a&gt; &lt;img align=&quot;middle&quot; src=&quot;../images/separator.gif&quot; /&gt;  
+	
+ 
+	
+		&lt;a href=&quot;/actions/Account.action?signoff=&quot;&gt;Sign Out&lt;/a&gt;
+		&lt;img align=&quot;middle&quot; src=&quot;../images/separator.gif&quot; /&gt;
+		&lt;a href=&quot;/actions/Account.action?editAccountForm=&quot;&gt;My Account&lt;/a&gt;
+	
+ &lt;img align=&quot;middle&quot; src=&quot;../images/separator.gif&quot; /&gt; &lt;a
+	href=&quot;../help.html&quot;&gt;?&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Search&quot;&gt;
+&lt;div id=&quot;SearchContent&quot;&gt;&lt;form method=&quot;post&quot; action=&quot;/actions/Catalog.action&quot;&gt;
+	&lt;input size=&quot;14&quot; name=&quot;keyword&quot; type=&quot;text&quot; /&gt;
+	&lt;input name=&quot;searchProducts&quot; type=&quot;submit&quot; value=&quot;Search&quot; /&gt;
+&lt;div style=&quot;display: none;&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;_sourcePage&quot; value=&quot;egMBGEeVMOZ4GqWqYzmfOuPUD9sKkK_KI-GtzaGWlcvY3ja09WX1vMypiyX8saRTmygV6Mn3QGI2bZ6YdHUjP40HCG917PEzshVRbvb4Yug=&quot; /&gt;&lt;input type=&quot;hidden&quot; name=&quot;__fp&quot; value=&quot;0GA12RjUniGc8YrvlrPKSdijvcJCZFCuZg6leHAtcKCUj7jUTgprrNoXyWa-DnlN&quot; /&gt;&lt;/div&gt;&lt;/form&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;QuickLinks&quot;&gt;&lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=FISH&quot;&gt;&lt;img src=&quot;../images/sm_fish.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=DOGS&quot;&gt;&lt;img src=&quot;../images/sm_dogs.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=REPTILES&quot;&gt;&lt;img src=&quot;../images/sm_reptiles.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=CATS&quot;&gt;&lt;img src=&quot;../images/sm_cats.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=BIRDS&quot;&gt;&lt;img src=&quot;../images/sm_birds.gif&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div id=&quot;Content&quot;&gt;
+
+
+&lt;h2&gt;My Orders&lt;/h2&gt;
+
+&lt;table&gt;
+	&lt;tr&gt;
+		&lt;th&gt;Order ID&lt;/th&gt;
+		&lt;th&gt;Date&lt;/th&gt;
+		&lt;th&gt;Total Price&lt;/th&gt;
+	&lt;/tr&gt;
+
+	
+		&lt;tr&gt;
+			&lt;td&gt;&lt;a href=&quot;/actions/Order.action?viewOrder=&amp;amp;orderId=352663&quot;&gt;352663&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;2026/05/25 12:00:00&lt;/td&gt;
+			&lt;td&gt;$18.50&lt;/td&gt;
+		&lt;/tr&gt;
+	
+&lt;/table&gt;
+
+
+&lt;/div&gt;
+
+&lt;div id=&quot;CTA&quot;&gt;
+Elevate you load-testing with &lt;a href=&quot;https://octoperf.com&quot;&gt;OctoPerf&lt;/a&gt;!
+&lt;/div&gt;
+
+&lt;div id=&quot;Footer&quot;&gt;
+
+&lt;div id=&quot;PoweredBy&quot;&gt;
+&amp;nbsp;&amp;nbsp;Hosted by &lt;a href=&quot;https://octoperf.com&quot; target=&quot;_blank&quot;&gt;https://octoperf.com&lt;/a&gt;&amp;nbsp;|&amp;nbsp;Powered by &lt;a href=&quot;https://mybatis.org/&quot; target=&quot;_blank&quot;&gt;www.mybatis.org&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Banner&quot;&gt;
+	
+		
+	
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+
+
+
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String">JSESSIONID=07398BC5450E131ED16FA3A1A12838B3</cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://petstore.octoperf.com/actions/Order.action?listOrders=</java.net.URL>
+</httpSample>
+<httpSample t="1053" it="0" lt="1053" ct="847" ts="1779705267407" s="true" lb="JP04_TC13_Click_OrderID/actions/Order.action-229" rc="200" rm="" tn="" dt="text" de="UTF-8" by="5335" sc="1" ec="0" ng="0" na="0" hn="R36001WL0307">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 
+Date: Mon, 25 May 2026 10:34:28 GMT
+Content-Type: text/html;charset=UTF-8
+Content-Length: 5103
+Connection: close
+Content-Language: en-US
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: navigate
+Referer: https://petstore.octoperf.com/actions/Order.action?listOrders=
+Sec-Fetch-Site: same-origin
+Accept-Language: en-US,en;q=0.9
+Sec-Fetch-User: ?1
+Priority: u=0, i
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Host: petstore.octoperf.com
+Upgrade-Insecure-Requests: 1
+Accept-Encoding: gzip, deflate, br, zstd
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+Sec-Fetch-Dest: document
+</requestHeader>
+  <responseData class="java.lang.String">
+
+
+
+
+
+
+&lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD XHTML 1.0 Transitional//EN&quot;
+&quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&quot;&gt;
+
+&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot;&gt;
+
+&lt;head&gt;
+&lt;link rel=&quot;StyleSheet&quot; href=&quot;../css/jpetstore.css&quot; type=&quot;text/css&quot;
+	media=&quot;screen&quot; /&gt;
+
+&lt;meta name=&quot;generator&quot;
+	content=&quot;HTML Tidy for Linux/x86 (vers 1st November 2002), see www.w3.org&quot; /&gt;
+&lt;title&gt;JPetStore Demo&lt;/title&gt;
+&lt;meta content=&quot;text/html; charset=windows-1252&quot;
+	http-equiv=&quot;Content-Type&quot; /&gt;
+&lt;meta http-equiv=&quot;Cache-Control&quot; content=&quot;max-age=0&quot; /&gt;
+&lt;meta http-equiv=&quot;Cache-Control&quot; content=&quot;no-cache&quot; /&gt;
+&lt;meta http-equiv=&quot;expires&quot; content=&quot;0&quot; /&gt;
+&lt;meta http-equiv=&quot;Expires&quot; content=&quot;Tue, 01 Jan 1980 1:00:00 GMT&quot; /&gt;
+&lt;meta http-equiv=&quot;Pragma&quot; content=&quot;no-cache&quot; /&gt;
+&lt;/head&gt;
+
+&lt;body&gt;
+
+&lt;div id=&quot;Header&quot;&gt;
+
+&lt;div id=&quot;Logo&quot;&gt;
+&lt;div id=&quot;LogoContent&quot;&gt;
+&amp;nbsp;
+&lt;a href=&quot;/actions/Catalog.action&quot;&gt;&lt;img src=&quot;../images/logo-topbar.svg&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Menu&quot;&gt;
+&lt;div id=&quot;MenuContent&quot;&gt;&lt;a href=&quot;/actions/Cart.action?viewCart=&quot;&gt;&lt;img align=&quot;middle&quot; name=&quot;img_cart&quot; src=&quot;../images/cart.gif&quot; /&gt;&lt;/a&gt; &lt;img align=&quot;middle&quot; src=&quot;../images/separator.gif&quot; /&gt;  
+	
+ 
+	
+		&lt;a href=&quot;/actions/Account.action?signoff=&quot;&gt;Sign Out&lt;/a&gt;
+		&lt;img align=&quot;middle&quot; src=&quot;../images/separator.gif&quot; /&gt;
+		&lt;a href=&quot;/actions/Account.action?editAccountForm=&quot;&gt;My Account&lt;/a&gt;
+	
+ &lt;img align=&quot;middle&quot; src=&quot;../images/separator.gif&quot; /&gt; &lt;a
+	href=&quot;../help.html&quot;&gt;?&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Search&quot;&gt;
+&lt;div id=&quot;SearchContent&quot;&gt;&lt;form method=&quot;post&quot; action=&quot;/actions/Catalog.action&quot;&gt;
+	&lt;input size=&quot;14&quot; name=&quot;keyword&quot; type=&quot;text&quot; /&gt;
+	&lt;input name=&quot;searchProducts&quot; type=&quot;submit&quot; value=&quot;Search&quot; /&gt;
+&lt;div style=&quot;display: none;&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;_sourcePage&quot; value=&quot;o_0yLCG4z6_RmxC6b67-V-ExgwWX6nH7VpiLW7E0YebXetgwZ0rS4RYCcVOnO4yVMvBNNp194-Ll5EooOQQQLSKDvRRwOiVZtqFzDBrWY90=&quot; /&gt;&lt;input type=&quot;hidden&quot; name=&quot;__fp&quot; value=&quot;tIogJ1mFZbmHteBRbngyU9YghVLLUCZBjBrPbghzLBmbfIIyXEI4AqtgqZdsOzYe&quot; /&gt;&lt;/div&gt;&lt;/form&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;QuickLinks&quot;&gt;&lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=FISH&quot;&gt;&lt;img src=&quot;../images/sm_fish.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=DOGS&quot;&gt;&lt;img src=&quot;../images/sm_dogs.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=REPTILES&quot;&gt;&lt;img src=&quot;../images/sm_reptiles.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=CATS&quot;&gt;&lt;img src=&quot;../images/sm_cats.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=BIRDS&quot;&gt;&lt;img src=&quot;../images/sm_birds.gif&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div id=&quot;Content&quot;&gt;
+
+
+&lt;div id=&quot;BackLink&quot;&gt;&lt;a href=&quot;/actions/Catalog.action&quot;&gt;Return to Main Menu&lt;/a&gt;&lt;/div&gt;
+
+&lt;div id=&quot;Catalog&quot;&gt;
+
+&lt;table&gt;
+	&lt;tr&gt;
+		&lt;th align=&quot;center&quot; colspan=&quot;2&quot;&gt;Order #352663
+		2026/05/25 12:00:00&lt;/th&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;th colspan=&quot;2&quot;&gt;Payment Details&lt;/th&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Card Type:&lt;/td&gt;
+		&lt;td&gt;Visa&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Card Number:&lt;/td&gt;
+		&lt;td&gt;999 9999 9999 9999 * Fake
+		number!&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Expiry Date (MM/YYYY):&lt;/td&gt;
+		&lt;td&gt;12/03&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;th colspan=&quot;2&quot;&gt;Billing Address&lt;/th&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;First name:&lt;/td&gt;
+		&lt;td&gt;Jiyansh&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Last name:&lt;/td&gt;
+		&lt;td&gt;Kumar&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Address 1:&lt;/td&gt;
+		&lt;td&gt;Hosa Road&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Address 2:&lt;/td&gt;
+		&lt;td&gt;bangalore&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;City:&lt;/td&gt;
+		&lt;td&gt;Bangalore&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;State:&lt;/td&gt;
+		&lt;td&gt;Karnataka&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Zip:&lt;/td&gt;
+		&lt;td&gt;560068&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Country:&lt;/td&gt;
+		&lt;td&gt;India&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;th colspan=&quot;2&quot;&gt;Shipping Address&lt;/th&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;First name:&lt;/td&gt;
+		&lt;td&gt;Jiyansh&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Last name:&lt;/td&gt;
+		&lt;td&gt;Kumar&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Address 1:&lt;/td&gt;
+		&lt;td&gt;Hosa Road&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Address 2:&lt;/td&gt;
+		&lt;td&gt;bangalore&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;City:&lt;/td&gt;
+		&lt;td&gt;Bangalore&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;State:&lt;/td&gt;
+		&lt;td&gt;Karnataka&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Zip:&lt;/td&gt;
+		&lt;td&gt;560068&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Country:&lt;/td&gt;
+		&lt;td&gt;India&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Courier:&lt;/td&gt;
+		&lt;td&gt;UPS&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td colspan=&quot;2&quot;&gt;Status: P&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td colspan=&quot;2&quot;&gt;
+		&lt;table&gt;
+			&lt;tr&gt;
+				&lt;th&gt;Item ID&lt;/th&gt;
+				&lt;th&gt;Description&lt;/th&gt;
+				&lt;th&gt;Quantity&lt;/th&gt;
+				&lt;th&gt;Price&lt;/th&gt;
+				&lt;th&gt;Total Cost&lt;/th&gt;
+			&lt;/tr&gt;
+			
+				&lt;tr&gt;
+					&lt;td&gt;&lt;a href=&quot;/actions/Catalog.action?viewItem=&amp;amp;itemId=EST-3&quot;&gt;EST-3&lt;/a&gt;&lt;/td&gt;
+					&lt;td&gt;
+						Toothless
+						
+						
+						
+						
+						Tiger Shark
+					 &lt;/td&gt;
+
+					&lt;td&gt;1&lt;/td&gt;
+					&lt;td&gt;$18.50&lt;/td&gt;
+					&lt;td&gt;$18.50&lt;/td&gt;
+				&lt;/tr&gt;
+			
+			&lt;tr&gt;
+				&lt;th colspan=&quot;5&quot;&gt;Total: $18.50&lt;/th&gt;
+			&lt;/tr&gt;
+		&lt;/table&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/div&gt;
+
+
+&lt;/div&gt;
+
+&lt;div id=&quot;CTA&quot;&gt;
+Elevate you load-testing with &lt;a href=&quot;https://octoperf.com&quot;&gt;OctoPerf&lt;/a&gt;!
+&lt;/div&gt;
+
+&lt;div id=&quot;Footer&quot;&gt;
+
+&lt;div id=&quot;PoweredBy&quot;&gt;
+&amp;nbsp;&amp;nbsp;Hosted by &lt;a href=&quot;https://octoperf.com&quot; target=&quot;_blank&quot;&gt;https://octoperf.com&lt;/a&gt;&amp;nbsp;|&amp;nbsp;Powered by &lt;a href=&quot;https://mybatis.org/&quot; target=&quot;_blank&quot;&gt;www.mybatis.org&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Banner&quot;&gt;
+	
+		
+	
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String">JSESSIONID=07398BC5450E131ED16FA3A1A12838B3</cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://petstore.octoperf.com/actions/Order.action?viewOrder=&amp;orderId=352663</java.net.URL>
+</httpSample>
+<httpSample t="955" it="0" lt="955" ct="769" ts="1779705293299" s="true" lb="JP04_TC14_SignOut/actions/Account.action-230" rc="302" rm="" tn="" dt="" de="" by="225" sc="1" ec="0" ng="0" na="0" hn="R36001WL0307">
+  <responseHeader class="java.lang.String">HTTP/1.1 302 
+Date: Mon, 25 May 2026 10:34:54 GMT
+Content-Length: 0
+Connection: close
+Location: /actions/Catalog.action
+Content-Language: en-US
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: navigate
+Referer: https://petstore.octoperf.com/actions/Order.action?viewOrder=&amp;orderId=352663
+Sec-Fetch-Site: same-origin
+Accept-Language: en-US,en;q=0.9
+Sec-Fetch-User: ?1
+Priority: u=0, i
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Host: petstore.octoperf.com
+Upgrade-Insecure-Requests: 1
+Accept-Encoding: gzip, deflate, br, zstd
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+Sec-Fetch-Dest: document
+</requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String">JSESSIONID=07398BC5450E131ED16FA3A1A12838B3</cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <redirectLocation class="java.lang.String">/actions/Catalog.action</redirectLocation>
+  <java.net.URL>https://petstore.octoperf.com/actions/Account.action?signoff=</java.net.URL>
+</httpSample>
+<httpSample t="805" it="0" lt="805" ct="625" ts="1779705294273" s="true" lb="JP04_TC14_SignOut/actions/Catalog.action-231" rc="200" rm="" tn="" dt="text" de="UTF-8" by="5043" sc="1" ec="0" ng="0" na="0" hn="R36001WL0307">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 
+Date: Mon, 25 May 2026 10:34:54 GMT
+Content-Type: text/html;charset=UTF-8
+Content-Length: 4736
+Connection: close
+Set-Cookie: JSESSIONID=8C194D87FE7BB8F3F028764EE2869DF2; Path=/; HttpOnly
+Content-Language: en-US
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: navigate
+Referer: https://petstore.octoperf.com/actions/Order.action?viewOrder=&amp;orderId=352663
+Sec-Fetch-Site: same-origin
+Accept-Language: en-US,en;q=0.9
+Sec-Fetch-User: ?1
+Priority: u=0, i
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Host: petstore.octoperf.com
+Upgrade-Insecure-Requests: 1
+Accept-Encoding: gzip, deflate, br, zstd
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+Sec-Fetch-Dest: document
+</requestHeader>
+  <responseData class="java.lang.String">
+
+
+
+
+
+
+&lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD XHTML 1.0 Transitional//EN&quot;
+&quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&quot;&gt;
+
+&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot;&gt;
+
+&lt;head&gt;
+&lt;link rel=&quot;StyleSheet&quot; href=&quot;../css/jpetstore.css&quot; type=&quot;text/css&quot;
+	media=&quot;screen&quot; /&gt;
+
+&lt;meta name=&quot;generator&quot;
+	content=&quot;HTML Tidy for Linux/x86 (vers 1st November 2002), see www.w3.org&quot; /&gt;
+&lt;title&gt;JPetStore Demo&lt;/title&gt;
+&lt;meta content=&quot;text/html; charset=windows-1252&quot;
+	http-equiv=&quot;Content-Type&quot; /&gt;
+&lt;meta http-equiv=&quot;Cache-Control&quot; content=&quot;max-age=0&quot; /&gt;
+&lt;meta http-equiv=&quot;Cache-Control&quot; content=&quot;no-cache&quot; /&gt;
+&lt;meta http-equiv=&quot;expires&quot; content=&quot;0&quot; /&gt;
+&lt;meta http-equiv=&quot;Expires&quot; content=&quot;Tue, 01 Jan 1980 1:00:00 GMT&quot; /&gt;
+&lt;meta http-equiv=&quot;Pragma&quot; content=&quot;no-cache&quot; /&gt;
+&lt;/head&gt;
+
+&lt;body&gt;
+
+&lt;div id=&quot;Header&quot;&gt;
+
+&lt;div id=&quot;Logo&quot;&gt;
+&lt;div id=&quot;LogoContent&quot;&gt;
+&amp;nbsp;
+&lt;a href=&quot;/actions/Catalog.action&quot;&gt;&lt;img src=&quot;../images/logo-topbar.svg&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Menu&quot;&gt;
+&lt;div id=&quot;MenuContent&quot;&gt;&lt;a href=&quot;/actions/Cart.action?viewCart=&quot;&gt;&lt;img align=&quot;middle&quot; name=&quot;img_cart&quot; src=&quot;../images/cart.gif&quot; /&gt;&lt;/a&gt; &lt;img align=&quot;middle&quot; src=&quot;../images/separator.gif&quot; /&gt; 
+	&lt;a href=&quot;/actions/Account.action?signonForm=&quot;&gt;Sign In&lt;/a&gt;
+   &lt;img align=&quot;middle&quot; src=&quot;../images/separator.gif&quot; /&gt; &lt;a
+	href=&quot;../help.html&quot;&gt;?&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Search&quot;&gt;
+&lt;div id=&quot;SearchContent&quot;&gt;&lt;form method=&quot;post&quot; action=&quot;/actions/Catalog.action&quot;&gt;
+	&lt;input size=&quot;14&quot; name=&quot;keyword&quot; type=&quot;text&quot; /&gt;
+	&lt;input name=&quot;searchProducts&quot; type=&quot;submit&quot; value=&quot;Search&quot; /&gt;
+&lt;div style=&quot;display: none;&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;_sourcePage&quot; value=&quot;fvUMEQHHOl_vqTx57Jv5ZFMhCLwE-fIwsuUtgpaqk2KNEozeYKldtkTDc-f6c0wGUGxYCKNd9bsnLObUdKUlPMdwHZMRKSP0&quot; /&gt;&lt;input type=&quot;hidden&quot; name=&quot;__fp&quot; value=&quot;mSyNgdxyjU4orZtHJThgG9jWEBk2xmnWqo9c3--7YEmEKuMwV_mHkUXA-7JtmhNh&quot; /&gt;&lt;/div&gt;&lt;/form&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;QuickLinks&quot;&gt;&lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=FISH&quot;&gt;&lt;img src=&quot;../images/sm_fish.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=DOGS&quot;&gt;&lt;img src=&quot;../images/sm_dogs.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=REPTILES&quot;&gt;&lt;img src=&quot;../images/sm_reptiles.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=CATS&quot;&gt;&lt;img src=&quot;../images/sm_cats.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=BIRDS&quot;&gt;&lt;img src=&quot;../images/sm_birds.gif&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div id=&quot;Content&quot;&gt;
+
+
+&lt;div id=&quot;Welcome&quot;&gt;
+&lt;div id=&quot;WelcomeContent&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Main&quot;&gt;
+&lt;div id=&quot;Sidebar&quot;&gt;
+&lt;div id=&quot;SidebarContent&quot;&gt;&lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=FISH&quot;&gt;&lt;img src=&quot;../images/fish_icon.gif&quot; /&gt;&lt;/a&gt; &lt;br /&gt;
+Saltwater, Freshwater &lt;br /&gt;
+&lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=DOGS&quot;&gt;&lt;img src=&quot;../images/dogs_icon.gif&quot; /&gt;&lt;/a&gt; &lt;br /&gt;
+Various Breeds &lt;br /&gt;
+&lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=CATS&quot;&gt;&lt;img src=&quot;../images/cats_icon.gif&quot; /&gt;&lt;/a&gt; &lt;br /&gt;
+Various Breeds, Exotic Varieties &lt;br /&gt;
+&lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=REPTILES&quot;&gt;&lt;img src=&quot;../images/reptiles_icon.gif&quot; /&gt;&lt;/a&gt; &lt;br /&gt;
+Lizards, Turtles, Snakes &lt;br /&gt;
+&lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=BIRDS&quot;&gt;&lt;img src=&quot;../images/birds_icon.gif&quot; /&gt;&lt;/a&gt; &lt;br /&gt;
+Exotic Varieties&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;MainImage&quot;&gt;
+&lt;div id=&quot;MainImageContent&quot;&gt;
+  &lt;map name=&quot;estoremap&quot;&gt;
+	&lt;area alt=&quot;Birds&quot; coords=&quot;72,2,280,250&quot;
+		href=&quot;Catalog.action?viewCategory=&amp;categoryId=BIRDS&quot; shape=&quot;RECT&quot; /&gt;
+	&lt;area alt=&quot;Fish&quot; coords=&quot;2,180,72,250&quot;
+		href=&quot;Catalog.action?viewCategory=&amp;categoryId=FISH&quot; shape=&quot;RECT&quot; /&gt;
+	&lt;area alt=&quot;Dogs&quot; coords=&quot;60,250,130,320&quot;
+		href=&quot;Catalog.action?viewCategory=&amp;categoryId=DOGS&quot; shape=&quot;RECT&quot; /&gt;
+	&lt;area alt=&quot;Reptiles&quot; coords=&quot;140,270,210,340&quot;
+		href=&quot;Catalog.action?viewCategory=&amp;categoryId=REPTILES&quot; shape=&quot;RECT&quot; /&gt;
+	&lt;area alt=&quot;Cats&quot; coords=&quot;225,240,295,310&quot;
+		href=&quot;Catalog.action?viewCategory=&amp;categoryId=CATS&quot; shape=&quot;RECT&quot; /&gt;
+	&lt;area alt=&quot;Birds&quot; coords=&quot;280,180,350,250&quot;
+		href=&quot;Catalog.action?viewCategory=&amp;categoryId=BIRDS&quot; shape=&quot;RECT&quot; /&gt;
+  &lt;/map&gt;
+  &lt;img height=&quot;355&quot; src=&quot;../images/splash.gif&quot; align=&quot;middle&quot;
+	usemap=&quot;#estoremap&quot; width=&quot;350&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Separator&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;/div&gt;
+
+&lt;div id=&quot;CTA&quot;&gt;
+Elevate you load-testing with &lt;a href=&quot;https://octoperf.com&quot;&gt;OctoPerf&lt;/a&gt;!
+&lt;/div&gt;
+
+&lt;div id=&quot;Footer&quot;&gt;
+
+&lt;div id=&quot;PoweredBy&quot;&gt;
+&amp;nbsp;&amp;nbsp;Hosted by &lt;a href=&quot;https://octoperf.com&quot; target=&quot;_blank&quot;&gt;https://octoperf.com&lt;/a&gt;&amp;nbsp;|&amp;nbsp;Powered by &lt;a href=&quot;https://mybatis.org/&quot; target=&quot;_blank&quot;&gt;www.mybatis.org&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Banner&quot;&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+
+
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String">JSESSIONID=07398BC5450E131ED16FA3A1A12838B3</cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://petstore.octoperf.com/actions/Catalog.action</java.net.URL>
+</httpSample>
+
+</testResults>

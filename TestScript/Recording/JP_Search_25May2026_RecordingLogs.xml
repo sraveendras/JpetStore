@@ -1,0 +1,1035 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+
+
+
+
+<httpSample t="811" it="0" lt="810" ct="435" ts="1779700661781" s="false" lb="/-3" rc="400" rm="Bad Request" tn="" dt="text" de="utf-8" by="224" sc="1" ec="1" ng="0" na="0" hn="R36001WL0307">
+  <responseHeader class="java.lang.String">HTTP/1.1 400 Bad Request
+Connection: close
+Content-Length: 12
+Content-Type: text/plain; charset=utf-8
+X-Content-Type-Options: nosniff
+Cache-Control: private, no-store
+Date: Mon, 25 May 2026 09:17:42 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Accept-Language: en-US,en;q=0.9
+Priority: u=4
+Accept: */*
+Host: mozilla-ohttp.fastly-edge.com
+Content-Type: message/ohttp-req
+Accept-Encoding: gzip, deflate, br, zstd
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+Sec-Fetch-Dest: empty
+Content-Length: 864
+</requestHeader>
+  <responseData class="java.lang.String">Bad Request
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">�&#x0; &#x0;&#x1;&#x0;&#x1;b:�����=p,���Ǖc��8� ����M�,�ȧ&#x7;^�i�^&#x7;�Q��&#x10;��X&#x11;I�&#x7;�s&#x4;�kSC&#x1a;;&apos;6l�b���&#x11;&#x99;̤g�e�*�)&#x1;�%��f&quot;&#x1e;�&#x10;&#x1e;�Ӊ�Y�S��&lt;��&#xc;J[#h]\/�&#xd;��M��㍎M&#x6;WHBGeP͔DZ�Y�&#x1d;\��ݫ&#x19;��}��.&#x6;L�y�	��0��)p&#x13;��&#x10;��)�&#x17;�U�s�&#x16;L%P��ȶ�����&#x12;B��&#x5;HX�X&#x3;*&#x1;n����D����������^FY�&amp;aPѻ&#x7f;ag�&#xd;�8S]�L���1en&amp;&apos;�&amp;���T=F��x��s��+bP__����\&#x1e;&#x1c;Ґ��,�&#x19;&#xd;���&apos;&quot;�x�&#x12;�W��w��&#x10;u�B���&#x14;�2z��Z�&#x5;&#x0;mL3��Q��&#x0;���5U&#x13;�53���	7{��1mV�%vZ�&gt;���DA&#x14;��6&#x16;	��a)&#x17;&amp;�3i�J6�&#x13;����L&#x1d;�G��&#xe;�e+֬a_ُE�4$���#�&#x4;��&#x1d;��)&#xd;�_dE�ʨ��O2��	�|�*-�Q5��q��&#x0;���Y���#UV&#x6;]�;%eE</queryString>
+  <java.net.URL>https://mozilla-ohttp.fastly-edge.com/</java.net.URL>
+</httpSample>
+<httpSample t="1022" it="0" lt="1022" ct="808" ts="1779700675406" s="true" lb="JP01_TC01_HomePage_launch/-4" rc="200" rm="" tn="" dt="text" de="" by="1447" sc="1" ec="0" ng="0" na="0" hn="R36001WL0307">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 
+Date: Mon, 25 May 2026 09:17:56 GMT
+Content-Type: text/html
+Content-Length: 1156
+Connection: close
+Accept-Ranges: bytes
+ETag: W/&quot;1156-1670877034000&quot;
+Last-Modified: Mon, 12 Dec 2022 20:30:34 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: none
+Accept-Language: en-US,en;q=0.9
+Sec-Fetch-User: ?1
+Priority: u=0, i
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Host: petstore.octoperf.com
+Upgrade-Insecure-Requests: 1
+Accept-Encoding: gzip, deflate, br, zstd
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+Sec-Fetch-Dest: document
+</requestHeader>
+  <responseData class="java.lang.String">&lt;!--
+
+       Copyright 2010-2022 the original author or authors.
+
+       Licensed under the Apache License, Version 2.0 (the &quot;License&quot;);
+       you may not use this file except in compliance with the License.
+       You may obtain a copy of the License at
+
+          https://www.apache.org/licenses/LICENSE-2.0
+
+       Unless required by applicable law or agreed to in writing, software
+       distributed under the License is distributed on an &quot;AS IS&quot; BASIS,
+       WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+       See the License for the specific language governing permissions and
+       limitations under the License.
+
+--&gt;
+&lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD XHTML 1.0 Transitional//EN&quot;
+    &quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&quot;&gt;
+
+&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot;&gt;
+
+&lt;head&gt;
+  &lt;title&gt;JPetStore Demo&lt;/title&gt;
+  &lt;link rel=&quot;StyleSheet&quot; href=&quot;css/jpetstore.css&quot; type=&quot;text/css&quot; media=&quot;screen&quot;/&gt;
+&lt;/head&gt;
+
+&lt;body&gt;
+&lt;div id=&quot;Content&quot;&gt;
+  &lt;h2&gt;Welcome to JPetStore 6&lt;/h2&gt;
+
+  &lt;p&gt;&lt;a href=&quot;actions/Catalog.action&quot;&gt;Enter the Store&lt;/a&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;sub&gt;Copyright www.mybatis.org &lt;/sub&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://petstore.octoperf.com/</java.net.URL>
+</httpSample>
+<httpSample t="9182" it="0" lt="9181" ct="559" ts="1779700680093" s="true" lb="JP01_TC01_HomePage_launch/submit/firefox-desktop/messaging-system/1/61ba598f-b08d-4b4d-add5-f84d125ce1ba-7" rc="200" rm="OK" tn="" dt="text" de="utf-8" by="726" sc="1" ec="0" ng="0" na="0" hn="R36001WL0307">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: openresty
+Date: Mon, 25 May 2026 09:18:09 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: DENY
+Access-Control-Allow-Methods: GET, POST, PUT, OPTIONS
+Access-Control-Max-Age: 1728000
+Access-Control-Allow-Headers: Accept-Encoding,Connection,Content-Encoding,Content-Length,Content-Type,DNT,Date,Sec-Fetch-Dest,Sec-Fetch-Mode,Sec-Fetch-Site,User-Agent,X-Client-Type,X-Client-Version,X-Debug-ID,X-Forwarded-For,X-Pingsender-Version,X-Pipeline-Proxy,X-Source-Tags,X-Telemetry-Agent
+Via: 1.1 google
+Alt-Svc: clear
+Connection: close
+Transfer-Encoding: chunked
+Content-Encoding: gzip
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+date: Mon, 25 May 2026 09:17:56 GMT
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Accept-Language: en-US,en;q=0.9
+content-encoding: gzip
+Priority: u=4
+Accept: */*
+x-telemetry-agent: Glean/67.1.0 (Rust on Windows)
+Host: incoming.telemetry.mozilla.org
+content-type: application/json; charset=utf-8
+Accept-Encoding: gzip, deflate, br, zstd
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+Sec-Fetch-Dest: empty
+Content-Length: 2561
+</requestHeader>
+  <responseData class="java.lang.String"></responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">&#x1f;�&#x8;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;��XKo�8&#x10;�/�n&apos;��G&#x13;���CO�b�fP$%&#x13;�H���E��~�$?Z���&#x0;F�H�y�of�5i���J�&amp;�|M���l��w�����W�L6I��kJW��&gt;e��r��&#x1f;&#x1f;�4�+]m&#x16;i�.�Z�J4�&#x14;}m����.�+���y��񗮥R2�YI�e�c5YSצ�A��L�&#x1d;,x&#xb;�� j󖅷��&#x6;�Z5E�NǾ}&#xb;����$ux&#x18;�&#x11;B�&#x10;򲖍��H��4:&quot;�{񦥽b�k;�]y����8χ�D�JS�&#x12;9��&#x1b;�*YW{�i������E�&#x4;��tk��W�����S&#x2;z$i�U�8��h�Ty[\&#x17;&#x6;�Ԛ��mLbì#n��Ӄ~G�a�A�����+&#x17;��$�|7	�ʘ
+��R�O�R&#x1d;��&#x18;)�Ǿω�K�bA�&#x1d;��N������Z�|�`LW���=&#x1e;&#x8;&#x0;&#x2;X��!S�a&#x18;�JX&#x7f;Z�&#x5;=�&#x3;W�m�`�J&#x7;&#x4;8bZP�&#x1a;�s���&#xc;w�d&gt;&#x7;&#x5;�}&#x7;�&#x1d;���$� u��&#x1a;&amp;&gt;τ�&#x7;�l��b�E��g�S�&#x8;��|Q�|�2s&#x13;&#x12;&#x1a;��Z\PkM���&#xe;��&#x1d;��t3#=&#x19;]&#x1f;&#x7f;&#x12;&#xf;��gT�n&quot;��&#xd;&#x10;r�VG��F�/&#x11;&amp;��ѵ�&#x2;x&#xd;�4�0�
+���(Ĭ�_&gt;�,&#x19;wM(�&#x7;&#x2;ެ�&lt;`&#x1c;H&#x3;)\&#x4;4���&#x2;&#x11;��lղb�H��&#x1d;P�(t2*�#&#x10;�P&#x1b;(��6gF�}&#xd;�|�G\�&#x17;�V�6f%�&#x15;%jQ&#xf;|��~�#�Е.��j�#N������왃v�8��Z�^����2� ���К	d����&#x13;�&#x14;�&#x1d;��Բ
+%�5�&#x11;&#x3;��ٷW�r֗Y�&#x4;dǢ�/&#x7f;ZjW&#x7;f�?�wn�P��ZA��XkDm
+���&#x1a;/�:�¢���?q&#x17;|]k��!��j&#x1f;�*\��&#x12;�&#xc;c�.t�Ә&#x11;�&#x1a;br����Lo�aV�a���&#x6;��&#x1e;J&#x5;�`��t&#x12;R�7�s�&#xf;YAG&lt;�sd��&#x13;,&#x16;�&apos;�d&#xe;&#x1d;R�W��9����د�&#x1e;�g�4�&#x3;��3��&#xe;��_PmsP,�&amp;&#xd;�7�5ѱ�#�@:&gt;�&#x2;&#x7;ck�&#x16;&#x3;w���&#x11;�x�
+&#x19;���=&#xb;,�&quot;&#x1;&#x12;8��;�3���0�1fy7&#x6;tu+��A�&#x19;Ȃ	�4�3Q(-�&#x1f;̻��q�w*����L}&#xc;mS�A&#x16;Cg��1��B5/��
+&#x6;�ڀ&#x8;�d&#x19;��`�&#xb;ىP��8&#xc;�#&#x7f;���&#x0;�p��&#x14;��k��;�Rܴ�&#x1b;�&#xc;��&#x1;�6&#x7;&#x1a;�&#x0;T#�b��cČy����m��&#x1e;���Q�3�i�&gt;m�[&apos;^�E�j����&#xf;�CX��mX#�4{z�R���)M7��W�&#xb;AЕ�[��Q�_ȗ��O;x�P�[��)�M6�&#x1a;{zlOު�&#x1b;�M��^ߘ/&#x0;&gt;���&#x1f;�KBgo�-����&#x4;�&#xd;�1�N&#x1;�q��&#x7f;��^p&#xc;&apos;N�t�-�U�����&#x0;p�O&#x19;���z�^�&#x1;��&#x7f;{7&#x7;&#x1d;��q�!�Eגl�&gt;�&#xf;y&#x14;�|���ÐM�cU���Y������;b�o&#x1e;~��&#x7;�8&#x11;A��&#xf;�&#x1f;?&lt;O�ğP��F��v~J&#x10;Db��%$�&gt;l铎&#x16;�=Q�[�&#x17;8�&#xd;bI�*�5�&#x12;Ś�,̕�}N�&#x10;�H�&#x5;+�ٔ&#x1f;#���ǅLK����nEK�3*���X��&#x16;O�4/�&#xc;�&#x5;B��,&amp;h;P&#x6;&#x14;~�6er���&amp;�bY*�u&#x16;��?0��&#x12;&#x0;&#x0;</queryString>
+  <java.net.URL>https://incoming.telemetry.mozilla.org/submit/firefox-desktop/messaging-system/1/61ba598f-b08d-4b4d-add5-f84d125ce1ba</java.net.URL>
+</httpSample>
+<httpSample t="3689" it="0" lt="3688" ct="551" ts="1779700689299" s="true" lb="JP01_TC02_/submit/firefox-desktop/messaging-system/1/2a798c89-1d93-4447-abec-e567d91b535c-8" rc="200" rm="OK" tn="" dt="text" de="utf-8" by="726" sc="1" ec="0" ng="0" na="0" hn="R36001WL0307">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: openresty
+Date: Mon, 25 May 2026 09:18:12 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: DENY
+Access-Control-Allow-Methods: GET, POST, PUT, OPTIONS
+Access-Control-Max-Age: 1728000
+Access-Control-Allow-Headers: Accept-Encoding,Connection,Content-Encoding,Content-Length,Content-Type,DNT,Date,Sec-Fetch-Dest,Sec-Fetch-Mode,Sec-Fetch-Site,User-Agent,X-Client-Type,X-Client-Version,X-Debug-ID,X-Forwarded-For,X-Pingsender-Version,X-Pipeline-Proxy,X-Source-Tags,X-Telemetry-Agent
+Via: 1.1 google
+Alt-Svc: clear
+Connection: close
+Transfer-Encoding: chunked
+Content-Encoding: gzip
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+date: Mon, 25 May 2026 09:18:09 GMT
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Accept-Language: en-US,en;q=0.9
+content-encoding: gzip
+Priority: u=4
+Accept: */*
+x-telemetry-agent: Glean/67.1.0 (Rust on Windows)
+Host: incoming.telemetry.mozilla.org
+content-type: application/json; charset=utf-8
+Accept-Encoding: gzip, deflate, br, zstd
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+Sec-Fetch-Dest: empty
+Content-Length: 2543
+</requestHeader>
+  <responseData class="java.lang.String"></responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">&#x1f;�&#x8;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;��X�r�6&#x10;~&#x17;^�����غ��C�N�N{Ӏ&#x0;Ha&#xc;&#x2;&#xc;~$+��{&#x17; HI�\Ӳg&lt;�H\��~��?�^�v#T������oٺ�&gt;f�&#x11;�6Nt&lt;[ge^V���\}-��e�^�7y�&#x7f;�W�E�}̸bψV벺�ʻ��c�&#xd;�*g���K&apos;zɡ7�&#x11;�i���-�&#x4;FK����[KZnA+y&#x8;gjC&#x14;ݢ-g8qA&#x15;&#x10;��F-6&#x1a;r�&#x4;qw�cJt������Ϗ&#x19;����&#x1e;��L8��0 �&#x5;&#x15;&#x12;Z�k&quot;�+RK&#x1e;��&#xe;&#x19;.9��̕AE�0��遰A&#x18;$o	=@p�
+����@}&#x0;�&#x1b;�����ʡ�y&#x16;f$��,z��?��;&#xc;i�&#x1;Z/&#x18;j栴&#x13;���	��&#x15;��&#x1b;&gt;��齲�&#xb;��ޑ&#x7;nx�&#x1d;&#xf;*��|&#x17;�&#xc;+ɉ&#x1a;��&gt;�&#xd;�&#xe;&lt;��&#x6;&#x1a;ax�&#x1f;ᘢ�qj���匎��lǈ&#x1e;&#x1d;&#x8;�?�!q&#x18;�9�&#x2;&#x18;9�룒&#x1a;;�q��VKV&#x13;�&#x0;q�[��n&#xb;iD��3.E�=�D�ۭ&#x1;m�k&#x1e;2h���p�8&#x3;o��88���Q�&gt;,&quot;�n����&#x1e;�&#x3;��:b���~��ᴹ)&#x19;&amp;�&amp;��
+&#x7;���pv`�G����&#x1a;�UQ�&#xc;��,��b&#x11;fdl�bywft�0�Ā&lt;)���IB�&#x1;�&#x19;�R&#x6;�0&#x5;��Lk�v&#x6;H 4��:&#x12;&#x1a;g&#x5;&#xc;3}8�|.�W&#x1;��5}?l�Y&#x3;D�4P&#x16;��U&#x11;$�Yw&#x10;�_�d���&#x19;XoĎ8&#xe;{�&#x10;�`&apos;��m���ַo��_�wKP´��6U��&#x8;��NH&#x10;&#x18;0���&#x16;i&#xd;a1���1sw��P&#x10;�&#x5;�&#x12;&#x13;E�&apos;X1{D�#�x��&#x13;�j&#x1e;����au�V�&#x5;С��,iBO&#x7;&#x13;�&#xf;�&#x1c;&#xf;$�!��n����&#x4;I&#x1e;Nro���y8K&#x2;7��&#x1c;&#x17;	2�mX#SJc�Q��ɶ׃R(&#xc;.&#x13;���Y���&#x3;�&apos;��&#x8;0,0fA�4�c�&#x17;&#x17;��p��M7f&#x13;	&#x7;5&#x12;YU\9&#x18;&#xb;�&lt;&#x3;):�|�x@7���/6lR0s�p�`A��8���n&#x1;Ҕ�������U����&#xd;&#x4;&#x4;mY���J[5&#x10;����5�QL�-q�0��*��E&quot;&#x1e;��&#x14; _&#x6;����̓��0�Yq�&#x11;&#x12;�yT#&#xf;�^&#xc;��N$��NO�C&#x3;/&#x12;��&#x10;@j��_�\H?�+k�̓#��[�Z#��&#x10;�	��B&#x18;,Y#0&#x10;ҋX˰Ն�&lt;^&#x0;RѰՏ&lt;=���&#x13;&#x16;��k�OP�&#x3;&#x1d;/�g��&#x15;f&#x11;N��&#xd;�j��]~���q���&apos;XF&#x6;�û�F��X7#�&#x12;�P�=^&#x5;qE#&#x0;�����&#x15;)�����=&#x1;�Ʋ�M�dx��tS܄k3� gD�G�H�mw�;:H����&#x7f;3T:�	;��(���dx&#x5;/�&lt;.l�6ƫM��鮾������������C^���&lt;_ǿ&#xf;�?
+��� ,(D�0W	v��G�#�]�U��We&#x19;&#x1e;bg`w��&quot;�=�V�j��k��&#xb;���eE&#x1e;#&#x1e;�7b0�}&#x1f;���?C��&#x10;f���pzx��oʐ��MA����&#xd;3;�L&#x8;o&lt;�&#x1;�iw&#x13;�~�:�&#x1c;:)�m�&apos;��&#x15;Z�Xz&#x12;ܓ&#x13;O&quot;x&quot;&#x11;/�(��˟&#x7f;�v&#x7f;���߃�&#x1e;��&#x17;}��N���&#x0;��&#x4;���[�yE)�X]��&#x4;N�?�@k��|Y��*.�&#x1e;�/�]�a�
+&#x1a;�����&#x2;��-&#x5;�,��]��5����&#xf;.z&#x16;&#x3;٤��
+&#x7f;��d2��&#x19;l&quot;!��P��q&#x1c;�&#x3;?љ�&#x12;&#x0;&#x0;</queryString>
+  <java.net.URL>https://incoming.telemetry.mozilla.org/submit/firefox-desktop/messaging-system/1/2a798c89-1d93-4447-abec-e567d91b535c</java.net.URL>
+</httpSample>
+<httpSample t="3919" it="0" lt="3918" ct="247" ts="1779700693014" s="true" lb="JP01_TC02_Click_Enter/submit/firefox-desktop/newtab/1/e90a2f1e-2e99-4c72-8471-ad09430b15f1-9" rc="200" rm="OK" tn="" dt="text" de="utf-8" by="726" sc="1" ec="0" ng="0" na="0" hn="R36001WL0307">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: openresty
+Date: Mon, 25 May 2026 09:18:16 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: DENY
+Access-Control-Allow-Methods: GET, POST, PUT, OPTIONS
+Access-Control-Max-Age: 1728000
+Access-Control-Allow-Headers: Accept-Encoding,Connection,Content-Encoding,Content-Length,Content-Type,DNT,Date,Sec-Fetch-Dest,Sec-Fetch-Mode,Sec-Fetch-Site,User-Agent,X-Client-Type,X-Client-Version,X-Debug-ID,X-Forwarded-For,X-Pingsender-Version,X-Pipeline-Proxy,X-Source-Tags,X-Telemetry-Agent
+Via: 1.1 google
+Alt-Svc: clear
+Connection: close
+Transfer-Encoding: chunked
+Content-Encoding: gzip
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+date: Mon, 25 May 2026 09:18:12 GMT
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Accept-Language: en-US,en;q=0.9
+content-encoding: gzip
+Priority: u=4
+Accept: */*
+x-telemetry-agent: Glean/67.1.0 (Rust on Windows)
+Host: incoming.telemetry.mozilla.org
+content-type: application/json; charset=utf-8
+Accept-Encoding: gzip, deflate, br, zstd
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+Sec-Fetch-Dest: empty
+Content-Length: 4302
+</requestHeader>
+  <responseData class="java.lang.String"></responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">&#x1f;�&#x8;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;��Y�n�8&#x16;��zm���T�[���&#x4;��C&apos;��&apos;	&#x4;J��8�D��lW&#x7;��9��Rm��&#xd;�@&#x16;X���ܝ�9�D��E�����D�&#x1f;�u&#x10;^M����F&#x14;|��&#x4;^0&apos;^D��?[ςu��z���&#x17;�Cor5�%�pt�&#xe;qԏ���S-K&#x1c;,���I���B�1DXAw&#x15;W&#x10;T&#x1a;m�Ʉ♼#	M��d��Zq�Q��4&apos;J湬�=�(Z�[�5P`�&#x0;&apos;�(jߚ]em+E�Ժ�����ZA`&#x6;�#?��{a�&#xc;|&#x7f;��H�x&#xe;s9�g�&#x3;%��Q*�:7��9���&#x4;�&#x5f7;¤[��&#x1d;#&#x5;H�&#x1b;��,��y8�&#x12;&apos;����)�XFhYJC&#xd;X�D�M�H�d(�����&#x8;�&#x19;����%t�n&amp;4M�7�&#x1b;�dJl���Wt� �����ץ�&#x4;g�V�dR9�&#x1a;P&#x19;�V&#x1;�&#x1;�V`�c&#x1d;��h��0|����4�5&quot;�&#x1;�I�4&#x5;ϗ}#�&#xd;oͩJ�g}��r�-�_�&#x12;m3i�`6�+F&#xd;&apos;�t&gt;�K�&#x7f;�&#x7;��&#x12;���m�tp�&#xe;��&#x1d;��l���r���&#x4;�&#x8;ߥNA�&#x10;]+�S���\iXe?t�v&#xe;���d\_ۘ��A&#x11;b�66�r&#x0;e�&#x1e;��e!?&quot;&#x5fb;&quot;�ꩮ��5�K�M-&#x18;$�C�7&quot;{&#x1a;��&#x7f;M-Q�F&#x8;�&#x5;q�Q�
+&#xd;Z�/�ӑ�[�&#x13;j�&#x15;�cY?�t��6�&#x7;хP78d&#x10;&#x4;&#x5;7j��k;]�� L&#x1a;i����,�S,Jb;&amp;9B�Ң��њle�l��}O|j�&#x1b;��E.��T&#xe;cA�-�E�B�����8��O��5T�����Fm��ȭT9{��md���m�����.�ѩ�ƈ�yIP�͖0����|�c��~�`�Q�R�� ��F���U���8��=w&#x8;C�f8 ��#&#x1;B�W??&#x0;�Hkߠ�&#xc;�m&#x7;yJ��/���%=U�	�4����&amp;�	�Rcǰ��&#xf;n&apos;�Ih�&#x18;Y��?&#x0;��ʤ5F����*@��&#x7f;g&#x1d;�ތ�M&#x5;I��$&#x12;ك��躀��4R�T&#x7;�[J&#x1b;p	e���q3��[&#xe;&gt;&#x18;�&#x18;�V��?jH�w�G3r˓f�B�*d��&amp;K�vq(&quot;��&gt;~6KH�`�	~ow&#x1b;���t4�z����3Dړ&#x11;\$Ö�}�Ne�&#x1b;���=H�&#x10;�M���S�&#x1a;J�GD��i�&#x11;&#x16;�&#xc;�*G��&#x8;&#x14;WY&amp;&#x12;�
+s/�d�&#x1a;B.��pU�&#x1b;�[�0&#x1c;�ښ�d؁
+�saK�(��&#x10;J��ig���k�x!&#xd;��&#x2;j���1�Ҳ&#x1b;�^RsPB�&#x7;R&#x5;���&apos;Q��6��&#x2;�!&#x1e;m���P���V�������Jˍ��9:����~�5���Z�&#xc;_�&#x17;S&#x7f;j�j�c8F��:�=��I&lt;����#&#x1e;Ъ��0%&amp;}��m-l�&#x3;R���PJ&#x4;1��	Ǐ��̧��&#x1;nc���?����&#xb;&#xb;�H&#x1b;wN��x&gt;��fd�͇qY&#x17;	W�g�&#x7;����$&#x6;�&lt;J2&#x14;�fd��%I�ŊP�-�U�\$�M&#x19;tKmbU��]b�k�&#x19;���MC��}�&#x16;&#x1e;�|���yk��&#x17;�����(��]O*���(�_h&apos;������fr�&#x3;D�Jُ��F&#x18;7&#x6;����S�����&apos;�&#xb;Aɋ��Ll�&#x4;��W�s�&#x12;���&#x18;�XxP&#x4;�&quot;������6��~�/�h�}����%ep�&#x11;(�x���;�Zg�iu�}�\}�x#o&#x4;k�#5����&#x5; &#x0;/��㌊&lt;n�l�����T&#x19;x���z���a5��&apos;��A4��r�ȹ�]&#x1a;M&#x13;&#x4;�5Hj	&#x1;�_���VJ[O���&#x1e;0�n?]&#x1b;U���em$FH&#x1d;&#x1f;�k�ܢ.m�:~{�[G&apos;��&#x1d;�7��Ӷ&#x1c;L%8S�1^��.6[�X\a�@&#x14;e4�&apos;ߵ�ֈ�z����Ş{�&#x15;�m��f��&#x13;۳? ~����$1V&#x6;��v&#xf;&#x1a;�&#x1;�7ߚ�0D:0�V&#x17;�5?6eರ6�.&#x1c;�&#x1e;�j�J&#x12;�.&#x1e;?��|p��!�����oy:)��mg������h�&#x1a;����w��&#x7f;�&#x10;����_{)�G�\�&#xb;��~�s�t�i�!��r�&#xc;��1?&quot;&#x19;�7Ɍ�&gt;If˔�,����&#xb;&#x12;f���ho&#x1e;b{UT5��$�eH��@�l���r���U��X��/��i�7���W�5��ذ&#xb;�&#x11;���q4�,Ҧ�ʊ���HM�@&#x3;�T�
+fl&#x13;���|O&amp;. D��&apos;&#xb;g~&#x16;z&#x19;��jFf&#xb;��e����|�&#x16;�(�3�����&#x15;��6�m#�&#x16;�ݲ�3�zB&#x13;4�uo�&#x1b;R�&#x1;���X��x�r&#x1e;��&#x5;}&#x0;5\&#x1d;`�s�V&#x14;�j������+k���&#x12;�eH�7���W�h��&#x12;�&#x14;`�3&#x1f;�&#x16;�&#x13;0��s�eǐg&#x7b3; _��ʫ�&#x4;&#xd;����	_��	d�Y�&#x1f;�pv&#x19;�����,`N���A&#x1e;��^&#x1b;�Փ�� _Vyb�&#x5;w&#xf;(�?&#x1a;س�E`&#xf; -&#x1e;t�X��
+r3&amp;&gt;&#x6;x&#x0;��Ŧ�Mů11&#xe;R��&#x1f;FK�&#xf;F��&#x2;�n	��K^�ڰ�&#x16;NK�뫺pW`��Z&#xf;�&#x1f;&#x2;��u��&#x18;�_���&#x19;\&#x1d;C��&#x10;v���&#x18;&#x7;&#x1e;�/s���&#xb;���*&#x18;��&#x1;�&#x1e;3|�7^@�YG&lt;��&#xb;+�Qr�m�1��w�&#x7f;������&#xf;���sT����Q��7&#x7b8;�g�a����I����UGd��&#x1d;���3X��͎s$��&#x3;D�i��u��ܹ�&#x1e;L1,C����7��&#xf;!_ysoy
+��Hq�p��	I�nq&#x1b;���Y�,v��u��q;X�-�&#x17;j�i]&gt;f��f�ك�[�K}���&#xd;��g&#x1;���&#xf;���&#x14;�$&#x0;&#x0;</queryString>
+  <java.net.URL>https://incoming.telemetry.mozilla.org/submit/firefox-desktop/newtab/1/e90a2f1e-2e99-4c72-8471-ad09430b15f1</java.net.URL>
+</httpSample>
+<httpSample t="687" it="0" lt="686" ct="324" ts="1779700696959" s="true" lb="JP01_TC02_Click_EnterTheStore/submit/firefox-desktop/messaging-system/1/95efb4e9-8c28-4964-a8c1-47ecbf07208a-10" rc="200" rm="OK" tn="" dt="text" de="utf-8" by="726" sc="1" ec="0" ng="0" na="0" hn="R36001WL0307">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: openresty
+Date: Mon, 25 May 2026 09:18:17 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: DENY
+Access-Control-Allow-Methods: GET, POST, PUT, OPTIONS
+Access-Control-Max-Age: 1728000
+Access-Control-Allow-Headers: Accept-Encoding,Connection,Content-Encoding,Content-Length,Content-Type,DNT,Date,Sec-Fetch-Dest,Sec-Fetch-Mode,Sec-Fetch-Site,User-Agent,X-Client-Type,X-Client-Version,X-Debug-ID,X-Forwarded-For,X-Pingsender-Version,X-Pipeline-Proxy,X-Source-Tags,X-Telemetry-Agent
+Via: 1.1 google
+Alt-Svc: clear
+Connection: close
+Transfer-Encoding: chunked
+Content-Encoding: gzip
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+date: Mon, 25 May 2026 09:18:16 GMT
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Accept-Language: en-US,en;q=0.9
+content-encoding: gzip
+Priority: u=4
+Accept: */*
+x-telemetry-agent: Glean/67.1.0 (Rust on Windows)
+Host: incoming.telemetry.mozilla.org
+content-type: application/json; charset=utf-8
+Accept-Encoding: gzip, deflate, br, zstd
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+Sec-Fetch-Dest: empty
+Content-Length: 2784
+</requestHeader>
+  <responseData class="java.lang.String"></responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">&#x1f;�&#x8;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;��X�n�8&#x10;�&#x17;�n&amp;��K&#x12;�-�Y ���hZ�&gt;&#x4;&#x10;(���H�JR�ݢ��3��vj��&#x1b;��aq8g8�3C}�&#x1a;��L��D�/����Uru&#x11;9Ϭϼ�e���8]B��t�!����U������x����E$����U��D7��(��#�ƪ&apos;�%&lt;+-�3&lt;)ײ
+�,�tk���L�I0�L�5&#x2;p�=&gt;&#xf;��e��&#xd;AkU�&#x1b;7}�J����Я�ZjZ%tp[�g�V��WF���&#x14;�5��аR�k��^-�O&#xd;x+�&#xf;�&#xc;8&#xb;;!g&#x2;e{=�4?�?�a�&#xb;c�&#x4;n+��EW��w���J��C�$�&#x2;&#xc;w�Q&#x1f;�
+��5�@���p`&#x7;N���&#x16;Q&#xf;&#xe;�*�#� d�М��{�Ӱ�r!��,&#x19;߂7&#xd;�{D���|D;?��V��&#x2;X�&#x0;�&#x2;�A�&#x5;W��z�&#x15;�&#xd;&#x1;%Q++����lv&gt;~��ciM�E�&#x8;��&gt;�1�+I�#@i,֪��?X0&#x1b;�_D�v�i��&#x6;&#x18;��{�&#xe;&apos;&#x1a;0��ϥ�3x�&#x7;�Q�{��Sb&gt;&#x1b;[��g�4&#x14;&apos;=�i̹5C	[J&#xb;���A
+�i&#x10;��&#x5;�&#x0;&#xb;&#x0;3�wU߅ߵ�JN!&#x82;�&#xe;��痙-&#x19;�!xp�7&#x7;&#x1e;rmY�+ɒ�&#x12;&#x1c;�&amp;=�6&#x14;&#x12;��&lt;_S&lt;�i��̩MP�&#x10;&#x10;�&#x1d;^����aH&#xb;&#xe;֦&#x12;�Ұ�&#x3;?&#x1b;��g�����&amp;�&#x1c;��ʱ��ly_&#x10;�c��S�~�3D&#x2;�G1C)$�$��&#x19;���4In�&#x19;�pd���&#x1;ĠaZx�@��&#x1;&#x1a;k
+���&#x18;��%&#x3;i������&#x8;z&#x6;%nb&#xd;6؅���)��&#xd;�&#x2;aO �Ia�IA;L)��ƳGiem�&#x1c;�D&gt;�t&#x1;%�M&#xf;�:?:&#x5;CNjE�_����l��j\~��&apos;&#xe;8�Ol�4&#x1d;a�)&lt;��R�ġl&#xd;�mǒ
+e�br�Cw~���?$aSG!�g����&#x3;&apos;&#x8;�&#x1e;�	&gt;)�Gg�;��&#x13;2�����^?U��&#x1;&apos;�O-�����&#x2;�eޏ&#x14;��f4�b0�y&#x1d;�&#x18;*�|,�:&#x1f;�&#x7;�L��&#x1c;&#x14;��n��������&#x17;&#x12;�&#xf;&#x1b;�oی�^Z&amp;���
+�&#x16;�&#x17;sfm��-V��&#xc;*�bgğ����D�)�&#x11;�&#x11;]d&#x19;&#xf;��&#x1;��&#x2;&#x4;���	-n&#x1a;�7mߢ��I:y�q�E[,[%&#x18;�?�&#x1d;JU�\����2X&apos;^�z�hÅ&#xc;&apos;�g&quot;��b&#xf;�&#xb;Y)ʯi�ۗ&lt;&#x13;&#x2;�&#x1b;���S}U��&#x5;��4&#xe;�:��X�J�h��b�WV&amp;Ǥ�&#x18;k&#x7f;�:�냊���1͂�6�u���hiL&#x19;Ƃ��=Eu(�
+Sˏ&#x17;�:3&apos;&#x1e;��U���˫�䒮�8�x��v��j&#x16;n۵���`����&#x8;�v�h���t[��Fx&#x5;O��&quot;2.�@��!J⠗5M����m�&#x17;&#x17;�z�F�&#x7;���i�(����=&#x2;&gt;���q��x&#x1b;!��}�=&#x1f;&#xe;&#x11;f�E�L��&quot;%��N�T�5�hs�̖�(0��muF7��e�&#x1c;�����;Y���\�&#x10;&apos;��&#x10;ǫ��-|�/ț��ι�&#x10;��s��&#xe;��fU_�Q!s��kV�ZQC������ǿ&gt;dwo��&#x1f;�Qt��?��&#x7be;˒c�}��&#x4;w��8&#x1b;v&#x1d;�w���W��X|G�o&#x1d;(��!:8�C�z�&#x3;&#x7f;�.F&#x1;&#xc;���z��H&#x4;���C�ΐ Э�;��&#x17;�b_�r�&#x1f;���&#x7f;J�n�;a/�Dc�}&apos;O�Bwo�y&#x7f;{&#x7f;&#x7f;���cRߤ�7&#x12;HXF�e���Ds?�L{�?Γ�2�&#x18;�&#x1d;h)�G6&#xc;�MQ��ɸ&#x10;�&#x2;
+&#x1c;�a.y&#x2;���&#x3;+f��f&#x19;����lΑ�q��&#x1c;.�՝��f��K�a!�%�&#x19;�|�W)�\�&lt;��X&amp;�0�&#x3;#%&#x15;C�&#x13;&#x0;&#x0;</queryString>
+  <java.net.URL>https://incoming.telemetry.mozilla.org/submit/firefox-desktop/messaging-system/1/95efb4e9-8c28-4964-a8c1-47ecbf07208a</java.net.URL>
+</httpSample>
+<httpSample t="825" it="0" lt="825" ct="480" ts="1779700697667" s="false" lb="JP01_TC02_Click_EnterTheStore/-11" rc="400" rm="Bad Request" tn="" dt="text" de="utf-8" by="224" sc="1" ec="1" ng="0" na="0" hn="R36001WL0307">
+  <responseHeader class="java.lang.String">HTTP/1.1 400 Bad Request
+Connection: close
+Content-Length: 12
+Content-Type: text/plain; charset=utf-8
+X-Content-Type-Options: nosniff
+Cache-Control: private, no-store
+Date: Mon, 25 May 2026 09:18:18 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Accept-Language: en-US,en;q=0.9
+Priority: u=4
+Accept: */*
+Host: mozilla-ohttp.fastly-edge.com
+content-type: message/ohttp-req
+Accept-Encoding: gzip, deflate, br, zstd
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+Sec-Fetch-Dest: empty
+Content-Length: 1660
+</requestHeader>
+  <responseData class="java.lang.String">Bad Request
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">�&#x0; &#x0;&#x1;&#x0;&#x1;!X qm�,&apos;��&lt;P�t�N&#x15;&amp;�f
+�V�e��o7Y�|���&#xb;Ԉ)��@N�G&#x16;K�D
+iFrz�JB����&#x17;y�S�d&#x1c;&#x0;�,0��&quot;~~���&#x4;&#x17;7�?+&amp;WK������4��ņ�H�$��?ڎ�K����2�߇x&#x3;ߛw�4��.P���(�{�U���&#x15;&#xc;&#x7f;v�&#x0;�U7U)�}��/��P�p�!�
+��n0! &#x19;LV�e��6�&#x1d;����E��8�]�#��uM&#x11;Vt�P��P
+O�	�U�&#x3;�S�&#x3;t2\��bG&#xf;�&#x2;�&#x17;&quot;Ϧr�&#x3;ל]��^��p�����qɥ�8�&#x0;*�Q�&#x18;�&#x5cf;_��Vh&#x5;,w���z&#x0;��&gt;}����O��1&amp;L?&#x1f;+�%`&#x1a;A+�?�-�&#x13;&#xe;��X��N�&#x1;�q&apos;&#x1;q&#xc;���&#x1c;��S�z&lt;��q!&#x19;�&#x1d;O&gt;�_����R&#x16;NWV��#��͝��Ea�]��&amp;p&#x7b4;&gt;�&gt;&lt;�P���=&#x19;~y�5}��u&#xd;�-&#x1;ґO������oݠ,�-i1�N&lt;�+�-�s�/���n&amp;&amp;E���9&#x0;H�=&#x7;}�/&quot;�a4҉ޙ&#x1d;�4�D�&#x14;}&lt;�s\دa�T:�&#x1;�rP�k􉇺�&#x4;=�1��5Ɍ�9����&#x18;O7�&#x0;�	�D&apos;X,�;&#x15;C���p�g���i&#x1a;&#x7f;n�$�ޣp&#x1f;&#x15;��
+&#xc;&#x8;ExTCmR�b��|_N��x�$���z&#x19;�Ǖw�i�]�5!�&#x1c;5&#x1f;�	8Qd�U&#x1b;�ϐ��&#x1e;�*Yp1m�RaCc-]W��&amp;&#x6;_��\��l�&gt;��&#x5;&#x11;&#x5;��,�Z��U�{H�0���/��&#x13;&quot;&#x19;Η&#x2;�}��۩&gt;��&gt;)&#x13;��W�&#xe;��|&#x6;y�&#x5;�4��C�&#x1f;W%*�F�C�:&#x1a;z��&#x10;�&#x18;�ýڻ&#x7;R&#x2;�+�&#x11;ɱ&#x1b;m��[�ےU*&amp;X-,_lj&#x89;V2O&#x1c;;��na/- )U�ٚ��6��&#x14;Ze&#x3;_m&quot;�@�L`������6�&#x4;4���3��&#x1;��]�0�&#x1;�b&#x3;�yq��h&#x0;�{�`&gt;]��&#x10;&#x0;&#x19;��/�uKs��&#x10;&#x14;�&#x15;��KH3&#x7f;+vQh�&#xe; ��%����̇C�&#x14;�lN&lt;����1 �pzM&#x7;�&#xf;E��&#x19;gM&#x3;w��;�����T����&#x4;KV���q��&#x1b;�&#x15;i&gt;5h���/�o!h�&#xb;</queryString>
+  <java.net.URL>https://mozilla-ohttp.fastly-edge.com/</java.net.URL>
+</httpSample>
+<httpSample t="540" it="0" lt="539" ct="235" ts="1779700698516" s="true" lb="JP01_TC02_Click_EnterTheStore/submit/firefox-desktop/messaging-system/1/fd48a369-d5aa-419b-a32b-556a64599082-12" rc="200" rm="OK" tn="" dt="text" de="utf-8" by="726" sc="1" ec="0" ng="0" na="0" hn="R36001WL0307">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: openresty
+Date: Mon, 25 May 2026 09:18:18 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: DENY
+Access-Control-Allow-Methods: GET, POST, PUT, OPTIONS
+Access-Control-Max-Age: 1728000
+Access-Control-Allow-Headers: Accept-Encoding,Connection,Content-Encoding,Content-Length,Content-Type,DNT,Date,Sec-Fetch-Dest,Sec-Fetch-Mode,Sec-Fetch-Site,User-Agent,X-Client-Type,X-Client-Version,X-Debug-ID,X-Forwarded-For,X-Pingsender-Version,X-Pipeline-Proxy,X-Source-Tags,X-Telemetry-Agent
+Via: 1.1 google
+Alt-Svc: clear
+Connection: close
+Transfer-Encoding: chunked
+Content-Encoding: gzip
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+date: Mon, 25 May 2026 09:18:18 GMT
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Accept-Language: en-US,en;q=0.9
+content-encoding: gzip
+Priority: u=4
+Accept: */*
+x-telemetry-agent: Glean/67.1.0 (Rust on Windows)
+Host: incoming.telemetry.mozilla.org
+content-type: application/json; charset=utf-8
+Accept-Encoding: gzip, deflate, br, zstd
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+Sec-Fetch-Dest: empty
+Content-Length: 2741
+</requestHeader>
+  <responseData class="java.lang.String"></responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">&#x1f;�&#x8;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;��X�n�F&#x10;�&#x17;��#��Ų��$&#x5;��)�8h&#x1f;&#xc;&#x10;K�Z��e�&quot;Y	��Y��8rK�&#x6;&#xc;&#xb;&#x12;w�z��&#xc;�G�TU&amp;U����Ȋ��*Y^E�1�2&apos;&#x1b;&#x11;��4N&#x17;&#x10;�!��&amp;��l�J&#x17;�8�����4��&quot;���G�����p��&#x15;&#x6;�*gI�P,�&#x5;�s-��@Ì�B7�W�`NjeA+0�&#x16;�
+��&#x1b;��5�*�rF�A�3���]KF(���&#x2;&gt;��wя&#x1f;WQk�&#x15;;�&#x16;*#�&#x2;�����&#x1d;&#x14;�i��&#x14;8&#xd;&#x1c;�	�d��,ܫ&#x1b;��R��u٢g�ѥ�O���Xc��cP
+�A�U�;Q�&#xc;&gt;�&#x8;&#x1;� g&#x10;b��NУN&#x5;E&#x8;/xVC�f.�&#xe;��*a)�p�g0j�&gt;i�c��&#x17;�nw##/&#x15;�F|�(�ށ���V�V:aɳF�S6�t&#x2;1�.@��&#x13;q6&#xd;��0�&#x4;+\Hn�V���xY��N�=̠�����}&#x4;&#x5;\o�E&#x18;a�}�ؽ0��N��c�Ć�&#xe;&#x15;bX&#xd;y�&#x1c;�}VAr��uƣ&#x6;C��&#x8;��%��(&#x14;�&#x18;Ҏ4����k�C&#x15;T��4��&#xf;&#x18;O{�t&#xb;&#x1b;��`��]n� &lt;gŽo�UR&#x19;�	��ѳ(&#x1d;��&#x1;XQhO)iCEv䲇az����ڀ��Ȣ�&#x19;a�1�p��&#xe;�GQ&gt;���F�Кc�:�`E�\8&#x6;��s�iv#�|�:�=tD.������X�\�&#x0;�ZT�Ԅ��$(I�n����4&#x0;�0�K�Gf80�\k�N�#��&#x1a;8N���&#x13;D&#x4;	ݍg�!&apos;`+&#x15;r&#x6;V�&#xd;�&#x16;H�v�r&#x1c;&#xc;&#xe;2�Q�=8��H&#x1f;&#x1;�e��ɢ&#x7f;��1k�P��J~&#xb;&#x5;p�?���;a&#x1a;X�&#x13;%@&#x18;0*��Խ;wO�sQK&quot;�q�}
+9����І&#x13;L)��Y+&#x3;&#x5;�tL��G��&#x5;ւ&#x1f;��&#x16;]����%l���&lt;&#xb;S���@8�&#x4;&#x3;j� ���@��V�g!�&#xb;&#x18;IA̢Dޞt�&#x3;����ap8&gt;Nw_F&#x16;g��|&#x15;UZW!��ps���b�N�&#x16;&#x7;�\c�#&lt;�0���&#x1c;��a�e&#x15;N�H����&#x2;ͦ=&#x19;̆Q.g�:t����1���H&#x1f;Q?&#x16;�Z&#x1b;WxD�f
+�I�����h�&apos;#&#x7;a&#x1d;��&#x19;�&#x16;&#x4;x4�&#xd;��=��aAxn�?�1IB�����&#x13;��d�,U&#xb;&quot;`�&#x16;�lS���1&#x4;vz���|��
+�B�r2OR&quot;�x�.�$�I�����g7�o&#x17;���fx�T&#x2;�&apos;���TV�j&#xb;L�&#x1d;&#x6;&#x1;l_&#x7f;�iy�4����&quot;WV*����6X�_���_��&#xd;�&#x1b;f�~BD:B��jS�Ϡa��qxr��{?9g��g��5Ǜ��I2����&#x17;l� S�Ʌ�p&#xd;O�&#x18;&#x19;�m3�dm�v&#x19;�&gt;&#x1b;Zn���I&lt;I#ꢴF&#x5;&#x1c;×��&#x3;�$����C���&quot;[̢NР:@w&#x1e;/�Y&lt;OI���&quot;���#|=�&#x15;&#x7;+�&gt;r��*#H����&#x18;��B��7�1�	����*��	��0�[�&#x19;�����&#x19;ċ�&#x1b;&#x4;��&#x19;��a�P,�xh�7&#x1c;t&#x18;����?&#x1d;�1���]p&#x1f;B�:���&#xe;��]����,�&#x17;*&#x14;��.��cϻ�Vw������Vw��]D�&#x1d;�a3w����.�&#x11;]�,�/�LR,߽��/&#x1f;o�&#xf;�8������?eID��&amp;v��ix���&#xf;o&#x7f;�~�r{��s�~J�&#x13;Nv~рt���&#x17;�U&lt;�w��I�3�:��#��&#x10;�)&#x2;g��q��=(��&#x0;/w��o�y�(
+��|&#x1;3F&lt; �S(r��x��r���c(&amp;�������&#x1c;J$`��&quot;�|�,���dz��Ӝ&#xb;��&#x7f;&#x1;Ò�r�&#x12;&#x0;&#x0;</queryString>
+  <java.net.URL>https://incoming.telemetry.mozilla.org/submit/firefox-desktop/messaging-system/1/fd48a369-d5aa-419b-a32b-556a64599082</java.net.URL>
+</httpSample>
+<httpSample t="1055" it="0" lt="1055" ct="750" ts="1779700698544" s="true" lb="JP01_TC02_Click_EnterTheStore/actions/Catalog.action-13" rc="200" rm="" tn="" dt="text" de="UTF-8" by="5659" sc="1" ec="0" ng="0" na="0" hn="R36001WL0307">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 
+Date: Mon, 25 May 2026 09:18:19 GMT
+Content-Type: text/html;charset=UTF-8
+Content-Length: 5352
+Connection: close
+Set-Cookie: JSESSIONID=FBAEF459EE3D12E0BBF243058232AB9F; Path=/; HttpOnly
+Content-Language: en-US
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: navigate
+Referer: https://petstore.octoperf.com/
+Sec-Fetch-Site: same-origin
+Accept-Language: en-US,en;q=0.9
+Sec-Fetch-User: ?1
+Priority: u=0, i
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Host: petstore.octoperf.com
+Upgrade-Insecure-Requests: 1
+Accept-Encoding: gzip, deflate, br, zstd
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+Sec-Fetch-Dest: document
+</requestHeader>
+  <responseData class="java.lang.String">
+
+
+
+
+
+
+&lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD XHTML 1.0 Transitional//EN&quot;
+&quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&quot;&gt;
+
+&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot;&gt;
+
+&lt;head&gt;
+&lt;link rel=&quot;StyleSheet&quot; href=&quot;../css/jpetstore.css&quot; type=&quot;text/css&quot;
+	media=&quot;screen&quot; /&gt;
+
+&lt;meta name=&quot;generator&quot;
+	content=&quot;HTML Tidy for Linux/x86 (vers 1st November 2002), see www.w3.org&quot; /&gt;
+&lt;title&gt;JPetStore Demo&lt;/title&gt;
+&lt;meta content=&quot;text/html; charset=windows-1252&quot;
+	http-equiv=&quot;Content-Type&quot; /&gt;
+&lt;meta http-equiv=&quot;Cache-Control&quot; content=&quot;max-age=0&quot; /&gt;
+&lt;meta http-equiv=&quot;Cache-Control&quot; content=&quot;no-cache&quot; /&gt;
+&lt;meta http-equiv=&quot;expires&quot; content=&quot;0&quot; /&gt;
+&lt;meta http-equiv=&quot;Expires&quot; content=&quot;Tue, 01 Jan 1980 1:00:00 GMT&quot; /&gt;
+&lt;meta http-equiv=&quot;Pragma&quot; content=&quot;no-cache&quot; /&gt;
+&lt;/head&gt;
+
+&lt;body&gt;
+
+&lt;div id=&quot;Header&quot;&gt;
+
+&lt;div id=&quot;Logo&quot;&gt;
+&lt;div id=&quot;LogoContent&quot;&gt;
+&amp;nbsp;
+&lt;a href=&quot;/actions/Catalog.action;jsessionid=FBAEF459EE3D12E0BBF243058232AB9F&quot;&gt;&lt;img src=&quot;../images/logo-topbar.svg&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Menu&quot;&gt;
+&lt;div id=&quot;MenuContent&quot;&gt;&lt;a href=&quot;/actions/Cart.action;jsessionid=FBAEF459EE3D12E0BBF243058232AB9F?viewCart=&quot;&gt;&lt;img align=&quot;middle&quot; name=&quot;img_cart&quot; src=&quot;../images/cart.gif&quot; /&gt;&lt;/a&gt; &lt;img align=&quot;middle&quot; src=&quot;../images/separator.gif&quot; /&gt; 
+	&lt;a href=&quot;/actions/Account.action;jsessionid=FBAEF459EE3D12E0BBF243058232AB9F?signonForm=&quot;&gt;Sign In&lt;/a&gt;
+   &lt;img align=&quot;middle&quot; src=&quot;../images/separator.gif&quot; /&gt; &lt;a
+	href=&quot;../help.html&quot;&gt;?&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Search&quot;&gt;
+&lt;div id=&quot;SearchContent&quot;&gt;&lt;form method=&quot;post&quot; action=&quot;/actions/Catalog.action;jsessionid=FBAEF459EE3D12E0BBF243058232AB9F&quot;&gt;
+	&lt;input size=&quot;14&quot; name=&quot;keyword&quot; type=&quot;text&quot; /&gt;
+	&lt;input name=&quot;searchProducts&quot; type=&quot;submit&quot; value=&quot;Search&quot; /&gt;
+&lt;div style=&quot;display: none;&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;_sourcePage&quot; value=&quot;TaCTeB6fPV04Qd7cKKHSzA3Po9AeY4-z-j7s55DXLnY3tL7zXXuRlAczX7z4EbeFbnuEt6U3ILozPn7FqQFQ5wrGcEyWIep4&quot; /&gt;&lt;input type=&quot;hidden&quot; name=&quot;__fp&quot; value=&quot;8Qg8O8-LbQfq8W2wYKuc85neVHIdhguWYJUjfUiyaEigQl3CJ4v9LbtYhWEY3iEE&quot; /&gt;&lt;/div&gt;&lt;/form&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;QuickLinks&quot;&gt;&lt;a href=&quot;/actions/Catalog.action;jsessionid=FBAEF459EE3D12E0BBF243058232AB9F?viewCategory=&amp;amp;categoryId=FISH&quot;&gt;&lt;img src=&quot;../images/sm_fish.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action;jsessionid=FBAEF459EE3D12E0BBF243058232AB9F?viewCategory=&amp;amp;categoryId=DOGS&quot;&gt;&lt;img src=&quot;../images/sm_dogs.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action;jsessionid=FBAEF459EE3D12E0BBF243058232AB9F?viewCategory=&amp;amp;categoryId=REPTILES&quot;&gt;&lt;img src=&quot;../images/sm_reptiles.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action;jsessionid=FBAEF459EE3D12E0BBF243058232AB9F?viewCategory=&amp;amp;categoryId=CATS&quot;&gt;&lt;img src=&quot;../images/sm_cats.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action;jsessionid=FBAEF459EE3D12E0BBF243058232AB9F?viewCategory=&amp;amp;categoryId=BIRDS&quot;&gt;&lt;img src=&quot;../images/sm_birds.gif&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div id=&quot;Content&quot;&gt;
+
+
+&lt;div id=&quot;Welcome&quot;&gt;
+&lt;div id=&quot;WelcomeContent&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Main&quot;&gt;
+&lt;div id=&quot;Sidebar&quot;&gt;
+&lt;div id=&quot;SidebarContent&quot;&gt;&lt;a href=&quot;/actions/Catalog.action;jsessionid=FBAEF459EE3D12E0BBF243058232AB9F?viewCategory=&amp;amp;categoryId=FISH&quot;&gt;&lt;img src=&quot;../images/fish_icon.gif&quot; /&gt;&lt;/a&gt; &lt;br /&gt;
+Saltwater, Freshwater &lt;br /&gt;
+&lt;a href=&quot;/actions/Catalog.action;jsessionid=FBAEF459EE3D12E0BBF243058232AB9F?viewCategory=&amp;amp;categoryId=DOGS&quot;&gt;&lt;img src=&quot;../images/dogs_icon.gif&quot; /&gt;&lt;/a&gt; &lt;br /&gt;
+Various Breeds &lt;br /&gt;
+&lt;a href=&quot;/actions/Catalog.action;jsessionid=FBAEF459EE3D12E0BBF243058232AB9F?viewCategory=&amp;amp;categoryId=CATS&quot;&gt;&lt;img src=&quot;../images/cats_icon.gif&quot; /&gt;&lt;/a&gt; &lt;br /&gt;
+Various Breeds, Exotic Varieties &lt;br /&gt;
+&lt;a href=&quot;/actions/Catalog.action;jsessionid=FBAEF459EE3D12E0BBF243058232AB9F?viewCategory=&amp;amp;categoryId=REPTILES&quot;&gt;&lt;img src=&quot;../images/reptiles_icon.gif&quot; /&gt;&lt;/a&gt; &lt;br /&gt;
+Lizards, Turtles, Snakes &lt;br /&gt;
+&lt;a href=&quot;/actions/Catalog.action;jsessionid=FBAEF459EE3D12E0BBF243058232AB9F?viewCategory=&amp;amp;categoryId=BIRDS&quot;&gt;&lt;img src=&quot;../images/birds_icon.gif&quot; /&gt;&lt;/a&gt; &lt;br /&gt;
+Exotic Varieties&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;MainImage&quot;&gt;
+&lt;div id=&quot;MainImageContent&quot;&gt;
+  &lt;map name=&quot;estoremap&quot;&gt;
+	&lt;area alt=&quot;Birds&quot; coords=&quot;72,2,280,250&quot;
+		href=&quot;Catalog.action?viewCategory=&amp;categoryId=BIRDS&quot; shape=&quot;RECT&quot; /&gt;
+	&lt;area alt=&quot;Fish&quot; coords=&quot;2,180,72,250&quot;
+		href=&quot;Catalog.action?viewCategory=&amp;categoryId=FISH&quot; shape=&quot;RECT&quot; /&gt;
+	&lt;area alt=&quot;Dogs&quot; coords=&quot;60,250,130,320&quot;
+		href=&quot;Catalog.action?viewCategory=&amp;categoryId=DOGS&quot; shape=&quot;RECT&quot; /&gt;
+	&lt;area alt=&quot;Reptiles&quot; coords=&quot;140,270,210,340&quot;
+		href=&quot;Catalog.action?viewCategory=&amp;categoryId=REPTILES&quot; shape=&quot;RECT&quot; /&gt;
+	&lt;area alt=&quot;Cats&quot; coords=&quot;225,240,295,310&quot;
+		href=&quot;Catalog.action?viewCategory=&amp;categoryId=CATS&quot; shape=&quot;RECT&quot; /&gt;
+	&lt;area alt=&quot;Birds&quot; coords=&quot;280,180,350,250&quot;
+		href=&quot;Catalog.action?viewCategory=&amp;categoryId=BIRDS&quot; shape=&quot;RECT&quot; /&gt;
+  &lt;/map&gt;
+  &lt;img height=&quot;355&quot; src=&quot;../images/splash.gif&quot; align=&quot;middle&quot;
+	usemap=&quot;#estoremap&quot; width=&quot;350&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Separator&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;/div&gt;
+
+&lt;div id=&quot;CTA&quot;&gt;
+Elevate you load-testing with &lt;a href=&quot;https://octoperf.com&quot;&gt;OctoPerf&lt;/a&gt;!
+&lt;/div&gt;
+
+&lt;div id=&quot;Footer&quot;&gt;
+
+&lt;div id=&quot;PoweredBy&quot;&gt;
+&amp;nbsp;&amp;nbsp;Hosted by &lt;a href=&quot;https://octoperf.com&quot; target=&quot;_blank&quot;&gt;https://octoperf.com&lt;/a&gt;&amp;nbsp;|&amp;nbsp;Powered by &lt;a href=&quot;https://mybatis.org/&quot; target=&quot;_blank&quot;&gt;www.mybatis.org&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Banner&quot;&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+
+
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://petstore.octoperf.com/actions/Catalog.action</java.net.URL>
+</httpSample>
+<httpSample t="701" it="0" lt="700" ct="255" ts="1779700699078" s="true" lb="JP01_TC02_Click_EnterTheStore/submit/firefox-desktop/newtab/1/eefcb381-fc9f-4243-bd15-3856fc69d1c7-14" rc="200" rm="OK" tn="" dt="text" de="utf-8" by="726" sc="1" ec="0" ng="0" na="0" hn="R36001WL0307">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: openresty
+Date: Mon, 25 May 2026 09:18:19 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: DENY
+Access-Control-Allow-Methods: GET, POST, PUT, OPTIONS
+Access-Control-Max-Age: 1728000
+Access-Control-Allow-Headers: Accept-Encoding,Connection,Content-Encoding,Content-Length,Content-Type,DNT,Date,Sec-Fetch-Dest,Sec-Fetch-Mode,Sec-Fetch-Site,User-Agent,X-Client-Type,X-Client-Version,X-Debug-ID,X-Forwarded-For,X-Pingsender-Version,X-Pipeline-Proxy,X-Source-Tags,X-Telemetry-Agent
+Via: 1.1 google
+Alt-Svc: clear
+Connection: close
+Transfer-Encoding: chunked
+Content-Encoding: gzip
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+date: Mon, 25 May 2026 09:18:19 GMT
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Accept-Language: en-US,en;q=0.9
+content-encoding: gzip
+Priority: u=4
+Accept: */*
+x-telemetry-agent: Glean/67.1.0 (Rust on Windows)
+Host: incoming.telemetry.mozilla.org
+content-type: application/json; charset=utf-8
+Accept-Encoding: gzip, deflate, br, zstd
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+Sec-Fetch-Dest: empty
+Content-Length: 4171
+</requestHeader>
+  <responseData class="java.lang.String"></responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">&#x1f;�&#x8;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;��Y[o�&#x12;�/zmh���۞��Y�t&#x1f;�{��6&#xb;�&#x12;)��$jIʎ&#x1b;�w��؎�D�] ��Mr.��|3d��ZT�DT�t&#x16;O��?��&#x1f;�9�Pe&#x12;#J�,&#x1c;��c�Fď�x�&quot;�&#x17;�t��On�&#x8;\���&#x15;;�u���I&#x18;��Vũ�&#x15;l����4�\k!�&#x4;D��ǚ+&#x10;T&#x19;��0�iZpR�%Ͷ�Țha�&amp;h3I���6�����U�&#x2;�������f&#x14;�5��ѶJ�i�	,&#x16;�1��3�Y��D��2Yc4Y&#x7;�P&gt;�$�&#x1a;6�K�+#eׅ0d-���*�T1��@�&#x1;4&#xc;zK�y��/+�W&#x16;&#xe;^�&#x1a;{&#xe;�d`��&#x5;/�Q[�KEr�x.&#x1f;&#x1;&#x1d;����&#x5;�&#xc;�.G��V��&#x8;F�hn .} HF˚�e��J&#x16;,��&#x3;�����&lt;GIK%��55�&#x6;1�P4&#x15;x��/&#x18;X&#x4;`&#x14;&#x5;5�N��$ 
+vP�&#xf;����8�;UreLm��$�e�T&quot;���ꤢwAkc&amp;%&#x3;e%�)&#x8;�P8�&#xc;%PW&#x11;aMYn&#x7;����d�##�:jPV+�&#xb;��7�d+,�^E	�I�&#x1c;�+��u�vR�8�}nR�&#x14;(!�1x��02H�&#xe;˓%�nG�l�,�UƉw&#x1b;�]Zt+��{U�&#x5;�JV�o�&#x1d;�g&#x4;�&#x1c;�&#x15;�р�bK&#x1a;&#xd;y��iG�J�r&#x8;&#x15;�[Hv�&#x1;�	e@
+�Q�ƾ�~o�Ÿ�|�4̠�LG�/BC�+�Sb��.4Y*�+&#x81;�W֕�H,��6�S�I�ƩC�`&#x1b;&#x11;&#xc;�664���B�@��ܑ&#x17;�J�2�]�brSi�&#x3;�6�+^Jí7�l�&#x1;�f	Q�d�$n�&#x15;&#x1c;��W&#x14;v�%&#x7;��U�F�d�T&#x0;k�&#x2;&#x12;����)�&#x5;9[��&#x6;��&#xc;&#x1c;=�&#x19;n�s�&#xb;��]� �Z�]B4� ي�TB�6K�;�&#x1a;�&#x14;�6�&#x12;�f�&#x18;4��v,��g@K��q&#x1;ʊk�r�G!J� ����	�T�&#xc;@&apos;��.&#x1b;�(�b%&#xd;D��fd)����ש{b�&#x14;g&#x2;&#x7;&#x2;�v�,d
+`��iq�=�&lt;�&#x8;+�=1����&#x7;g���K&#x2;&#x18;�2���9&lt;��X&#xe;�:&#xe;ѐ���*�&#x7;IC&#xb;��&#x6;&#x6;�M�&#x19;ѵ{�o&#x7b4;af�i�E����&#x1b;�3���^�95&#x14;g8���mK�2��&#x1c; 70�j&#x1b;3&#xe;]P�N&quot;���/$�d�*w󩽱�l����&amp;�|�&#xb;�MbT����&quot;R&#x1f;�S�\�Q�g8��Mzo^�ڭ&#xe;&amp;&#xd;�3;��RʥmP���}1��M7&#x3;h�����`��(*&#x6;&#x6;�a�&#x4;&#x1a;.a���&apos;R�����;�l�&#x1b;D���d?80�E(�ذ��F��9,��T��ct�Q��Y�&#xc;���ޖh����(&#x18;���&#x13;o��j	����V&#xc;V2��a�-�ȍ�Ѝ|�[�q�.�6���v&gt;u�ȝ�&#x13;\o�F�V��?[���\�&#x10;�&#xc;�U��&#x1a;��,N�&#x13;&#xe;q��V���q:\�К&#x4;/n(c&gt;u����&#x17;�]؟�����nm&#x12;�T���=!$n&lt;&lt;!�Ԡ[&#x17;��)S���&quot;�]w&#x7;���O�(͡{�4&apos;a�g$u�sB]6u��l�zH���Q&quot;m�Q���%��&#x7f;Cˢ���&#x1f;���&#xb;&#x1;&#x10;��&#x12;�&#x0;��&#x14;pҞ�o&#x19;�&#x14;�{�,����R��?���UJ��pc�&#x1b;̤�~.�j�]&#x7f;|&#x3;ɲ�*y��&#x16;5�Y��O:~�H��&#x12;��*I��Y	Œ&#x1a;�g ��&#x16;��\׃F�&#x3;��3ؤs&#x3;&#x1c;zaQ��n]&#x1b;	w+���k0�`qPs��J,W&#x5;�3{R��8@6&#x18;�&apos;���&apos;CqL�n��KA��@���;&#xb;(q��#�܋�l���y:�X:��3|&#x6;8&#x12;��G���9�&quot;�C�#!&#x7;Ai8�&#x8;�&#x3;/�Ǯ�2�]?&#x1a;Z&#x19;al�&#x1d;�SX�&#xb;�$�&#x6;[o&#x2;̚�%T&#x12;�
+�
+&#xc;q ��&#x1;h#&#x1c;Z&#x12;��t�&#xc;�_p�n�&#x1e;�&#xf;&#x16;)�x&#x1b;&#x1;&#xd;&#x7;���&#xf;[�ay�I���;w��p�Z�n&#x1d;n&#x19;�˞ j	&#x16;@Yܣ&#x7;��s*��}Ƀ��)��ceP#5��}j���|&#x7f;F����U^�5�	�؜f�&#xd;ۧ_�&amp;_&gt;�&apos;��S��ӗ�9�J&#x2;�&#x1f;&#x10;&#x1;!&#xc;�~&#x18;&#x1f;����k?�j�n�]&gt;��W�/��ү�~a���&#x18;x��ޙ����&#x12;���&#x7b9;�MG��}��x��&#x19;�&#xe;�k&#xd;o�3����O�`x��G�&#x12;&#x6;*���V&#x1d;�o�Vּ:|�kI&#x1e;&#x1a; ��&#x11;�`?��8F�d����CS蘋A���&#x15;G��.�Na�^��=�&#x1c;o:�F�ƾ?��&#x6;$&#x12;&#x18;�DW�O&#x11;�E&#x10;���Y&#xc;��&#x5;s2��&#x19;��ь��&#x17;�R��N&#x1f;�&#x1a;F&#x7;��e��V��j���=~����&#x3;�C}%��]=;v&#x8;&#x14;&#x10;�dP&#x8;�� [��&#x5;&#x1f;�{&quot;��������?W�&#x14;���߿F�&#x1f;�&gt;^&#x3;Ý#t2���~&#x1a;~&#xc;N|&#x11;8/���o[��C�?7י�&#x7;�w&#x1e;·Cs��S&#x1;��&#x8;OǷ��^�!&#xf;��ϻu&#x5;n�&#x10;��&#x12;wf&#x1d;�&lt;���=߂�����o9&#x16;&#x1e;��?x&#x12;�#�g�F���F�I&#x10;�O�3�&#x70e;&#xd;g�&#x2;&#x1b;F�&#x5;�m���#3&quot;��&#x17;���&#x0;�ʉ=&#x7;�&#x7f;���[��g��R��πq�F6*���-��0
+�!J�&#x3;M	��Mi_V����X���&#x4;^)&#x1e;�S��&#xc;�6��D�ka�&#x1b;��	&#x7f;��&#x3;V{&apos;.�f���*r/��uW����&#xc;B�f�&#x11;����&#x1;��m��Ι&#x3;����~4w�	�ہ=��&#x11;VA&#x18;�^�Yd�ԇ7��ڧq&#x18;�������&#x0;ϣ&#x14;�Q#&#x0;&#x0;</queryString>
+  <java.net.URL>https://incoming.telemetry.mozilla.org/submit/firefox-desktop/newtab/1/eefcb381-fc9f-4243-bd15-3856fc69d1c7</java.net.URL>
+</httpSample>
+<httpSample t="579" it="0" lt="579" ct="254" ts="1779700699829" s="false" lb="JP01_TC02_Click_EnterTheStore/-21" rc="400" rm="Bad Request" tn="" dt="text" de="utf-8" by="224" sc="1" ec="1" ng="0" na="0" hn="R36001WL0307">
+  <responseHeader class="java.lang.String">HTTP/1.1 400 Bad Request
+Connection: close
+Content-Length: 12
+Content-Type: text/plain; charset=utf-8
+X-Content-Type-Options: nosniff
+Cache-Control: private, no-store
+Date: Mon, 25 May 2026 09:18:20 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Accept-Language: en-US,en;q=0.9
+Priority: u=4
+Accept: */*
+Host: mozilla-ohttp.fastly-edge.com
+content-type: message/ohttp-req
+Accept-Encoding: gzip, deflate, br, zstd
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+Sec-Fetch-Dest: empty
+Content-Length: 1614
+</requestHeader>
+  <responseData class="java.lang.String">Bad Request
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">�&#x0; &#x0;&#x1;&#x0;&#x1;�&#x2;+_��)��o���&quot;�6��&#xc;u�V&#x1a;�h�AI���m�n&#x7f;�%L�sj��eq�l��h��z&#x12;,~JɈ&#x13;&#x5;&#xf;�wŅY	��r7)�0J&#x7;����я���&#x10;*�&#x1b;w�(�&#xc;YR(&#x1e;�[�\�h�O ��e������/��` &#x1c;&#x7;&#x4;#A��&gt;�&#x0; ����&#x5;�K;�fqf�A�&#x1f;S5�M&#x7f;�� 5&gt;r#��hv&#x1a;]f��Ȫ�~��3�i��&lt;&#xb;&#x17;߫t�yu�Dp�U���FzZ���&#x1;��֛�ڻF&#x16;��uƞ&#x13;��&#xc;W�����&#x19;ᔩ��U&#x11;_t[7$W�2�&#xc;����߁�&#x1e;�(r0xޘ4Ƕ`$&#x1d;55�A�
+?9�\�7P��UC&#x18;��kz�&#x16;av��F&#x3;,�;��J};4P�&#x3;l�&#x11;c�Z&#x7;���V����_�`[i���&#x0;���d3���v��&#x3;�i���vB	�!?+%�^LW5]��&#x19;�p&#x10;���nW.b���[&#x1e;&#xf;u#��Ɋ�ȏ&#x98;�&#x2;�����i���uȁ$nM&#x4;!K��zBy��Z����}
+&#x5;��Q&#x19;&#x7;���&#x19;���?Qs��&#x18;!�qTk�+�.&#x1a;�ry&#x10;�M&#x1b;��&#xd;�&#xf;잖�=X�&#x1a;k�&#x1b;���&amp;�f�t�{�c#�&#x3;&gt;R�-��.o�&#x7;2^z,l	&#x4;4T�p1ï�ӗ.b�$&#xe;��&#x74c;���_t[��&#x7f;E�&#x6;t�Y��&#x1d;ECާ&#x12;�B��-%&#x1b;�X�Z&#x12;	�&#x1b;��謺|�\.6��&#x1e;&#x1;�ӮbY�g&#xc;&#x1c;��&lt;���6&#x19;-ݔ�W�58{&#xf;��8&#x10;��&#xec7;�8&#x19;��(t���&#x0;K�lY%S�0��I5%���d����,&#x18;��\��o&#x7;{�}%��1��EJ�vL��i5&#x4;�y�&#x1a;�T�&#x6;��&#x5;H�&#x16;0���@b
+�����F&#xe;&#x14;gF�4x�&#x4;��&apos;��&#xb;��[��5�	�j�n=�TEv��ȃ�&#x13;r`Q�_��+���|߳v��&#x7f;h���kL)[�|�U%�������F&#xd;�$��a�*�K|q�v:&#x19;M&#x5;\��-��|�;&#x11;�6&#x16;&#x6;e�&#xe;L&gt;y��=ٌ&#x5;WvBa�V����I�
+&#x17;&#x0;&#xc;���&#x7b5;�ȈVg+L��&#x2;�h�G&#xe;&#x1c;���աI�m</queryString>
+  <java.net.URL>https://mozilla-ohttp.fastly-edge.com/</java.net.URL>
+</httpSample>
+<httpSample t="932" it="0" lt="932" ct="592" ts="1779700699684" s="true" lb="JP01_TC02_Click_EnterTheStore/images/logo-topbar.svg-20" rc="200" rm="" tn="" dt="text" de="" by="16585" sc="1" ec="0" ng="0" na="0" hn="R36001WL0307">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 
+Date: Mon, 25 May 2026 09:18:20 GMT
+Content-Type: image/svg+xml
+Content-Length: 16288
+Connection: close
+Accept-Ranges: bytes
+ETag: W/&quot;16288-1670877034000&quot;
+Last-Modified: Mon, 12 Dec 2022 20:30:34 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: no-cors
+Referer: https://petstore.octoperf.com/actions/Catalog.action
+Sec-Fetch-Site: same-origin
+Accept-Language: en-US,en;q=0.9
+Priority: u=4, i
+Accept: image/avif,image/webp,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5
+Host: petstore.octoperf.com
+Accept-Encoding: gzip, deflate, br, zstd
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+Sec-Fetch-Dest: image
+</requestHeader>
+  <responseData class="java.lang.String">&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;
+&lt;svg
+   version=&quot;1.1&quot;
+   id=&quot;Layer_1&quot;
+   x=&quot;0px&quot;
+   y=&quot;0px&quot;
+   viewBox=&quot;0 0 120 40&quot;
+   enable-background=&quot;new 0 0 120 40&quot;
+   xml:space=&quot;preserve&quot;
+   sodipodi:docname=&quot;octoperf-logo-white.svg&quot;
+   inkscape:version=&quot;1.1.2 (0a00cf5339, 2022-02-04)&quot;
+   xmlns:inkscape=&quot;http://www.inkscape.org/namespaces/inkscape&quot;
+   xmlns:sodipodi=&quot;http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd&quot;
+   xmlns=&quot;http://www.w3.org/2000/svg&quot;
+   xmlns:svg=&quot;http://www.w3.org/2000/svg&quot;
+   xmlns:rdf=&quot;http://www.w3.org/1999/02/22-rdf-syntax-ns#&quot;
+   xmlns:cc=&quot;http://creativecommons.org/ns#&quot;
+   xmlns:dc=&quot;http://purl.org/dc/elements/1.1/&quot;&gt;&lt;metadata
+   id=&quot;metadata71&quot;&gt;&lt;rdf:RDF&gt;&lt;cc:Work
+       rdf:about=&quot;&quot;&gt;&lt;dc:format&gt;image/svg+xml&lt;/dc:format&gt;&lt;dc:type
+         rdf:resource=&quot;http://purl.org/dc/dcmitype/StillImage&quot; /&gt;&lt;/cc:Work&gt;&lt;/rdf:RDF&gt;&lt;/metadata&gt;&lt;defs
+   id=&quot;defs69&quot; /&gt;&lt;sodipodi:namedview
+   pagecolor=&quot;#ffffff&quot;
+   bordercolor=&quot;#666666&quot;
+   borderopacity=&quot;1&quot;
+   objecttolerance=&quot;10&quot;
+   gridtolerance=&quot;10&quot;
+   guidetolerance=&quot;10&quot;
+   inkscape:pageopacity=&quot;0&quot;
+   inkscape:pageshadow=&quot;2&quot;
+   inkscape:window-width=&quot;3380&quot;
+   inkscape:window-height=&quot;1371&quot;
+   id=&quot;namedview67&quot;
+   showgrid=&quot;false&quot;
+   inkscape:zoom=&quot;10.333333&quot;
+   inkscape:cx=&quot;83.612904&quot;
+   inkscape:cy=&quot;28.935484&quot;
+   inkscape:window-x=&quot;1140&quot;
+   inkscape:window-y=&quot;32&quot;
+   inkscape:window-maximized=&quot;1&quot;
+   inkscape:current-layer=&quot;g64&quot;
+   inkscape:pagecheckerboard=&quot;true&quot; /&gt;
+&lt;g
+   id=&quot;g64&quot;&gt;
+	&lt;g
+   id=&quot;g22&quot;
+   transform=&quot;matrix(0.81514074,0,0,0.81514074,17.366093,11.49996)&quot;&gt;
+		&lt;g
+   id=&quot;g20&quot;&gt;
+			&lt;path
+   fill=&quot;#2d97d4&quot;
+   d=&quot;m 53,22.6 c 0,4 -3.1,7.2 -7,7.2 -3.8,0 -7,-3.2 -7,-7.2 0,-4 3.1,-7.2 7,-7.2 4,0 7,3.1 7,7.2 z m -1.7,0 C 51.3,19.4 49,17 46,17 c -2.9,0 -5.3,2.4 -5.3,5.6 0,3.1 2.4,5.6 5.3,5.6 3,-0.1 5.3,-2.5 5.3,-5.6 z&quot;
+   id=&quot;path2&quot; /&gt;
+			&lt;path
+   fill=&quot;#2d97d4&quot;
+   d=&quot;m 59.8,29.8 c -2.9,0 -5.2,-2.4 -5.2,-5.3 0,-3 2.3,-5.4 5.2,-5.4 2.3,0 4.1,1.4 4.9,3.4 h -1.8 c -0.6,-1.1 -1.7,-1.8 -3,-1.8 -1.9,0 -3.5,1.7 -3.5,3.8 0,2.1 1.6,3.7 3.5,3.7 1.4,0 2.4,-0.7 3,-1.8 h 1.8 c -0.8,2 -2.6,3.4 -4.9,3.4 z&quot;
+   id=&quot;path4&quot; /&gt;
+			&lt;path
+   fill=&quot;#2d97d4&quot;
+   d=&quot;m 70.6,29.5 c -2.4,0.3 -4.1,-1.1 -4.1,-3.7 v -8.7 h 1.7 v 2.2 h 2.4 v 1.6 h -2.4 v 4.9 c 0,1.8 1.1,2.3 2.4,2.2 z&quot;
+   id=&quot;path6&quot; /&gt;
+			&lt;path
+   fill=&quot;#2d97d4&quot;
+   d=&quot;m 82.2,24.4 c 0,2.9 -2.3,5.3 -5.2,5.3 -3,0 -5.2,-2.4 -5.2,-5.3 0,-3 2.3,-5.4 5.2,-5.4 2.9,0 5.2,2.5 5.2,5.4 z m -1.7,0 c 0,-2.1 -1.6,-3.8 -3.5,-3.8 -1.9,0 -3.5,1.7 -3.5,3.8 0,2 1.6,3.7 3.5,3.7 1.9,0 3.5,-1.6 3.5,-3.7 z&quot;
+   id=&quot;path8&quot; /&gt;
+			&lt;g
+   id=&quot;g18&quot;&gt;
+				&lt;path
+   fill=&quot;#ffffff&quot;
+   d=&quot;m 107.7,23.4 v 6.1 h 1.7 v -6.1 c 0,-2 1.3,-2.9 3.3,-2.7 v -1.6 c -2.8,-0.3 -5,1.2 -5,4.3 z&quot;
+   id=&quot;path10&quot; /&gt;
+				&lt;path
+   fill=&quot;#ffffff&quot;
+   d=&quot;m 116.8,16.8 c 0.4,-0.4 1,-0.5 1.8,-0.5 v -1.5 c -1.2,-0.1 -2.2,0.1 -2.9,0.8 -0.8,0.7 -1.2,1.8 -1.2,3.3 v 10.6 h 1.7 v -8.6 h 2.4 v -1.6 h -2.4 v -0.4 c -0.1,-0.7 0,-1.6 0.6,-2.1 z&quot;
+   id=&quot;path12&quot; /&gt;
+				&lt;path
+   fill=&quot;#ffffff&quot;
+   d=&quot;m 89.3,15.4 h -3.2 -1.7 v 1.6 3.3 9.3 h 1.7 v -5.1 h 3.3 c 3,0 4.8,-1.8 4.8,-4.5 0,-2.6 -2.2,-4.6 -4.9,-4.6 z m 0.1,7.3 H 86.1 V 21 20.2 17 h 3.2 c 1.9,0 3.2,1.3 3.2,2.9 0,1.7 -1.1,2.8 -3.1,2.8 z&quot;
+   id=&quot;path14&quot; /&gt;
+				&lt;path
+   fill=&quot;#ffffff&quot;
+   d=&quot;m 100.5,19 c -3,0 -5.2,2.4 -5.2,5.4 0,2.9 2.3,5.3 5.2,5.3 2.1,0 3.8,-1.2 4.7,-2.9 h -2 c -0.6,0.8 -1.6,1.2 -2.6,1.2 -1.6,0 -3,-1.2 -3.4,-2.8 h 6.8 1.2 0.6 c 0,-0.3 0.1,-0.6 0.1,-0.9 -0.1,-2.8 -2.4,-5.3 -5.4,-5.3 z m -3.4,4.7 c 0.3,-1.8 1.7,-3.1 3.4,-3.1 1.7,0 3.2,1.3 3.5,3.1 z&quot;
+   id=&quot;path16&quot; /&gt;
+			&lt;/g&gt;
+		&lt;/g&gt;
+	&lt;/g&gt;
+	&lt;g
+   id=&quot;g62&quot;&gt;
+		&lt;g
+   id=&quot;g44&quot;&gt;
+			&lt;g
+   id=&quot;g42&quot;&gt;
+				&lt;path
+   fill=&quot;#FFFFFF&quot;
+   d=&quot;M9.2,13.7c2.6-2.6,6.1-3.8,9.5-3.6c0.6-0.5,1.4-0.9,2.1-1.3c-4.5-0.9-9.3,0.4-12.7,3.8      c-4.3,4.3-5.2,10.7-2.7,15.9l1.2-1.2C4.6,22.8,5.5,17.4,9.2,13.7z&quot;
+   id=&quot;path24&quot; /&gt;
+				&lt;path
+   fill=&quot;#FFFFFF&quot;
+   d=&quot;M31.7,19.7c-0.4,0.8-0.9,1.5-1.4,2.1c0.2,3.4-1,6.8-3.6,9.4c-3.7,3.7-9.2,4.6-13.8,2.6L11.7,35      c5.2,2.6,11.8,1.7,16.1-2.6C31.3,29,32.6,24.2,31.7,19.7z&quot;
+   id=&quot;path26&quot; /&gt;
+				&lt;g
+   id=&quot;g40&quot;&gt;
+					&lt;circle
+   fill=&quot;#FFFFFF&quot;
+   cx=&quot;13.2&quot;
+   cy=&quot;24.1&quot;
+   r=&quot;0.9&quot;
+   id=&quot;circle28&quot; /&gt;
+					&lt;circle
+   fill=&quot;#FFFFFF&quot;
+   cx=&quot;16.3&quot;
+   cy=&quot;27.2&quot;
+   r=&quot;0.9&quot;
+   id=&quot;circle30&quot; /&gt;
+					
+						&lt;rect
+   x=&quot;0&quot;
+   y=&quot;29.8&quot;
+   transform=&quot;matrix(0.7071 -0.7071 0.7071 0.7071 -19.5917 13.7069)&quot;
+   fill=&quot;#FFFFFF&quot;
+   width=&quot;13.5&quot;
+   height=&quot;1.4&quot;
+   id=&quot;rect32&quot; /&gt;
+					
+						&lt;rect
+   x=&quot;3.2&quot;
+   y=&quot;33&quot;
+   transform=&quot;matrix(0.7071 -0.7071 0.7071 0.7071 -20.9183 16.9103)&quot;
+   fill=&quot;#FFFFFF&quot;
+   width=&quot;13.5&quot;
+   height=&quot;1.4&quot;
+   id=&quot;rect34&quot; /&gt;
+					&lt;polygon
+   fill=&quot;#FFFFFF&quot;
+   points=&quot;13.6,27.8 12.7,26.8 12.7,26.8 0.4,39 0.4,39.1 1.4,40 1.4,40 13.6,27.8      &quot;
+   id=&quot;polygon36&quot; /&gt;
+					&lt;path
+   fill=&quot;#FFFFFF&quot;
+   d=&quot;M33,10.6c0-0.5,0-0.9,0-1.4c-0.1-0.5-0.2-0.9-0.5-1.2c-0.3-0.3-0.7-0.4-1.2-0.5c-8.3-0.4-14,5.2-15.6,7       l0,0l-0.1,0.1c-2.1,2.4-2.4,3.7-2.8,5.1L12.7,20l-3,1l-0.5,2.9l-3.7,3.7l-0.1,0.1l-1.2,1.2l1,1l1.2-1.2l0,0l4.1-4.1l0.5-2.5       l2.9-0.9l0,0c0.1,0,0.3-0.1,0.4-0.1c0.4,0,0.9,0,1.4,0.6c0,0,1.2,1.2,0.6,2.5l0.5-0.5c0,0,0,0,0,0l0.9-0.9l0,0L31.4,9.1       c0,0,0.2,0.3,0.2,0.5l0,0.2c0,0.4,0,0.8,0,1.2C31.1,18.3,26,23,24.9,23.8l0,0l0,0c-2.8,2.4-5.4,2.8-5.5,2.8l-0.1,0l-1,2.9       L15.8,30l-4,4l-0.1,0.1l-1.2,1.2l1,1l1.2-1.2l0,0l3.8-3.8l2.9-0.5l1-3l0.2-0.1c1.4-0.4,2.8-0.8,5.2-2.9l0.1-0.1       C27.6,23.4,32.8,18.2,33,10.6L33,10.6z&quot;
+   id=&quot;path38&quot; /&gt;
+				&lt;/g&gt;
+			&lt;/g&gt;
+		&lt;/g&gt;
+		&lt;g
+   id=&quot;g56&quot;&gt;
+			&lt;g
+   id=&quot;g54&quot;&gt;
+				&lt;g
+   id=&quot;g48&quot;&gt;
+					&lt;path
+   fill=&quot;#2D97D4&quot;
+   d=&quot;M17.1,32.3l3.2-0.6l1-3c1.2-0.3,2.8-0.8,5.3-3l0.1-0.1c0.5-0.5,1.5-1.4,2.6-2.8       c-0.1,2.9-1.2,5.7-3.3,7.7c-2.7,2.7-6.6,3.8-10.3,3.1L17.1,32.3z&quot;
+   id=&quot;path46&quot; /&gt;
+				&lt;/g&gt;
+				&lt;g
+   id=&quot;g52&quot;&gt;
+					&lt;path
+   fill=&quot;#2D97D4&quot;
+   d=&quot;M6.8,24.7C6.1,21,7.3,17.1,9.9,14.5c2.1-2.1,4.8-3.2,7.8-3.3c-0.9,0.7-1.5,1.3-2,1.8l0,0l-0.3,0.3       l-0.6,0.7c-2.1,2.4-2.6,3.9-3,5.3l-3,1l-0.6,3.2L6.8,24.7z&quot;
+   id=&quot;path50&quot; /&gt;
+				&lt;/g&gt;
+			&lt;/g&gt;
+		&lt;/g&gt;
+		&lt;polygon
+   fill=&quot;#FFFFFF&quot;
+   points=&quot;18.8,2.4 19.3,0 19.9,2.4 22.3,3 19.9,3.5 19.3,6 18.8,3.5 16.3,3   &quot;
+   id=&quot;polygon58&quot; /&gt;
+		&lt;polygon
+   fill=&quot;#FFFFFF&quot;
+   points=&quot;13.2,4.7 13.6,3.3 13.9,4.7 15.4,5 13.9,5.4 13.6,6.8 13.2,5.4 11.8,5   &quot;
+   id=&quot;polygon60&quot; /&gt;
+	&lt;/g&gt;
+&lt;path
+   id=&quot;text5101&quot;
+   style=&quot;font-style:normal;font-weight:normal;font-size:17.818px;line-height:1.25;font-family:sans-serif;fill:#2d97d4;fill-opacity:1;stroke:none;stroke-width:1.21486&quot;
+   d=&quot;M 41.509766 4.7167969 L 41.509766 16.800781 C 41.509766 17.926007 41.350257 18.705615 41.03125 19.140625 C 40.712243 19.575635 40.163936 19.792969 39.386719 19.792969 L 38.837891 19.792969 L 38.837891 21.273438 L 39.507812 21.273438 C 40.824442 21.273438 41.77948 20.918553 42.371094 20.210938 C 42.968507 19.503322 43.265625 18.366816 43.265625 16.800781 L 43.265625 4.7167969 L 41.509766 4.7167969 z M 46.763672 4.7167969 L 46.763672 17.705078 L 48.521484 17.705078 L 48.521484 12.486328 L 50.730469 12.486328 C 52.186301 12.486328 53.28688 12.157368 54.029297 11.501953 C 54.777514 10.846538 55.150391 9.877532 55.150391 8.5957031 C 55.150391 7.3254746 54.777514 6.362446 54.029297 5.7070312 C 53.28688 5.0458164 52.186301 4.7167969 50.730469 4.7167969 L 46.763672 4.7167969 z M 67.740234 5.1953125 L 67.740234 7.9609375 L 66.564453 7.9609375 L 66.564453 9.2050781 L 67.740234 9.2050781 L 67.740234 14.494141 C 67.740234 15.712168 67.975502 16.553568 68.445312 17.017578 C 68.915123 17.475788 69.766525 17.705078 71.001953 17.705078 L 72.646484 17.705078 L 72.646484 16.365234 L 71.001953 16.365234 C 70.334938 16.365234 69.89228 16.251596 69.671875 16.025391 C 69.45727 15.799186 69.349609 15.288758 69.349609 14.494141 L 69.349609 9.2050781 L 72.646484 9.2050781 L 72.646484 7.9609375 L 69.349609 7.9609375 L 69.349609 5.1953125 L 67.740234 5.1953125 z M 48.521484 6.1601562 L 50.730469 6.1601562 C 51.548287 6.1601563 52.180343 6.3715124 52.626953 6.7949219 C 53.073563 7.2183314 53.296875 7.8184856 53.296875 8.5957031 C 53.296875 9.3787207 53.073563 9.9828405 52.626953 10.40625 C 52.180343 10.82966 51.548287 11.041016 50.730469 11.041016 L 48.521484 11.041016 L 48.521484 6.1601562 z M 60.884766 7.7265625 C 59.423133 7.7265625 58.258751 8.1970976 57.394531 9.1367188 C 56.536112 10.07054 56.107422 11.334652 56.107422 12.929688 C 56.107422 14.472522 56.560023 15.694789 57.464844 16.599609 C 58.375464 17.50443 59.607674 17.957031 61.162109 17.957031 C 61.782723 17.957031 62.394833 17.893228 62.998047 17.765625 C 63.60126 17.638022 64.189459 17.45259 64.763672 17.208984 L 64.763672 15.695312 C 64.195259 15.996919 63.621029 16.224197 63.041016 16.375 C 62.466803 16.525803 61.872626 16.599609 61.257812 16.599609 C 60.196389 16.599609 59.366945 16.312494 58.769531 15.738281 C 58.177918 15.158268 57.846945 14.318822 57.777344 13.216797 L 65.138672 13.216797 L 65.138672 12.433594 C 65.138672 10.983561 64.755852 9.8371127 63.990234 8.9960938 C 63.230417 8.1492747 62.195595 7.7265625 60.884766 7.7265625 z M 60.902344 9.0839844 C 61.691161 9.0839844 62.323217 9.3451758 62.798828 9.8671875 C 63.280239 10.389199 63.525509 11.087071 63.537109 11.962891 L 57.830078 11.972656 C 57.91128 11.056236 58.218341 10.344455 58.751953 9.8398438 C 59.291365 9.3352324 60.009124 9.0839844 60.902344 9.0839844 z &quot; /&gt;&lt;path
+   id=&quot;text33311&quot;
+   style=&quot;font-style:normal;font-weight:normal;font-size:16.1981px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.21486&quot;
+   d=&quot;M 79.455078 6.0410156 C 78.163238 6.0410156 77.148351 6.3403049 76.410156 6.9414062 C 75.677234 7.5425076 75.310547 8.3661381 75.310547 9.4101562 C 75.310547 10.311808 75.57682 11.015294 76.109375 11.521484 C 76.64193 12.027675 77.503655 12.399442 78.695312 12.636719 L 79.667969 12.826172 C 80.479983 12.989629 81.062737 13.235585 81.416016 13.5625 C 81.774567 13.889415 81.953125 14.341865 81.953125 14.921875 C 81.953125 15.58625 81.706582 16.09848 81.210938 16.457031 C 80.715293 16.815583 80.009854 16.994141 79.097656 16.994141 C 78.496555 16.994141 77.885864 16.901346 77.263672 16.716797 C 76.641479 16.532248 76.005979 16.258356 75.357422 15.894531 L 75.357422 17.541016 C 76.032343 17.788838 76.683081 17.975015 77.310547 18.101562 C 77.943285 18.22811 78.538737 18.291016 79.097656 18.291016 C 80.579318 18.291016 81.702238 17.996806 82.466797 17.40625 C 83.236628 16.815694 83.623047 15.946936 83.623047 14.802734 C 83.623047 13.843081 83.337043 13.07923 82.767578 12.509766 C 82.203387 11.935028 81.326423 11.533372 80.134766 11.306641 L 79.169922 11.109375 C 78.294634 10.945918 77.699182 10.732391 77.382812 10.46875 C 77.071716 10.199836 76.916016 9.8052122 76.916016 9.2832031 C 76.916016 8.6610105 77.14986 8.1812104 77.619141 7.84375 C 78.093694 7.5062896 78.766704 7.3378906 79.636719 7.3378906 C 80.137637 7.3378906 80.655532 7.4084151 81.193359 7.5507812 C 81.731187 7.6931474 82.303782 7.9092137 82.910156 8.1992188 L 82.910156 6.640625 C 82.309055 6.4402579 81.721222 6.2896367 81.146484 6.1894531 C 80.571747 6.0892696 80.008724 6.0410156 79.455078 6.0410156 z M 86.027344 6.6894531 L 86.027344 9.203125 L 84.958984 9.203125 L 84.958984 10.333984 L 86.027344 10.333984 L 86.027344 15.144531 C 86.027344 16.251823 86.24087 17.015675 86.667969 17.4375 C 87.095067 17.854053 87.869077 18.0625 88.992188 18.0625 L 90.488281 18.0625 L 90.488281 16.84375 L 88.992188 16.84375 C 88.385813 16.84375 87.98357 16.740796 87.783203 16.535156 C 87.588109 16.329516 87.490234 15.866907 87.490234 15.144531 L 87.490234 10.333984 L 90.488281 10.333984 L 90.488281 9.203125 L 87.490234 9.203125 L 87.490234 6.6894531 L 86.027344 6.6894531 z M 95.833984 8.9902344 C 94.563235 8.9902344 93.566126 9.4020497 92.84375 10.224609 C 92.126647 11.047169 91.769531 12.185327 91.769531 13.640625 C 91.769531 15.09065 92.126647 16.230761 92.84375 17.058594 C 93.566126 17.881153 94.563235 18.291016 95.833984 18.291016 C 97.099461 18.291016 98.09403 17.881153 98.816406 17.058594 C 99.538782 16.230761 99.900391 15.09065 99.900391 13.640625 C 99.900391 12.185327 99.538782 11.047169 98.816406 10.224609 C 98.09403 9.4020497 97.099461 8.9902344 95.833984 8.9902344 z M 106.70117 8.9902344 C 105.99989 8.9902344 105.40443 9.1211247 104.91406 9.3847656 C 104.42369 9.6431337 104.02653 10.042251 103.7207 10.580078 L 103.7207 9.203125 L 102.25586 9.203125 L 102.25586 18.0625 L 103.7207 18.0625 L 103.7207 13.396484 C 103.7207 12.394649 103.93931 11.626305 104.37695 11.09375 C 104.81987 10.555922 105.45283 10.287109 106.27539 10.287109 C 106.50739 10.287109 106.71643 10.31192 106.90625 10.359375 C 107.10134 10.401558 107.28186 10.469542 107.44531 10.564453 L 107.4375 9.0683594 C 107.28986 9.0419953 107.15448 9.0242175 107.0332 9.0136719 C 106.91193 8.9978534 106.80136 8.9902344 106.70117 8.9902344 z M 112.32422 8.9902344 C 110.99547 8.9902344 109.93995 9.4172877 109.1543 10.271484 C 108.37392 11.120408 107.98242 12.270678 107.98242 13.720703 C 107.98242 15.123273 108.39424 16.236034 109.2168 17.058594 C 110.04463 17.881153 111.16501 18.291016 112.57812 18.291016 C 113.14232 18.291016 113.69772 18.23319 114.24609 18.117188 C 114.79447 18.001185 115.32955 17.832787 115.85156 17.611328 L 115.85156 16.234375 C 115.33483 16.508562 114.81439 16.714469 114.28711 16.851562 C 113.7651 16.988656 113.22493 17.058594 112.66602 17.058594 C 111.70109 17.058594 110.94544 16.7974 110.40234 16.275391 C 109.86452 15.748109 109.56523 14.982304 109.50195 13.980469 L 116.19336 13.980469 L 116.19336 13.269531 C 116.19336 11.951327 115.84445 10.90909 115.14844 10.144531 C 114.4577 9.3746997 113.51588 8.9902344 112.32422 8.9902344 z M 95.833984 10.224609 C 96.609089 10.224609 97.224272 10.533471 97.677734 11.150391 C 98.131197 11.762038 98.357422 12.591334 98.357422 13.640625 C 98.357422 14.695189 98.131197 15.528978 97.677734 16.140625 C 97.224272 16.752272 96.609089 17.058594 95.833984 17.058594 C 95.048334 17.058594 94.430025 16.754812 93.976562 16.148438 C 93.528373 15.536791 93.302734 14.700462 93.302734 13.640625 C 93.302734 12.580788 93.530913 11.746999 93.984375 11.140625 C 94.437837 10.528978 95.053607 10.224609 95.833984 10.224609 z M 112.3418 10.224609 C 113.0589 10.224609 113.63208 10.460993 114.06445 10.935547 C 114.5021 11.410101 114.72774 12.045601 114.73828 12.841797 L 109.54883 12.849609 C 109.62265 12.016504 109.90162 11.370845 110.38672 10.912109 C 110.87709 10.453374 111.52978 10.224609 112.3418 10.224609 z &quot; /&gt;&lt;path
+   id=&quot;text40869&quot;
+   style=&quot;font-style:normal;font-weight:normal;font-size:5.33333px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none&quot;
+   d=&quot;M 41.291016 30.648438 L 41.291016 34.535156 L 42.685547 34.535156 C 43.121311 34.535156 43.457248 34.441189 43.693359 34.251953 C 43.92947 34.062717 44.048828 33.794488 44.048828 33.447266 C 44.048828 33.183377 43.976128 32.96441 43.832031 32.789062 C 43.68967 32.611979 43.489149 32.495009 43.230469 32.439453 C 43.445746 32.404731 43.609592 32.316406 43.720703 32.175781 C 43.831814 32.035156 43.886719 31.847222 43.886719 31.609375 C 43.886719 31.302084 43.777561 31.065104 43.560547 30.898438 C 43.343533 30.731771 43.035807 30.648438 42.634766 30.648438 L 41.291016 30.648438 z M 41.816406 31.080078 L 42.595703 31.080078 C 42.852647 31.080078 43.042969 31.12934 43.167969 31.226562 C 43.294705 31.323785 43.357422 31.469835 43.357422 31.666016 C 43.357422 31.863932 43.294705 32.012153 43.167969 32.109375 C 43.042969 32.204861 42.852647 32.251953 42.595703 32.251953 L 41.816406 32.251953 L 41.816406 31.080078 z M 44.583984 31.619141 L 45.763672 34.488281 L 45.677734 34.707031 C 45.589193 34.93967 45.508463 35.087891 45.435547 35.150391 C 45.36263 35.212891 45.260851 35.244141 45.128906 35.244141 L 44.847656 35.244141 L 44.847656 35.644531 L 45.230469 35.644531 C 45.445746 35.644531 45.617622 35.592231 45.746094 35.486328 C 45.874566 35.380425 46.007162 35.153863 46.142578 34.806641 L 47.423828 31.619141 L 46.916016 31.619141 L 46.003906 33.900391 L 45.091797 31.619141 L 44.583984 31.619141 z M 41.816406 32.679688 L 42.660156 32.679688 C 42.943142 32.679688 43.151693 32.737196 43.287109 32.853516 C 43.424262 32.968099 43.494141 33.14757 43.494141 33.390625 C 43.494141 33.631944 43.424262 33.811632 43.287109 33.929688 C 43.151693 34.046007 42.943142 34.103516 42.660156 34.103516 L 41.816406 34.103516 L 41.816406 32.679688 z &quot; /&gt;&lt;/g&gt;
+&lt;/svg&gt;
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String">JSESSIONID=FBAEF459EE3D12E0BBF243058232AB9F</cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://petstore.octoperf.com/images/logo-topbar.svg</java.net.URL>
+</httpSample>
+<httpSample t="571" it="0" lt="570" ct="216" ts="1779700700429" s="true" lb="JP01_TC02_Click_EnterTheStore/submit/firefox-desktop/addons/1/4aab6aaa-62d7-4bae-ba14-769585b40d69-22" rc="200" rm="OK" tn="" dt="text" de="utf-8" by="726" sc="1" ec="0" ng="0" na="0" hn="R36001WL0307">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: openresty
+Date: Mon, 25 May 2026 09:18:20 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: DENY
+Access-Control-Allow-Methods: GET, POST, PUT, OPTIONS
+Access-Control-Max-Age: 1728000
+Access-Control-Allow-Headers: Accept-Encoding,Connection,Content-Encoding,Content-Length,Content-Type,DNT,Date,Sec-Fetch-Dest,Sec-Fetch-Mode,Sec-Fetch-Site,User-Agent,X-Client-Type,X-Client-Version,X-Debug-ID,X-Forwarded-For,X-Pingsender-Version,X-Pipeline-Proxy,X-Source-Tags,X-Telemetry-Agent
+Via: 1.1 google
+Alt-Svc: clear
+Connection: close
+Transfer-Encoding: chunked
+Content-Encoding: gzip
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+date: Mon, 25 May 2026 09:18:20 GMT
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Accept-Language: en-US,en;q=0.9
+content-encoding: gzip
+Priority: u=4
+Accept: */*
+x-telemetry-agent: Glean/67.1.0 (Rust on Windows)
+Host: incoming.telemetry.mozilla.org
+content-type: application/json; charset=utf-8
+Accept-Encoding: gzip, deflate, br, zstd
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+Sec-Fetch-Dest: empty
+Content-Length: 3964
+</requestHeader>
+  <responseData class="java.lang.String"></responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">&#x1f;�&#x8;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;��Z�n�F&#x16;~&#x15;B�Z�#�&#x14;%K�U;i&#xb;&#x3;�E&#x0;&apos;�&#x2;E!&#xc;9Cj��&#xc;33��&#x6;&#x1;�!�	�I���E�k���&#x5;R�����s�\�sI&gt;�j!����&#x1a;-?�&#xc;&#x7f;?ZF����Tە&#x15;&#x15;&#x1f;-Gq&#x18;�H8%��m�,��2L�a&#x18;~&#x13;N��pt6�=qt�&#xc;g�(�&#xd;G5�FI&#x1c;ljF-g��]�5nKk�&#x8;�o��)��Q쨅�x&#x1e;G�&quot;�&#x10;���%(p&#x12;%&#xb;w8�Tfk�Ӫ,Uc=9��۳��I$E�6��&#x7;&gt;~&lt;&#x1b;1nn��	eLsc&#x8;m��EY&#x12;!��&#x3;���&gt;&#x1f;�&#x7;X&apos;+���2�:�&#x19;�iSZ��8�&#xb;�	�4��&quot;;�E]
+Kn&#x5;&#x14;�d��f0�&#x13;$��$�&#xf;OѪ��f�2��_F&#x15;�&#x16;��9�@�j&#x3;�MCKh;�&#x11;֏�Ȕ�X?Ъj#&#xd;�꒓���k^)�&#x1d;&#xd;&apos;$�u&#x1e;F
+�V�&#x1c;�7��ά�Ҟ��&quot;&lt;�X�r�Q�d���a\&#x1a;)r�&#x19;�� ����*��JF��&#x1a;a�!��%&#x1f;8��C�L&amp;���K�B�\�Eoj���!&#xb;�&#x15;�z�y�&#x2;FTw���[&#x4;QKm8w�&#xc;T�lMm��dZpb���Z�J�P�T�5�sD��V&#x5;)e�&#x10;��6y�s�_8L&quot;o�;K�Ӹm�wA&#x19;&#x13;��֜��^�)�n���RRh�|�&lt;ߣ*��p!Rk&#x7;yP�F�l��������I�y:=&#x11;s`�
+�ݩ�&#x5;Ͷ{.�&apos;�� y��*��&#x13;��tD&#x1e;`o&#x6;p�����Uɜ��.�&#x1c;��=�|�.&#x17;�/��.&#x4;����&#x7;&#x1b;��&#x5;}U&#x1;&#x1c;2�|&#x6;����9�@&#x1d;`�id&#x13;�&#xc;r�`S�
+	�&#x1;�&#x0;܀@����&#x11;8�[��&#x1f;�u���/&#x1d;
+�6v�#�=����E�A6�p�&#x14;��ZW�����R�hJ&#x18;`d�&#x3;��y���e�S�=��
+�
+�#rw�	oF�|�@�r��Ȇ�]�hU��&#x15;&#x0;&#x1f;@&#x10;N�C&#x0;k�T@7n&#x1e;+�H�px�g&#xb;�O�9�&#xe;��ڳ�c��&#x19;�������Y2_k�`Ne��Z&#x1f;�r�i��&#x19;���{����C��2͙ph�ٮ2,J���m4��{&lt;�&lt;	O��qT�w;��ϻ[P�Jvy��W&gt;�Ģ&#x11;��&#x1a;&#xb;�&#x1f;�a/�\,#�&#x1b;��&#x12;�Ӏ{N�]�ǀ�(#ʲ&#x3;�^��GU��f�=.&#x1a;�y��]P�Ճi�&#x2;&#x5;�{�~&amp;�}&#x8;���.Of��&#x1e;�k`5����Y&#x3;,���R�P5&gt;&#x1e;�W��b��Bo��ɼ|&amp;�Y�� ��� �&#x17;�&#x17;&#xd;�ji�/lH�/�E�&#x14;Ev��{��ʰ}X&#x17;�&#x1f;?��&#x1d;�H&#x6;߶����1!����&#x12;�&#x1d;z�v^&#x19;v�J&#x1b;Q2ܜ������tcW��+&#x17;eC띐�n�_����yH�&#x8;?o�p�&#x7f;��&#x7f;�v�&#x1d;�8Ng�4&#x7;t�4&apos;I��$&#xd;�&#x17;���&lt;\���4r�r�&#xe;9(k����|��%n��W&#x8;9�pw�߅t��J�.�v�4n&lt;���i8&#xe;�1�&#x15;2��&apos;�&#x1a;&#x1a;�u�T��H�z�i8��p&#x1a;��m��A�]c�m3M{c%�*�z��gq&#x18;���j�6=�J��&#x17;��&#x15;hO�?���Ն&#x19;&#xc; 2�̚Ʃ�è-�ƃy�]�&#x1c;�խ&#xe;�i&#x1c;��	%a�E$YD32?��u��OY:���&#x1d;���Ծ&#x1d;�&#x13;&#x1e;�,��&#x1c;�&#x10;�p&#x10;J�yFh&gt;�&amp;�Y&#x18;��� �J�&#xd;+8�0�@4�]�s&#xb;qVժ.�&#x2;h;Z��a�&#x16;UM�G�\�co�����̫٥��mM�+9-&#xd;��/��&#x3;����&#xe;��ǳ=�&#x1b;����&lt;c�=�	�@�x1INa��ك���v�B3&#xe;���3�X���&gt;&#x1c;⦄��x �gZԭ�G8ԙ��|&#x13;���&apos;D��ھ&#xb;G�x܏���
+�&#xc;&#x12;&#x5;�G��o��&#x7;&#x12;�&#x4;t7]��9��M�&#x3;�55�BR�}�`)�&#xe;ƺ�.u��&#x0;�8�&amp;��n�������k��~�&#x7f;w&#x2;�&#x18;�9&gt;�~&#x1;wa���N��m~��w�|K�&#x1b;�&apos;&#x1a;�2d&#x13;&apos;&#x10; �&#x15;4����&#x2;�,L~UH&lt;�]n/��&#x13;�B�q�&#x1c;����|�	�a�&amp;mP+3&#x14;bA.�	��&#x0;t��&#x13;Y��َw&amp;�S�W�{�&#x15;*&#x6;�D.���
+��&#x15;�p1�&amp;�&lt;��A�0�=t&#x5;�r�+�v��&lt;&#x1;�S�H�x�s=x&#x4;�xdP�&#x6;��G�
+.[Z&apos;�4&#x1;hy�&#xab18;|6+��,&#x18;��삇U}/t@�v&#x16;�&#x1e;����ډڇ�/[�����&#x2;��:&gt;&#x1e;.&#x2;�&#x11;@oh&#x4;&#x2;���&#x18;&#xf;�&#x7bc;	�&#xc;�d��&#x1a;�v�s;�f_��j�b!�_�Nk�?��&#x2;�y��MK�M:�_w&#x16;�����N&#xc;�/&#x1c;��B�&#x1f;�1��&#x1d;H���t��&#x4;מd�&apos;y��&amp;&#x7f;������(_�W&#x17;�v&#x3;���&#x11;��&#x5;?�\��I�&#x6;4}&#x4;~&apos;&#xb;�\&#x7;_���:��s�zg����&#x7b9;S�G�&#xb;��6BO&#x11;��8y�z�����E,�&#xf;J��O�&quot;:�&apos;��&#xf;���&#x15;~�l]&#x1;��t�v�oW��\a7*�k^�Ir�Wt&#x13;H�z|:vc�M��&#x1;ԯ!�,��
+�t���&#x7;�I&#x16;��&#x2;�&#x7f;;��&#x7f;;&#xb;�)�^��*)�&#x4;���&#x7f;&#x3;WX���&#x13;?;����&#x19;)����&#x1;�&#x1f;Z�*$&#x0;&#x0;</queryString>
+  <java.net.URL>https://incoming.telemetry.mozilla.org/submit/firefox-desktop/addons/1/4aab6aaa-62d7-4bae-ba14-769585b40d69</java.net.URL>
+</httpSample>
+<httpSample t="4463" it="0" lt="4462" ct="885" ts="1779700722364" s="true" lb="JP01_TC03_Search/actions/Catalog.action;jsessionid=FBAEF459EE3D12E0BBF243058232AB9F-31" rc="200" rm="" tn="" dt="text" de="UTF-8" by="4076" sc="1" ec="0" ng="0" na="0" hn="R36001WL0307">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 
+Date: Mon, 25 May 2026 09:18:46 GMT
+Content-Type: text/html;charset=UTF-8
+Content-Length: 3844
+Connection: close
+Content-Language: en-US
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: navigate
+Referer: https://petstore.octoperf.com/actions/Catalog.action
+Sec-Fetch-Site: same-origin
+Accept-Language: en-US,en;q=0.9
+Origin: https://petstore.octoperf.com
+Sec-Fetch-User: ?1
+Priority: u=0, i
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Host: petstore.octoperf.com
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate, br, zstd
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+Sec-Fetch-Dest: document
+Content-Length: 213
+</requestHeader>
+  <responseData class="java.lang.String">
+
+
+
+
+
+
+&lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD XHTML 1.0 Transitional//EN&quot;
+&quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&quot;&gt;
+
+&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot;&gt;
+
+&lt;head&gt;
+&lt;link rel=&quot;StyleSheet&quot; href=&quot;../css/jpetstore.css&quot; type=&quot;text/css&quot;
+	media=&quot;screen&quot; /&gt;
+
+&lt;meta name=&quot;generator&quot;
+	content=&quot;HTML Tidy for Linux/x86 (vers 1st November 2002), see www.w3.org&quot; /&gt;
+&lt;title&gt;JPetStore Demo&lt;/title&gt;
+&lt;meta content=&quot;text/html; charset=windows-1252&quot;
+	http-equiv=&quot;Content-Type&quot; /&gt;
+&lt;meta http-equiv=&quot;Cache-Control&quot; content=&quot;max-age=0&quot; /&gt;
+&lt;meta http-equiv=&quot;Cache-Control&quot; content=&quot;no-cache&quot; /&gt;
+&lt;meta http-equiv=&quot;expires&quot; content=&quot;0&quot; /&gt;
+&lt;meta http-equiv=&quot;Expires&quot; content=&quot;Tue, 01 Jan 1980 1:00:00 GMT&quot; /&gt;
+&lt;meta http-equiv=&quot;Pragma&quot; content=&quot;no-cache&quot; /&gt;
+&lt;/head&gt;
+
+&lt;body&gt;
+
+&lt;div id=&quot;Header&quot;&gt;
+
+&lt;div id=&quot;Logo&quot;&gt;
+&lt;div id=&quot;LogoContent&quot;&gt;
+&amp;nbsp;
+&lt;a href=&quot;/actions/Catalog.action&quot;&gt;&lt;img src=&quot;../images/logo-topbar.svg&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Menu&quot;&gt;
+&lt;div id=&quot;MenuContent&quot;&gt;&lt;a href=&quot;/actions/Cart.action?viewCart=&quot;&gt;&lt;img align=&quot;middle&quot; name=&quot;img_cart&quot; src=&quot;../images/cart.gif&quot; /&gt;&lt;/a&gt; &lt;img align=&quot;middle&quot; src=&quot;../images/separator.gif&quot; /&gt; 
+	&lt;a href=&quot;/actions/Account.action?signonForm=&quot;&gt;Sign In&lt;/a&gt;
+   &lt;img align=&quot;middle&quot; src=&quot;../images/separator.gif&quot; /&gt; &lt;a
+	href=&quot;../help.html&quot;&gt;?&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Search&quot;&gt;
+&lt;div id=&quot;SearchContent&quot;&gt;&lt;form method=&quot;post&quot; action=&quot;/actions/Catalog.action&quot;&gt;
+	&lt;input size=&quot;14&quot; name=&quot;keyword&quot; type=&quot;text&quot; value=&quot;fish&quot; /&gt;
+	&lt;input name=&quot;searchProducts&quot; type=&quot;submit&quot; value=&quot;Search&quot; /&gt;
+&lt;div style=&quot;display: none;&quot;&gt;&lt;input type=&quot;hidden&quot; name=&quot;_sourcePage&quot; value=&quot;kNCeM4TgEEyNYw9onOwL14IHCbX1_ZyVrBDsQR9X_iqHCeSZomvTiLLE_WyphF_T5Oe4eVpS4XyWI4Vx14BjAd2wchBQ0mn0oyznvp5DC5M=&quot; /&gt;&lt;input type=&quot;hidden&quot; name=&quot;__fp&quot; value=&quot;-lEGA5yi4xzKcm4VeM-x_Xcya-dIk4GpWy7sss3Y8dZ5fHL2Q5qurRYRYlj7v2oy&quot; /&gt;&lt;/div&gt;&lt;/form&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;QuickLinks&quot;&gt;&lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=FISH&quot;&gt;&lt;img src=&quot;../images/sm_fish.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=DOGS&quot;&gt;&lt;img src=&quot;../images/sm_dogs.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=REPTILES&quot;&gt;&lt;img src=&quot;../images/sm_reptiles.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=CATS&quot;&gt;&lt;img src=&quot;../images/sm_cats.gif&quot; /&gt;&lt;/a&gt; &lt;img src=&quot;../images/separator.gif&quot; /&gt; &lt;a href=&quot;/actions/Catalog.action?viewCategory=&amp;amp;categoryId=BIRDS&quot;&gt;&lt;img src=&quot;../images/sm_birds.gif&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div id=&quot;Content&quot;&gt;
+
+
+&lt;div id=&quot;BackLink&quot;&gt;&lt;a href=&quot;/actions/Catalog.action&quot;&gt;Return to Main Menu&lt;/a&gt;&lt;/div&gt;
+
+&lt;div id=&quot;Catalog&quot;&gt;
+
+&lt;table&gt;
+	&lt;tr&gt;
+		&lt;th&gt;&amp;nbsp;&lt;/th&gt;
+		&lt;th&gt;Product ID&lt;/th&gt;
+		&lt;th&gt;Name&lt;/th&gt;
+	&lt;/tr&gt;
+	
+		&lt;tr&gt;
+			&lt;td&gt;&lt;a href=&quot;/actions/Catalog.action?viewProduct=&amp;amp;productId=FI-FW-02&quot;&gt;&lt;image src=&quot;../images/fish2.gif&quot;&gt;Fresh Water fish from China&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;b&gt; &lt;a href=&quot;/actions/Catalog.action?viewProduct=&amp;amp;productId=FI-FW-02&quot;&gt;&lt;font color=&quot;BLACK&quot;&gt; FI-FW-02 &lt;/font&gt;&lt;/a&gt; &lt;/b&gt;&lt;/td&gt;
+			&lt;td&gt;Goldfish&lt;/td&gt;
+		&lt;/tr&gt;
+	
+		&lt;tr&gt;
+			&lt;td&gt;&lt;a href=&quot;/actions/Catalog.action?viewProduct=&amp;amp;productId=FI-SW-01&quot;&gt;&lt;image src=&quot;../images/fish1.gif&quot;&gt;Salt Water fish from Australia&lt;/a&gt;&lt;/td&gt;
+			&lt;td&gt;&lt;b&gt; &lt;a href=&quot;/actions/Catalog.action?viewProduct=&amp;amp;productId=FI-SW-01&quot;&gt;&lt;font color=&quot;BLACK&quot;&gt; FI-SW-01 &lt;/font&gt;&lt;/a&gt; &lt;/b&gt;&lt;/td&gt;
+			&lt;td&gt;Angelfish&lt;/td&gt;
+		&lt;/tr&gt;
+	
+	&lt;tr&gt;
+		&lt;td&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/div&gt;
+
+
+&lt;/div&gt;
+
+&lt;div id=&quot;CTA&quot;&gt;
+Elevate you load-testing with &lt;a href=&quot;https://octoperf.com&quot;&gt;OctoPerf&lt;/a&gt;!
+&lt;/div&gt;
+
+&lt;div id=&quot;Footer&quot;&gt;
+
+&lt;div id=&quot;PoweredBy&quot;&gt;
+&amp;nbsp;&amp;nbsp;Hosted by &lt;a href=&quot;https://octoperf.com&quot; target=&quot;_blank&quot;&gt;https://octoperf.com&lt;/a&gt;&amp;nbsp;|&amp;nbsp;Powered by &lt;a href=&quot;https://mybatis.org/&quot; target=&quot;_blank&quot;&gt;www.mybatis.org&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;Banner&quot;&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+
+
+
+
+
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String">JSESSIONID=FBAEF459EE3D12E0BBF243058232AB9F</cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">keyword=fish&amp;searchProducts=Search&amp;_sourcePage=TaCTeB6fPV04Qd7cKKHSzA3Po9AeY4-z-j7s55DXLnY3tL7zXXuRlAczX7z4EbeFbnuEt6U3ILozPn7FqQFQ5wrGcEyWIep4&amp;__fp=8Qg8O8-LbQfq8W2wYKuc85neVHIdhguWYJUjfUiyaEigQl3CJ4v9LbtYhWEY3iEE</queryString>
+  <java.net.URL>https://petstore.octoperf.com/actions/Catalog.action;jsessionid=FBAEF459EE3D12E0BBF243058232AB9F</java.net.URL>
+</httpSample>
+
+</testResults>
+1779778196955,1774,JP01_TC01_HomePage_launch_1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group_Search 1-1,true,,1452,1,1,0,1,0,R36001WL0307
+1779778198733,296,JP01_TC02_Click_EnterTheStore_1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group_Search 1-1,true,,5664,1,1,0,1,0,R36001WL0307
+1779778199031,243,JP01_TC03_Search_1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group_Search 1-1,true,,4081,1,1,0,1,0,R36001WL0307
+1779778199274,485,JP01_TC01_HomePage_launch_1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group_Search 1-1,true,,1452,1,1,0,1,0,R36001WL0307
+1779778199760,258,JP01_TC02_Click_EnterTheStore_1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group_Search 1-1,true,,5664,1,1,0,1,0,R36001WL0307
+1779778200020,185,JP01_TC03_Search_1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group_Search 1-1,true,,3441,1,1,0,1,0,R36001WL0307
+1779778200206,230,JP01_TC01_HomePage_launch_1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group_Search 1-1,true,,1452,1,1,0,1,0,R36001WL0307
+1779778200436,204,JP01_TC02_Click_EnterTheStore_1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group_Search 1-1,true,,5664,1,1,0,1,0,R36001WL0307
+1779778200642,287,JP01_TC03_Search_1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group_Search 1-1,true,,3441,1,1,0,1,0,R36001WL0307
+1779778200929,226,JP01_TC01_HomePage_launch_1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group_Search 1-1,true,,1452,1,1,0,1,0,R36001WL0307
+1779778201156,225,JP01_TC02_Click_EnterTheStore_1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group_Search 1-1,true,,5664,1,1,0,1,0,R36001WL0307
+1779778201382,248,JP01_TC03_Search_1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group_Search 1-1,true,,3445,1,1,0,1,0,R36001WL0307
+1779778201632,226,JP01_TC01_HomePage_launch_1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group_Search 1-1,true,,1452,1,1,0,1,0,R36001WL0307
+1779778201859,348,JP01_TC02_Click_EnterTheStore_1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group_Search 1-1,true,,5664,2,2,0,1,0,R36001WL0307
+1779778202207,254,JP01_TC03_Search_1,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group_Search 1-1,true,,3442,2,2,0,1,0,R36001WL0307
+1779778201952,1517,JP01_TC01_HomePage_launch_2,Non HTTP response code: java.net.SocketException,,Thread Group_Search 1-2,false,,3246,1,1,0,1,1,R36001WL0307
+1779778452625,2872,JP01_TC01_HomePage_launch_${__threadNum_Search},200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group_Search 1-1,true,,1452,1,1,0,1,0,R36001WL0307
+1779778455498,542,JP01_TC02_Click_EnterTheStore_${__threadNum_Search},200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group_Search 1-1,true,,5664,1,1,0,1,0,R36001WL0307
+1779778456042,552,JP01_TC03_Search_${__threadNum_Search},200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group_Search 1-1,true,,4081,1,1,0,1,0,R36001WL0307
