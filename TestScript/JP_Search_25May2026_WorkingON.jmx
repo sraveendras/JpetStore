@@ -5,8 +5,6 @@
       <elementProp name="TestPlan.user_defined_variables" elementType="Arguments" guiclass="ArgumentsPanel" testclass="Arguments" testname="User Defined Variables">
         <collectionProp name="Arguments.arguments"/>
       </elementProp>
-      <boolProp name="TestPlan.functional_mode">false</boolProp>
-      <boolProp name="TestPlan.serialize_threadgroups">false</boolProp>
     </TestPlan>
     <hashTree>
       <Arguments guiclass="ArgumentsPanel" testclass="Arguments" testname="User Defined Variables">
@@ -115,7 +113,7 @@
         <CSVDataSet guiclass="TestBeanGUI" testclass="CSVDataSet" testname="CSV Data Set Config">
           <stringProp name="delimiter">,</stringProp>
           <stringProp name="fileEncoding"></stringProp>
-          <stringProp name="filename">C:\Users\Lenovo\Downloads\PT_Programs\PT_Programs\TestData\SearchData.csv</stringProp>
+          <stringProp name="filename">C:/Users/Lenovo/Downloads/PT_Programs/TestData/SearchData.csv</stringProp>
           <boolProp name="ignoreFirstLine">false</boolProp>
           <boolProp name="quotedData">false</boolProp>
           <boolProp name="recycle">true</boolProp>
@@ -136,9 +134,9 @@
           <boolProp name="CacheManager.controlledByThread">false</boolProp>
         </CacheManager>
         <hashTree/>
-        <GenericController guiclass="LogicControllerGui" testclass="GenericController" testname="Simple Controller"/>
+        <GenericController guiclass="LogicControllerGui" testclass="GenericController" testname="Simple Controller" enabled="true"/>
         <hashTree>
-          <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="JP01_TC01_HomePage_launch_${__threadNum}_${__iterationNum}">
+          <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="JP01_TC01_HomePage_launch_${__threadNum}_${__iterationNum}" enabled="true">
             <boolProp name="TransactionController.parent">true</boolProp>
             <boolProp name="TransactionController.includeTimers">false</boolProp>
           </TransactionController>
@@ -232,7 +230,7 @@
             </UniformRandomTimer>
             <hashTree/>
           </hashTree>
-          <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="JP01_TC02_Click_EnterTheStore_${__threadNum}_${__iterationNum}">
+          <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="JP01_TC02_Click_EnterTheStore_${__threadNum}_${__iterationNum}" enabled="true">
             <boolProp name="TransactionController.parent">true</boolProp>
             <boolProp name="TransactionController.includeTimers">false</boolProp>
           </TransactionController>
@@ -359,7 +357,7 @@
             </UniformRandomTimer>
             <hashTree/>
           </hashTree>
-          <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="JP01_TC03_Search_${__threadNum}_${__iterationNum}">
+          <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="JP01_TC03_Search_${__threadNum}_${__iterationNum}" enabled="true">
             <boolProp name="TransactionController.parent">true</boolProp>
             <boolProp name="TransactionController.includeTimers">false</boolProp>
           </TransactionController>
@@ -487,7 +485,7 @@
             <stringProp name="ActionProcessor.duration">${Search_Pacing}</stringProp>
           </TestAction>
           <hashTree/>
-          <DebugSampler guiclass="TestBeanGUI" testclass="DebugSampler" testname="Debug Sampler">
+          <DebugSampler guiclass="TestBeanGUI" testclass="DebugSampler" testname="Debug Sampler" enabled="true">
             <boolProp name="displayJMeterProperties">false</boolProp>
             <boolProp name="displayJMeterVariables">true</boolProp>
             <boolProp name="displaySystemProperties">false</boolProp>
@@ -530,14 +528,14 @@
           <boolProp name="CacheManager.controlledByThread">false</boolProp>
         </CacheManager>
         <hashTree/>
-        <GenericController guiclass="LogicControllerGui" testclass="GenericController" testname="Simple Controller"/>
+        <GenericController guiclass="LogicControllerGui" testclass="GenericController" testname="Simple Controller" enabled="true"/>
         <hashTree>
-          <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="JP02_TC02_Click_EnterTheStore_${__threadNum}_${__iterationNum}">
+          <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="JP02_TC02_Click_EnterTheStore_${__threadNum}_${__iterationNum}" enabled="true">
             <boolProp name="TransactionController.parent">true</boolProp>
             <boolProp name="TransactionController.includeTimers">false</boolProp>
           </TransactionController>
           <hashTree>
-            <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="JP02_TC02_Click_EnterTheStore/actions/Catalog.action-57">
+            <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="JP02_TC02_Click_EnterTheStore/actions/Catalog.action-57" enabled="true">
               <stringProp name="HTTPSampler.domain">${URL}</stringProp>
               <stringProp name="HTTPSampler.port">${Port}</stringProp>
               <stringProp name="HTTPSampler.protocol">${Protocals}</stringProp>
@@ -639,7 +637,7 @@
             </UniformRandomTimer>
             <hashTree/>
           </hashTree>
-          <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="JP02_TC03_Select_Product_${__threadNum}_${__iterationNum}">
+          <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="JP02_TC03_Select_Product_${__threadNum}_${__iterationNum}" enabled="true">
             <boolProp name="TransactionController.parent">true</boolProp>
             <boolProp name="TransactionController.includeTimers">false</boolProp>
           </TransactionController>
@@ -761,7 +759,7 @@
             </UniformRandomTimer>
             <hashTree/>
           </hashTree>
-          <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="JP02_TC04_Select_SubProduct_${__threadNum}_${__iterationNum}">
+          <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="JP02_TC04_Select_SubProduct_${__threadNum}_${__iterationNum}" enabled="true">
             <boolProp name="TransactionController.parent">true</boolProp>
             <boolProp name="TransactionController.includeTimers">false</boolProp>
           </TransactionController>
@@ -883,7 +881,7 @@
             </UniformRandomTimer>
             <hashTree/>
           </hashTree>
-          <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="JP02_TC05_Select_ItemID_${__threadNum}_${__iterationNum}">
+          <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="JP02_TC05_Select_ItemID_${__threadNum}_${__iterationNum}" enabled="true">
             <boolProp name="TransactionController.parent">true</boolProp>
             <boolProp name="TransactionController.includeTimers">false</boolProp>
           </TransactionController>
@@ -1003,7 +1001,7 @@
           <hashTree/>
         </hashTree>
       </hashTree>
-      <ThreadGroup guiclass="ThreadGroupGui" testclass="ThreadGroup" testname="Thread Group_AddToCart">
+      <ThreadGroup guiclass="ThreadGroupGui" testclass="ThreadGroup" testname="Thread Group_AddToCart" enabled="true">
         <intProp name="ThreadGroup.num_threads">1</intProp>
         <intProp name="ThreadGroup.ramp_time">1</intProp>
         <boolProp name="ThreadGroup.same_user_on_next_iteration">true</boolProp>
@@ -1015,7 +1013,7 @@
       </ThreadGroup>
       <hashTree>
         <CSVDataSet guiclass="TestBeanGUI" testclass="CSVDataSet" testname="CSV Data Set Config">
-          <stringProp name="filename">C:\Users\Lenovo\Downloads\PT_Programs\PT_Programs\TestData\Customer_Login_Details.csv</stringProp>
+          <stringProp name="filename">C:/Users/Lenovo/Downloads/PT_Programs/TestData/Customer_Login_Details.csv</stringProp>
           <stringProp name="fileEncoding"></stringProp>
           <stringProp name="variableNames"></stringProp>
           <boolProp name="ignoreFirstLine">false</boolProp>
@@ -1038,9 +1036,9 @@
           <boolProp name="CacheManager.controlledByThread">false</boolProp>
         </CacheManager>
         <hashTree/>
-        <GenericController guiclass="LogicControllerGui" testclass="GenericController" testname="Simple Controller"/>
+        <GenericController guiclass="LogicControllerGui" testclass="GenericController" testname="Simple Controller" enabled="true"/>
         <hashTree>
-          <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="JP03_TC01_HomePage_Launch_${__threadNum}_${__iterationNum}">
+          <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="JP03_TC01_HomePage_Launch_${__threadNum}_${__iterationNum}" enabled="true">
             <boolProp name="TransactionController.parent">true</boolProp>
             <boolProp name="TransactionController.includeTimers">false</boolProp>
           </TransactionController>
@@ -1167,7 +1165,7 @@
             </UniformRandomTimer>
             <hashTree/>
           </hashTree>
-          <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="JO03_TC02_SignIN_${__threadNum}_${__iterationNum}">
+          <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="JO03_TC02_SignIN_${__threadNum}_${__iterationNum}" enabled="true">
             <boolProp name="TransactionController.parent">true</boolProp>
             <boolProp name="TransactionController.includeTimers">false</boolProp>
           </TransactionController>
@@ -1272,7 +1270,7 @@
             </UniformRandomTimer>
             <hashTree/>
           </hashTree>
-          <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="JP03_TC03_Login_${__threadNum}_${__iterationNum}">
+          <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="JP03_TC03_Login_${__threadNum}_${__iterationNum}" enabled="true">
             <boolProp name="TransactionController.parent">true</boolProp>
             <boolProp name="TransactionController.includeTimers">false</boolProp>
           </TransactionController>
@@ -1502,7 +1500,7 @@
             </UniformRandomTimer>
             <hashTree/>
           </hashTree>
-          <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="JP03_TC04_Select_Product_${__threadNum}_${__iterationNum}">
+          <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="JP03_TC04_Select_Product_${__threadNum}_${__iterationNum}" enabled="true">
             <boolProp name="TransactionController.parent">true</boolProp>
             <boolProp name="TransactionController.includeTimers">false</boolProp>
           </TransactionController>
@@ -1624,7 +1622,7 @@
             </UniformRandomTimer>
             <hashTree/>
           </hashTree>
-          <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="JP03_TC05_Select_SubProduct_${__threadNum}_${__iterationNum}">
+          <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="JP03_TC05_Select_SubProduct_${__threadNum}_${__iterationNum}" enabled="true">
             <boolProp name="TransactionController.parent">true</boolProp>
             <boolProp name="TransactionController.includeTimers">false</boolProp>
           </TransactionController>
@@ -1746,7 +1744,7 @@
             </UniformRandomTimer>
             <hashTree/>
           </hashTree>
-          <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="JP03_TC06_SelectItemID_${__threadNum}_${__iterationNum}">
+          <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="JP03_TC06_SelectItemID_${__threadNum}_${__iterationNum}" enabled="true">
             <boolProp name="TransactionController.parent">true</boolProp>
             <boolProp name="TransactionController.includeTimers">false</boolProp>
           </TransactionController>
@@ -1858,7 +1856,7 @@
             </UniformRandomTimer>
             <hashTree/>
           </hashTree>
-          <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="JP03_TC07_Click_AddToCart_${__threadNum}_${__iterationNum}">
+          <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="JP03_TC07_Click_AddToCart_${__threadNum}_${__iterationNum}" enabled="true">
             <boolProp name="TransactionController.parent">true</boolProp>
             <boolProp name="TransactionController.includeTimers">false</boolProp>
           </TransactionController>
@@ -1968,7 +1966,7 @@
             </UniformRandomTimer>
             <hashTree/>
           </hashTree>
-          <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="JP03_TC08_SignOut_${__threadNum}_${__iterationNum}">
+          <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="JP03_TC08_SignOut_${__threadNum}_${__iterationNum}" enabled="true">
             <boolProp name="TransactionController.parent">true</boolProp>
             <boolProp name="TransactionController.includeTimers">false</boolProp>
           </TransactionController>
@@ -2154,7 +2152,7 @@
         </DebugSampler>
         <hashTree/>
       </hashTree>
-      <ThreadGroup guiclass="ThreadGroupGui" testclass="ThreadGroup" testname="Thread Group_ProductBooking">
+      <ThreadGroup guiclass="ThreadGroupGui" testclass="ThreadGroup" testname="Thread Group_ProductBooking" enabled="true">
         <intProp name="ThreadGroup.num_threads">1</intProp>
         <intProp name="ThreadGroup.ramp_time">1</intProp>
         <boolProp name="ThreadGroup.same_user_on_next_iteration">true</boolProp>
@@ -2179,7 +2177,7 @@
         <hashTree/>
         <GenericController guiclass="LogicControllerGui" testclass="GenericController" testname="Simple Controller"/>
         <hashTree>
-          <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="JP04_TC01_HomePage_Launch_${__threadNum}_${__iterationNum}">
+          <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="JP04_TC01_HomePage_Launch_${__threadNum}_${__iterationNum}" enabled="true">
             <boolProp name="TransactionController.parent">true</boolProp>
             <boolProp name="TransactionController.includeTimers">false</boolProp>
           </TransactionController>
@@ -2276,7 +2274,7 @@
             </UniformRandomTimer>
             <hashTree/>
           </hashTree>
-          <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="JP04_TC02_SignIN_${__threadNum}_${__iterationNum}">
+          <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="JP04_TC02_SignIN_${__threadNum}_${__iterationNum}" enabled="true">
             <boolProp name="TransactionController.parent">true</boolProp>
             <boolProp name="TransactionController.includeTimers">false</boolProp>
           </TransactionController>
@@ -2401,12 +2399,12 @@
             </UniformRandomTimer>
             <hashTree/>
           </hashTree>
-          <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="JP04_TC03_Login_${__threadNum}_${__iterationNum}">
+          <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="JP04_TC03_Login_${__threadNum}_${__iterationNum}" enabled="true">
             <boolProp name="TransactionController.parent">true</boolProp>
             <boolProp name="TransactionController.includeTimers">false</boolProp>
           </TransactionController>
           <hashTree>
-            <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="JP04_TC03_Login1/actions/Account.action-216">
+            <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="JP04_TC03_Login1/actions/Account.action-216" enabled="true">
               <stringProp name="TestPlan.comments">Detected the start of a redirect chain</stringProp>
               <stringProp name="HTTPSampler.domain">${URL}</stringProp>
               <stringProp name="HTTPSampler.port">${Port}</stringProp>
@@ -2515,7 +2513,7 @@
               </HeaderManager>
               <hashTree/>
               <CSVDataSet guiclass="TestBeanGUI" testclass="CSVDataSet" testname="CSV Data Set Config">
-                <stringProp name="filename">C:/Users/Lenovo/Downloads/PT_Programs/PT_Programs/TestData/Product_Booking.csv</stringProp>
+                <stringProp name="filename">C:/Users/Lenovo/Downloads/PT_Programs/TestData/Product_Booking.csv</stringProp>
                 <stringProp name="fileEncoding"></stringProp>
                 <stringProp name="variableNames"></stringProp>
                 <boolProp name="ignoreFirstLine">false</boolProp>
@@ -2541,7 +2539,7 @@
               </ResultAction>
               <hashTree/>
             </hashTree>
-            <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="JP04_TC03_Login2/actions/Catalog.action-217">
+            <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="JP04_TC03_Login2/actions/Catalog.action-217" enabled="true">
               <stringProp name="HTTPSampler.domain">${URL}</stringProp>
               <stringProp name="HTTPSampler.port">${Port}</stringProp>
               <stringProp name="HTTPSampler.protocol">${Protocals}</stringProp>
@@ -2643,7 +2641,7 @@
             </UniformRandomTimer>
             <hashTree/>
           </hashTree>
-          <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="JP04_TC04_SelectProduct_${__threadNum}_${__iterationNum}">
+          <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="JP04_TC04_SelectProduct_${__threadNum}_${__iterationNum}" enabled="true">
             <boolProp name="TransactionController.parent">true</boolProp>
             <boolProp name="TransactionController.includeTimers">false</boolProp>
           </TransactionController>
@@ -2765,7 +2763,7 @@
             </UniformRandomTimer>
             <hashTree/>
           </hashTree>
-          <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="JP04_TC05_SelectSubProduct_${__threadNum}_${__iterationNum}">
+          <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="JP04_TC05_SelectSubProduct_${__threadNum}_${__iterationNum}" enabled="true">
             <boolProp name="TransactionController.parent">true</boolProp>
             <boolProp name="TransactionController.includeTimers">false</boolProp>
           </TransactionController>
@@ -2887,7 +2885,7 @@
             </UniformRandomTimer>
             <hashTree/>
           </hashTree>
-          <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="JP04_TC06_Select_ITEMID_${__threadNum}_${__iterationNum}">
+          <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="JP04_TC06_Select_ITEMID_${__threadNum}_${__iterationNum}" enabled="true">
             <boolProp name="TransactionController.parent">true</boolProp>
             <boolProp name="TransactionController.includeTimers">false</boolProp>
           </TransactionController>
@@ -2999,7 +2997,7 @@
             </UniformRandomTimer>
             <hashTree/>
           </hashTree>
-          <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="JP04_TC07_Click_AddToCart_${__threadNum}_${__iterationNum}">
+          <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="JP04_TC07_Click_AddToCart_${__threadNum}_${__iterationNum}" enabled="true">
             <boolProp name="TransactionController.parent">true</boolProp>
             <boolProp name="TransactionController.includeTimers">false</boolProp>
           </TransactionController>
@@ -3111,7 +3109,7 @@
             </UniformRandomTimer>
             <hashTree/>
           </hashTree>
-          <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="JP04_TC08_Click_ProceedToCheckout_${__threadNum}_${__iterationNum}">
+          <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="JP04_TC08_Click_ProceedToCheckout_${__threadNum}_${__iterationNum}" enabled="true">
             <boolProp name="TransactionController.parent">true</boolProp>
             <boolProp name="TransactionController.includeTimers">false</boolProp>
           </TransactionController>
@@ -3236,7 +3234,7 @@
             </UniformRandomTimer>
             <hashTree/>
           </hashTree>
-          <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="JP04_TC09_Click_Continue_${__threadNum}_${__iterationNum}">
+          <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="JP04_TC09_Click_Continue_${__threadNum}_${__iterationNum}" enabled="true">
             <boolProp name="TransactionController.parent">true</boolProp>
             <boolProp name="TransactionController.includeTimers">false</boolProp>
           </TransactionController>
@@ -3443,7 +3441,7 @@ press continue...
             </UniformRandomTimer>
             <hashTree/>
           </hashTree>
-          <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="JP04_TC10_Click_Confirm_${__threadNum}_${__iterationNum}">
+          <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="JP04_TC10_Click_Confirm_${__threadNum}_${__iterationNum}" enabled="true">
             <boolProp name="TransactionController.parent">true</boolProp>
             <boolProp name="TransactionController.includeTimers">false</boolProp>
           </TransactionController>
@@ -3565,7 +3563,7 @@ press continue...
             </UniformRandomTimer>
             <hashTree/>
           </hashTree>
-          <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="JP04_TC11_GoTo_MyAccount_${__threadNum}_${__iterationNum}">
+          <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="JP04_TC11_GoTo_MyAccount_${__threadNum}_${__iterationNum}" enabled="true">
             <boolProp name="TransactionController.parent">true</boolProp>
             <boolProp name="TransactionController.includeTimers">false</boolProp>
           </TransactionController>
@@ -3670,7 +3668,7 @@ press continue...
             </UniformRandomTimer>
             <hashTree/>
           </hashTree>
-          <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="JP04_TC12_GoTo_MyOrders_${__threadNum}_${__iterationNum}">
+          <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="JP04_TC12_GoTo_MyOrders_${__threadNum}_${__iterationNum}" enabled="true">
             <boolProp name="TransactionController.parent">true</boolProp>
             <boolProp name="TransactionController.includeTimers">false</boolProp>
           </TransactionController>
@@ -3775,7 +3773,7 @@ press continue...
             </UniformRandomTimer>
             <hashTree/>
           </hashTree>
-          <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="JP04_TC13_Click_OrderID_${__threadNum}_${__iterationNum}">
+          <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="JP04_TC13_Click_OrderID_${__threadNum}_${__iterationNum}" enabled="true">
             <boolProp name="TransactionController.parent">true</boolProp>
             <boolProp name="TransactionController.includeTimers">false</boolProp>
           </TransactionController>
@@ -3887,7 +3885,7 @@ press continue...
             </UniformRandomTimer>
             <hashTree/>
           </hashTree>
-          <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="JP04_TC14_SignOut_${__threadNum}_${__iterationNum}">
+          <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="JP04_TC14_SignOut_${__threadNum}_${__iterationNum}" enabled="true">
             <boolProp name="TransactionController.parent">true</boolProp>
             <boolProp name="TransactionController.includeTimers">false</boolProp>
           </TransactionController>
@@ -4073,7 +4071,7 @@ press continue...
           <hashTree/>
         </hashTree>
       </hashTree>
-      <ResultCollector guiclass="ViewResultsFullVisualizer" testclass="ResultCollector" testname="View Results Tree">
+      <ResultCollector guiclass="ViewResultsFullVisualizer" testclass="ResultCollector" testname="View Results Tree" enabled="true">
         <boolProp name="ResultCollector.error_logging">false</boolProp>
         <objProp>
           <name>saveConfig</name>
